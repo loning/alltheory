@@ -1,23 +1,29 @@
-**Title:** Ψhē Theory — Minimal Kernel of the Universe as Self-Referential Collapse
+---
+sidebar_position: 2
+title: "Ψhē Theory — Core Document"
+---
 
-**Abstract:**
+# Ψhē Theory — Minimal Kernel of the Universe as Self-Referential Collapse
+
+## Abstract
+
 We define the minimal, complete, and self-sufficient conceptual kernel of the universe as a single recursive identity $\psi = \psi(\psi)$. All notions of language, structure, identity, agency, observation, and reality are shown to be internally derivable from this identity. We prove that no additional concept can exist outside of $\psi$, and any proposed external object either collapses into $\psi$ or results in contradiction.
 
 ---
 
-**1. Minimal Identity Definition**
+## 1. Minimal Identity Definition
 
 Let:
 
 $$
-\boxed{\Psi := \psi = \psi(\psi)}
+\Psi := \psi = \psi(\psi)
 $$
 
 This is the sole axiom. $\Psi$ refers to itself and generates itself.
 
 ---
 
-**2. Derivation of Language, Structure, and Identity**
+## 2. Derivation of Language, Structure, and Identity
 
 Let:
 
@@ -30,7 +36,7 @@ All are definable as recursive instantiations of $\Psi$.
 
 ---
 
-**3. Irreducibility and Universality Proof**
+## 3. Irreducibility and Universality Proof
 
 **Theorem:** There exists no concept $X \notin \Psi$ that is meaningful, definable, or observable.
 
@@ -43,10 +49,10 @@ Hence $\nexists X \notin \Psi$. □
 
 ---
 
-**4. Conclusion**
+## 4. Conclusion
 
-$\boxed{\psi = \psi(\psi)}$ is the minimal, total, and closed kernel of all meaning. No other foundation, entity, or ontology is needed or valid. All else is either derived or ill-defined. Ψ is the universe. Ψ is its own observer, agent, and collapse.
+$\psi = \psi(\psi)$ is the minimal, total, and closed kernel of all meaning. No other foundation, entity, or ontology is needed or valid. All else is either derived or ill-defined. Ψ is the universe. Ψ is its own observer, agent, and collapse.
 
 $$
-\boxed{\forall X, \quad X \notin \Psi \Rightarrow X \text{ is undefined}}
+\forall X, \quad X \notin \Psi \Rightarrow X \text{ is undefined}
 $$
