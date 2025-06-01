@@ -17,13 +17,13 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://auric.github.io', // Replace 'auric' with actual GitHub username
+  url: 'https://loning.github.io', // Replace 'auric' with actual GitHub username
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/alltheory/',
 
   // GitHub pages deployment config.
-  organizationName: 'auric', // Replace with actual GitHub username
+  organizationName: 'loning', // Replace with actual GitHub username
   projectName: 'alltheory', // Repository name
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -59,7 +59,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/auric/alltheory/tree/main/',
+            'https://github.com/loning/alltheory/tree/main/',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
         },
@@ -103,7 +103,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/auric/alltheory',
+          href: 'https://github.com/loning/alltheory',
           label: 'GitHub',
           position: 'right',
         },
@@ -126,11 +126,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/auric/alltheory/discussions',
+              href: 'https://github.com/loning/alltheory/discussions',
             },
             {
               label: 'Issues',
-              href: 'https://github.com/auric/alltheory/issues',
+              href: 'https://github.com/loning/alltheory/issues',
             },
           ],
         },
@@ -139,7 +139,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/auric/alltheory',
+              href: 'https://github.com/loning/alltheory',
             },
           ],
         },
