@@ -36,7 +36,19 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-Hans'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en',
+      },
+      'zh-Hans': {
+        label: '简体中文',
+        direction: 'ltr',
+        htmlLang: 'zh-Hans',
+      },
+    },
   },
 
   presets: [
@@ -85,6 +97,10 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Theory',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
         },
         {
           href: 'https://github.com/auric/alltheory',
