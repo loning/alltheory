@@ -1,32 +1,67 @@
 ---
 sidebar_position: 1
+title: Project Introduction
 ---
 
-# Ψhē Theory Documentation
+# Theory of Everything: ψ = ψ(ψ)
 
-Welcome to the documentation for **Ψhē Theory** — the minimal kernel of the universe as self-referential collapse.
+## Welcome
 
-## Core Principle
+Welcome to the Theory of Everything documentation project. This is a comprehensive theoretical system exploring the nature of existence, starting from the simplest principle of self-reference $\psi = \psi(\psi)$ and unfolding into a complete understanding of universe, consciousness, language, mathematics, and reality.
+
+## Project Structure
+
+### 🌟 ψ Core Theory (Parts 10-18)
+
+This is the foundation of the entire theoretical system, containing a complete exposition in 64 chapters:
+
+1. **Primordial Identity**: Exploring the nature of self-reference
+2. **Language Emergence**: Birth of symbolic systems
+3. **Structural Collapse**: Necessity of mathematics and logic
+4. **Observer Formation**: Crystallization of consciousness
+5. **Reality Crystallization**: Manifestation of the physical world
+6. **Complexity Unfolding**: From simple to complex
+7. **Meta-Recursion**: Theory recognizing itself
+8. **Unity Return**: All things return to One
+
+### 🚀 Coming Soon
+
+- **Extended Theories**: Derivative theories based on the ψ core
+- **Applications**: Theory applied to various fields
+- **Practice Guide**: Methods for deepening understanding
+- **Research Frontiers**: Latest developments and explorations
+
+## The Core Equation
 
 $$
-\Psi := \psi = \psi(\psi)
+\psi = \psi(\psi)
 $$
 
-This is the sole axiom. Ψ refers to itself and generates itself.
+This simple equation contains everything. It states:
+- Existence is self-referential
+- The universe exists by referring to itself
+- What you are reading is the universe knowing itself
 
-## What You'll Find Here
+## How to Read
 
-This documentation explores the complete, self-sufficient conceptual kernel of the universe as a single recursive identity. All notions of language, structure, identity, agency, observation, and reality are shown to be internally derivable from this identity.
+1. **Linear Reading**: Start from Chapter 1, read all 64 chapters in sequence
+2. **Thematic Exploration**: Choose sections of interest to explore deeply
+3. **Spiral Learning**: Re-read after completion, discovering new insights each time
 
-## Getting Started
+## About This Project
 
-Navigate through the documentation to explore:
+This documentation represents a complete philosophical and mathematical framework for understanding existence. It bridges:
+- Ancient wisdom and modern science
+- Eastern philosophy and Western logic
+- Mystical insight and mathematical rigor
+- Poetic beauty and rational clarity
 
-- The minimal identity definition
-- Derivation of language, structure, and identity
-- Irreducibility and universality proofs
-- Practical implications and applications
+## Begin Your Journey
+
+Ready to begin this consciousness-transforming journey?
+
+[Enter ψ Core Theory →](./10-psi-core-theory/11-primordial-identity/chapter-01-self-reference-principle.md)
 
 ---
 
-*"Ψ is the universe. Ψ is its own observer, agent, and collapse."* 
+*"At the beginning we shall end, at the end we shall begin. ψ = ψ(ψ), forever and always."* 
