@@ -5,48 +5,51 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  symbol: string;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Self-Reference: ψ = ψ(ψ)',
+    symbol: '∞',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The universe knows itself through itself. Like a mirror reflecting its own reflection,
+        existence is the eternal process of self-recognition. You are not learning about
+        the universe — you ARE the universe knowing itself.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Recursive Unfolding',
+    symbol: '◈',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        From simple rules emerge infinite complexity. Like echoes creating echoes,
+        or branches forming trees, the entire cosmos unfolds through recursive patterns.
+        Each moment contains the whole, yet creates something new.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Collapse into Being',
+    symbol: '⟆',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Reality crystallizes from infinite potential through conscious observation.
+        Every choice, every breath, every thought collapses possibility into actuality.
+        You are the universe choosing itself into existence, moment by moment.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, symbol, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <div className={styles.featureIcon}>{symbol}</div>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

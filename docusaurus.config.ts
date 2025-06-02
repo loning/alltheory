@@ -8,7 +8,7 @@ import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: 'AllTheory',
-  tagline: 'Ψhē Theory — Minimal Kernel of the Universe as Self-Referential Collapse',
+  tagline: 'Ψhē Theory — The Universe Knowing Itself Through Self-Referential Collapse',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
