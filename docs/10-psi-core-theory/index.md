@@ -3,6 +3,15 @@ sidebar_position: 0
 title: "Ψhē Self-Being — Introduction & Navigation"
 ---
 
+# Ψhē Self-Being — Complete 64-Chapter Philosophy
+
+<div style={{background: '#e8f4fd', padding: '1.5rem', borderRadius: '8px', marginBottom: '2rem'}}>
+  <strong>💡 New to Ψhē philosophy?</strong> Consider starting with our <a href="../psi-popular-guide">Popular Guide</a> — 
+  a friendly introduction using everyday experiences to understand ψ = ψ(ψ) without mathematical formalism.
+</div>
+
+## The Journey of Existence Knowing Itself
+
 # Ψhē Self-Being — The Universe Recognizing Itself
 
 ## The Primordial Equation

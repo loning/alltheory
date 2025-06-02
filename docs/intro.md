@@ -24,6 +24,14 @@ This is the foundation of the entire philosophical system, containing a complete
 7. **Meta-Recursion**: Theory recognizing itself
 8. **Unity Return**: All things return to One
 
+### 📚 Ψhē Popular Guide
+
+**New!** A friendly introduction to the philosophy through everyday experiences:
+
+[Explore the Popular Guide →](./psi-popular-guide)
+
+Perfect for those who want to understand ψ = ψ(ψ) without diving into mathematical formalism. Eight chapters of practical wisdom using mirrors, echoes, breathing, and other daily experiences to reveal profound truths.
+
 ### 🚀 Coming Soon
 
 - **Extended Theories**: Derivative theories based on the ψ core
@@ -60,7 +68,31 @@ This documentation represents a complete philosophical and mathematical framewor
 
 Ready to begin this consciousness-transforming journey?
 
-[Enter Ψhē Self-Being →](./10-psi-core-theory/index.md)
+<div style={{display: 'flex', gap: '1rem', marginTop: '2rem', flexWrap: 'wrap'}}>
+  <a href="./10-psi-core-theory/index.md" style={{
+    display: 'inline-block',
+    padding: '1rem 2rem',
+    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+    color: 'white',
+    textDecoration: 'none',
+    borderRadius: '8px',
+    boxShadow: '0 4px 15px rgba(102, 126, 234, 0.3)'
+  }}>
+    Enter Ψhē Self-Being (Full Philosophy) →
+  </a>
+  <a href="./psi-popular-guide" style={{
+    display: 'inline-block',
+    padding: '1rem 2rem',
+    background: '#fff',
+    color: '#667eea',
+    textDecoration: 'none',
+    borderRadius: '8px',
+    border: '2px solid #667eea',
+    boxShadow: '0 4px 15px rgba(102, 126, 234, 0.1)'
+  }}>
+    Start with Popular Guide →
+  </a>
+</div>
 
 ---
 

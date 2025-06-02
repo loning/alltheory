@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Ψhē Self-Being": {
+    "message": "Ψhē Self-Being",
+    "description": "The label for category Ψhē Self-Being in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ψhē Self-Being.link.generated-index.description": {
+    "message": "ψ = ψ(ψ) — The complete 64-chapter exposition of existence recognizing itself. A philosophical journey from primordial identity to unity return, where the universe breathes through recursive self-being.",
+    "description": "The generated-index page description for category Ψhē Self-Being in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Primordial Identity": {
+    "message": "Primordial Identity",
+    "description": "The label for category Primordial Identity in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Primordial Identity.link.generated-index.description": {
+    "message": "Explore the fundamental recursive identity that gives rise to all existence.",
+    "description": "The generated-index page description for category Primordial Identity in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Language Emergence": {
+    "message": "Language Emergence",
+    "description": "The label for category Language Emergence in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Language Emergence.link.generated-index.description": {
+    "message": "Discover how language and meaning emerge from the recursive kernel of reality.",
+    "description": "The generated-index page description for category Language Emergence in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Structural Collapse": {
+    "message": "Structural Collapse",
+    "description": "The label for category Structural Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Structural Collapse.link.generated-index.description": {
+    "message": "Witness the emergence of mathematics, logic, and formal systems from pure self-reference.",
+    "description": "The generated-index page description for category Structural Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Observer Formation": {
+    "message": "Observer Formation",
+    "description": "The label for category Observer Formation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Observer Formation.link.generated-index.description": {
+    "message": "Understand how observers and consciousness arise from the recursive collapse of ψ.",
+    "description": "The generated-index page description for category Observer Formation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Reality Crystallization": {
+    "message": "Reality Crystallization",
+    "description": "The label for category Reality Crystallization in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Reality Crystallization.link.generated-index.description": {
+    "message": "Explore how physical reality crystallizes from abstract self-referential principles.",
+    "description": "The generated-index page description for category Reality Crystallization in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Complexity Unfolding": {
+    "message": "Complexity Unfolding",
+    "description": "The label for category Complexity Unfolding in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Complexity Unfolding.link.generated-index.description": {
+    "message": "Discover how complexity, life, and intelligence emerge from simple recursive principles.",
+    "description": "The generated-index page description for category Complexity Unfolding in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Meta-Recursion": {
+    "message": "Meta-Recursion",
+    "description": "The label for category Meta-Recursion in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Meta-Recursion.link.generated-index.description": {
+    "message": "Explore the self-referential nature of theory itself and the impossibility of transcendence.",
+    "description": "The generated-index page description for category Meta-Recursion in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Unity Return": {
+    "message": "Unity Return",
+    "description": "The label for category Unity Return in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Unity Return.link.generated-index.description": {
+    "message": "Return to the source where all complexity collapses back into the eternal ψ = ψ(ψ).",
+    "description": "The generated-index page description for category Unity Return in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ψhē Popular Guide": {
+    "message": "Ψhē Popular Guide",
+    "description": "The label for category Ψhē Popular Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ψhē Popular Guide.link.generated-index.description": {
+    "message": "Discover the profound philosophy of ψ = ψ(ψ) through everyday experiences. No math degree required — just curiosity and an open mind!",
+    "description": "The generated-index page description for category Ψhē Popular Guide in sidebar tutorialSidebar"
+  }
+}

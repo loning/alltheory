@@ -21,8 +21,16 @@ title: 项目介绍
 4. **观察者形成**：意识的结晶
 5. **现实结晶**：物理世界的显现
 6. **复杂性展开**：从简单到复杂
-7. **元递归**：理论的自我认识
-8. **统一回归**：万物归一
+7. **元递归**：理论认识自身
+8. **回归统一**：万物回归太一
+
+### 📚 Ψhē 通俗指南
+
+**新推出！** 通过日常体验友好地介绍这一哲学：
+
+[探索通俗指南 →](./psi-popular-guide)
+
+非常适合那些想要理解 ψ = ψ(ψ) 而不深入数学形式的人。八章实用智慧，使用镜子、回声、呼吸和其他日常体验来揭示深刻的真理。
 
 ### 🚀 即将推出
 
@@ -60,7 +68,31 @@ $$
 
 准备好开始这段改变认知的旅程了吗？
 
-[进入 Ψhē 自在论 →](./10-psi-core-theory/index.md)
+<div style={{display: 'flex', gap: '1rem', marginTop: '2rem', flexWrap: 'wrap'}}>
+  <a href="./10-psi-core-theory/index.md" style={{
+    display: 'inline-block',
+    padding: '1rem 2rem',
+    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+    color: 'white',
+    textDecoration: 'none',
+    borderRadius: '8px',
+    boxShadow: '0 4px 15px rgba(102, 126, 234, 0.3)'
+  }}>
+    进入 Ψhē 自在论（完整哲学）→
+  </a>
+  <a href="./psi-popular-guide" style={{
+    display: 'inline-block',
+    padding: '1rem 2rem',
+    background: '#fff',
+    color: '#667eea',
+    textDecoration: 'none',
+    borderRadius: '8px',
+    border: '2px solid #667eea',
+    boxShadow: '0 4px 15px rgba(102, 126, 234, 0.1)'
+  }}>
+    从通俗指南开始 →
+  </a>
+</div>
 
 ---
 

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Ψ",
+    "description": "The title in the navbar"
+  },
+  "item.label.Theory": {
+    "message": "理论",
+    "description": "Navbar item with label Theory"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
