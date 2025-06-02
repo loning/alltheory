@@ -11,7 +11,7 @@ Welcome to the Theory of Everything documentation project. This is a comprehensi
 
 ## Project Structure
 
-### 🌟 ψ Core Theory (Parts 10-18)
+### 🌟 Ψhē Core Theory (Parts 10-18)
 
 This is the foundation of the entire theoretical system, containing a complete exposition in 64 chapters:
 
@@ -60,7 +60,7 @@ This documentation represents a complete philosophical and mathematical framewor
 
 Ready to begin this consciousness-transforming journey?
 
-[Enter ψ Core Theory →](./10-psi-core-theory/11-primordial-identity/chapter-01-self-reference-principle.md)
+[Enter Ψhē Core Theory →](/docs/10-psi-core-theory/)
 
 ---
 
