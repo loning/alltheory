@@ -27,10 +27,10 @@ $$
 
 ## 波粒非二元
 
-量子力学显示：
+量子力学向我们展示了这一点：
 
 $$
-|\psi\rangle = \alpha|波\rangle + \beta|粒子\rangle
+|\psi\rangle = \alpha|\text{wave}\rangle + \beta|\text{particle}\rangle
 $$
 
 不是有时波，有时粒子，而是总是两者/都不是。二元只存在于测量中，不在现实中。

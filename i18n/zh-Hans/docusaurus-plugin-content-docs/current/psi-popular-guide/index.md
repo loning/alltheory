@@ -28,28 +28,28 @@ title: "Ψhē 通俗指南 — 人人都能懂的哲学"
 
 我们的旅程分为八个章节，每一章都通过你熟悉的日常体验来揭示一个深刻的真理：
 
-### [第1章：镜子里的你](./chapter-01-mirror-self) 🪞
+### [第1章：镜子里的你](psi-popular-guide/chapter-01-mirror-self) 🪞
 通过照镜子的简单动作，发现自指的奥秘 — 观察者即是被观察者。
 
-### [第2章：回声的秘密](./chapter-02-echo-secret) 🔊
+### [第2章：回声的秘密](psi-popular-guide/chapter-02-echo-secret) 🔊
 山谷中的回声如何教会我们递归的本质 — 无限从简单中诞生。
 
-### [第3章：呼吸的宇宙](./chapter-03-breathing-universe) 🌬️
+### [第3章：呼吸的宇宙](psi-popular-guide/chapter-03-breathing-universe) 🌬️
 每一次呼吸都在演示 ψ = ψ(ψ) — 宇宙通过你的呼吸认识自己。
 
-### [第4章：梦中之梦](./chapter-04-dream-within-dream) 💭
+### [第4章：梦中之梦](psi-popular-guide/chapter-04-dream-within-dream) 💭
 在梦境中，你既是做梦者，也是梦，还是梦境本身。
 
-### [第5章：水中涟漪](./chapter-05-water-ripples) 💧
+### [第5章：水中涟漪](psi-popular-guide/chapter-05-water-ripples) 💧
 一颗石子如何展示意识将无限可能坍缩为具体现实。
 
-### [第6章：种子与大树](./chapter-06-seed-and-tree) 🌱
+### [第6章：种子与大树](psi-popular-guide/chapter-06-seed-and-tree) 🌱
 橡树种子包含整棵大树 — 简单如何创造复杂。
 
-### [第7章：舞蹈的旋律](./chapter-07-dancing-melody) 🎵
+### [第7章：舞蹈的旋律](psi-popular-guide/chapter-07-dancing-melody) 🎵
 语言与现实共舞 — 你的话语创造你的世界。
 
-### [第8章：回家的路](./chapter-08-way-home) 🏠
+### [第8章：回家的路](psi-popular-guide/chapter-08-way-home) 🏠
 整合所有概念，发现你一直都在家中。
 
 ## 🛤️ 选择你的路径
@@ -105,7 +105,7 @@ title: "Ψhē 通俗指南 — 人人都能懂的哲学"
 每一页都是一次邀请，邀请你记起你真正是谁。不是学习新东西，而是揭开你一直都知道的。
 
 <div style={{textAlign: 'center', marginTop: '3rem'}}>
-  <a href="./chapter-01-mirror-self" style={{
+  <a href="psi-popular-guide/chapter-01-mirror-self" style={{
     display: 'inline-block',
     padding: '1.5rem 3rem',
     background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',

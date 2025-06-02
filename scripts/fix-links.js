@@ -30,11 +30,12 @@ async function fixLinks() {
 
     for (const file of files) {
       const content = await fs.readFile(file, 'utf8');
+      let newContent = content;
       let modified = false;
       let fixCount = 0;
 
       // Replace .md extensions in links, but not for external URLs
-      let newContent = content.replace(/\]\(([^)]+?)\.md\)/g, (match, linkPath) => {
+      newContent = newContent.replace(/\]\(([^)]+?)\.md\)/g, (match, linkPath) => {
         // Skip external links (http://, https://, ftp://, etc.)
         if (linkPath.match(/^[a-zA-Z]+:\/\//)) {
           return match;
@@ -51,8 +52,44 @@ async function fixLinks() {
         return `](${linkPath})`;
       });
 
+      // Fix links from psi-popular-guide to psi-core-theory
+      if (file.includes('psi-popular-guide')) {
+        newContent = newContent
+          .replace(/\]\(\.\.\/(10-psi-core-theory|psi-core-theory)\)/g, (match) => {
+            modified = true;
+            fixCount++;
+            return `](../psi-core-theory)`;
+          })
+          .replace(/href="\.\.\/psi-core-theory"/g, (match) => {
+            return match; // Keep as is
+          })
+          .replace(/href="\.\.\/10-psi-core-theory"/g, (match) => {
+            modified = true;
+            fixCount++;
+            return 'href="../psi-core-theory"';
+          });
+      }
+
+      // Fix links in psi-core-theory index.md (remove numeric prefixes)
+      if (file.includes('psi-core-theory/index.md')) {
+        newContent = newContent
+          .replace(/\]\(\.\/11-primordial-identity\//g, '](./primordial-identity/')
+          .replace(/\]\(\.\/12-language-emergence\//g, '](./language-emergence/')
+          .replace(/\]\(\.\/13-structural-collapse\//g, '](./structural-collapse/')
+          .replace(/\]\(\.\/14-observer-formation\//g, '](./observer-formation/')
+          .replace(/\]\(\.\/15-reality-crystallization\//g, '](./reality-crystallization/')
+          .replace(/\]\(\.\/16-complexity-unfolding\//g, '](./complexity-unfolding/')
+          .replace(/\]\(\.\/17-meta-recursion\//g, '](./meta-recursion/')
+          .replace(/\]\(\.\/18-unity-return\//g, '](./unity-return/');
+        
+        if (newContent !== content) {
+          modified = true;
+          fixCount += 8;
+        }
+      }
+
       // Fix cross-directory links - remove numeric prefixes
-      if (file.includes('10-psi-core-theory') && !file.includes('index.md')) {
+      if (file.includes('psi-core-theory') && !file.includes('index.md')) {
         newContent = newContent
           .replace(/\]\(\.\.\/(11-primordial-identity|12-language-emergence|13-structural-collapse|14-observer-formation|15-reality-crystallization|16-complexity-unfolding|17-meta-recursion|18-unity-return)\//g, (match, section) => {
             // Map numeric prefixes to clean names
@@ -66,106 +103,41 @@ async function fixLinks() {
               '17-meta-recursion': 'meta-recursion',
               '18-unity-return': 'unity-return'
             };
-            modified = true;
-            fixCount++;
-            return `](../${mapping[section]}/`;
+            
+            const cleanName = mapping[section];
+            if (cleanName) {
+              modified = true;
+              fixCount++;
+              return `](../${cleanName}/`;
+            }
+            return match;
           });
-      }
-
-      // Fix links from psi-popular-guide to psi-core-theory
-      if (file.includes('psi-popular-guide')) {
-        newContent = newContent
-          .replace(/\]\(\.\.\/(10-psi-core-theory)\/index\)/g, (match, section) => {
-            modified = true;
-            fixCount++;
-            return `](../psi-core-theory)`;
-          })
-          .replace(/\]\(\.\.\/(10-psi-core-theory)\)/g, (match, section) => {
-            modified = true;
-            fixCount++;
-            return `](../psi-core-theory)`;
-          })
-          .replace(/href="\.\.\/10-psi-core-theory"/g, (match) => {
-            modified = true;
-            fixCount++;
-            return 'href="../psi-core-theory"';
-          })
-          .replace(/href="\.\.\.\.\/10-psi-core-theory"/g, (match) => {
-            modified = true;
-            fixCount++;
-            return 'href="../../psi-core-theory"';
-          });
-      }
-
-      // Fix links in psi-core-theory index.md
-      if (file.includes('10-psi-core-theory/index.md')) {
-        newContent = newContent
-          .replace(/\]\(\.\/11-primordial-identity\//g, '](./primordial-identity/')
-          .replace(/\]\(\.\/12-language-emergence\//g, '](./language-emergence/')
-          .replace(/\]\(\.\/13-structural-collapse\//g, '](./structural-collapse/')
-          .replace(/\]\(\.\/14-observer-formation\//g, '](./observer-formation/')
-          .replace(/\]\(\.\/15-reality-crystallization\//g, '](./reality-crystallization/')
-          .replace(/\]\(\.\/16-complexity-unfolding\//g, '](./complexity-unfolding/')
-          .replace(/\]\(\.\/17-meta-recursion\//g, '](./meta-recursion/')
-          .replace(/\]\(\.\/18-unity-return\//g, '](./unity-return/');
-        
-        if (newContent !== content) {
-          modified = true;
-          fixCount = (newContent.match(/\]\(\.\//g) || []).length;
-        }
-      }
-
-      // Fix English version placeholder links
-      if (file.includes('docs/10-psi-core-theory/index.md')) {
-        newContent = newContent
-          .replace('[Chapter 25: Observer Formation](#)', '[Chapter 25: Observer Formation](./14-observer-formation/chapter-25-crystallization-of-observers)')
-          .replace('[Chapter 57: Unity Return](#)', '[Chapter 57: Unity Return](./18-unity-return/chapter-57-all-things-return-to-one)');
-        
-        if (newContent !== content) {
-          modified = true;
-          fixCount += 2;
-        }
-      }
-
-      // Fix Chinese version placeholder links
-      if (file.includes('i18n/zh-Hans') && file.includes('10-psi-core-theory/index.md')) {
-        newContent = newContent
-          .replace('[第25章：观察者形成](#)', '[第25章：观察者形成](./14-observer-formation/chapter-25-crystallization-of-observers)')
-          .replace('[第57章：统一回归](#)', '[第57章：统一回归](./18-unity-return/chapter-57-all-things-return-to-one)');
-        
-        if (newContent !== content) {
-          modified = true;
-          fixCount += 2;
-        }
       }
 
       if (modified) {
         await fs.writeFile(file, newContent, 'utf8');
         filesModified++;
         totalFixed += fixCount;
-        console.log(`${colors.green}✓${colors.reset} Fixed ${colors.yellow}${fixCount}${colors.reset} link(s) in: ${file}`);
+        console.log(`${colors.green}✓${colors.reset} Fixed ${colors.yellow}${fixCount}${colors.reset} links in ${file}`);
       }
     }
 
     console.log(`\n${colors.green}${colors.bright}Summary:${colors.reset}`);
-    console.log(`- Total files processed: ${colors.yellow}${files.length}${colors.reset}`);
+    console.log(`- Files processed: ${files.length}`);
     console.log(`- Files modified: ${colors.yellow}${filesModified}${colors.reset}`);
     console.log(`- Total links fixed: ${colors.yellow}${totalFixed}${colors.reset}`);
     
-    if (totalFixed === 0) {
-      console.log(`\n${colors.blue}No links needed fixing. All links are already in the correct format!${colors.reset}`);
+    if (filesModified === 0) {
+      console.log(`\n${colors.blue}No links needed fixing. All good! 🎉${colors.reset}`);
     } else {
-      console.log(`\n${colors.green}${colors.bright}Link format fix completed successfully!${colors.reset}`);
+      console.log(`\n${colors.green}Link fixing complete! 🚀${colors.reset}`);
     }
 
   } catch (error) {
-    console.error(`${colors.red}Error:${colors.reset}`, error.message);
+    console.error(`${colors.red}Error:${colors.reset}`, error);
     process.exit(1);
   }
 }
 
 // Run the script
-fixLinks().catch(error => {
-  console.error(`${colors.red}Unexpected error:${colors.reset}`, error);
-  process.exit(1);
-}); 
+fixLinks().catch(console.error); 

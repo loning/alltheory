@@ -117,7 +117,7 @@ No prerequisites needed. No math degree required. Just bring:
 - Willingness to see the ordinary as extraordinary
 
 <div style={{textAlign: 'center', margin: '3rem 0'}}>
-  <a href="./chapter-01-mirror-self" style={{
+  <a href="psi-popular-guide/chapter-01-mirror-self" style={{
     display: 'inline-block',
     padding: '1rem 2rem',
     fontSize: '1.2rem',

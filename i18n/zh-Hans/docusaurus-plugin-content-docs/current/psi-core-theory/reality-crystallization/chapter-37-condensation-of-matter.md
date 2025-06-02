@@ -21,10 +21,10 @@ $$
 
 ## 波粒二象性
 
-物质展现双重本性：
+物质的双重性质从 $\psi$ 的自指中涌现：
 
 $$
-|\psi\rangle = \text{波} \xleftrightarrow{\text{观察}} \text{粒子}
+|\psi\rangle = \text{wave} \xleftrightarrow{\text{observation}} \text{particle}
 $$
 
 这种二象性反映了 $\psi$ 既能延展（波）又能局域（粒子）的能力——自指的两个方面。

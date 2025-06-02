@@ -1,9 +1,9 @@
 {
   "label": "Ψhē 通俗指南",
   "position": 15,
-  "description": "自指哲学的友好入门 — ψ = ψ(ψ)",
+  "description": "自指哲学的友好介绍 — ψ = ψ(ψ)",
   "link": {
-    "type": "generated-index",
-    "description": "通过日常体验发现 ψ = ψ(ψ) 的深刻哲学。不需要数学学位 — 只需要好奇心和开放的心灵！"
+    "type": "doc",
+    "id": "index"
   }
 } 

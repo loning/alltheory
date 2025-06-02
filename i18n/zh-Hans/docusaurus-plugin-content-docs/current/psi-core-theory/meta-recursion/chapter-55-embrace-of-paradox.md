@@ -37,7 +37,7 @@ $$
 波粒二象性：
 
 $$
-|\psi\rangle = \alpha|波\rangle + \beta|粒子\rangle
+|\psi\rangle = \alpha|\text{wave}\rangle + \beta|\text{particle}\rangle
 $$
 
 不是悖论而是互补性——$\psi$ 同时以多种模式表达自己。
@@ -67,7 +67,7 @@ $$
 $\psi$ 导致自己：
 
 $$
-\psi \xrightarrow{导致} \psi
+\psi \xrightarrow{\text{causes}} \psi
 $$
 
 经典因果假设 A → B 其中 A ≠ B。但在自指中，因和果合一。

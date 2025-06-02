@@ -3,7 +3,7 @@
   "position": 15,
   "description": "A friendly introduction to the philosophy of self-reference — ψ = ψ(ψ)",
   "link": {
-    "type": "generated-index",
-    "description": "Discover the profound philosophy of ψ = ψ(ψ) through everyday experiences. No math degree required — just curiosity and an open mind!"
+    "type": "doc",
+    "id": "index"
   }
 } 
