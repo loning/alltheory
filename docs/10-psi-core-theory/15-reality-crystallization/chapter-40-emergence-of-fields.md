@@ -116,7 +116,7 @@ This field would be consciousness itself—the medium in which all existence occ
 
 ## Connection to Chapter 41
 
-Fields manifest the fundamental forces, but they also carry information. How does information organize itself? This leads us to [Chapter 41: The Self-Organization of Information](../16-complexity-unfolding/chapter-41-self-organization-of-information.md).
+Fields manifest the fundamental forces, but they also carry information. How does information organize itself? This leads us to [Chapter 41: The Self-Organization of Information](../complexity-unfolding/chapter-41-self-organization-of-information).
 
 ---
 

@@ -121,7 +121,7 @@ $$
 
 ## Connection to Chapter 51
 
-If this theory is self-referential, what about the mathematics it uses? Is mathematics discovered or created? This leads us to [Chapter 51: The Necessity of Metamathematics](./chapter-51-necessity-of-metamathematics.md).
+If this theory is self-referential, what about the mathematics it uses? Is mathematics discovered or created? This leads us to [Chapter 51: The Necessity of Metamathematics](./chapter-51-necessity-of-metamathematics).
 
 ---
 

@@ -135,7 +135,7 @@ At the ultimate level, fullness and emptiness coincide. The circle is complete.
 
 ## Connection to Chapter 55
 
-Having explored the paradox of void, we must examine the nature of paradox itself. Why does $\psi$ necessitate paradox? This leads us to [Chapter 55: The Embrace of Paradox](./chapter-55-embrace-of-paradox.md).
+Having explored the paradox of void, we must examine the nature of paradox itself. Why does $\psi$ necessitate paradox? This leads us to [Chapter 55: The Embrace of Paradox](./chapter-55-embrace-of-paradox).
 
 ---
 

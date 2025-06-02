@@ -127,7 +127,7 @@ Each stage is $\psi$ achieving deeper self-knowledge through living forms.
 
 ## Connection to Chapter 43
 
-Life, once begun, must evolve. But why is evolution inevitable rather than optional? This leads us to [Chapter 43: The Inevitability of Evolution](./chapter-43-inevitability-of-evolution.md).
+Life, once begun, must evolve. But why is evolution inevitable rather than optional? This leads us to [Chapter 43: The Inevitability of Evolution](./chapter-43-inevitability-of-evolution).
 
 ---
 

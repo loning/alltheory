@@ -120,7 +120,7 @@ The quantum vacuum seethes with virtual particles—$\psi$ exploring potential r
 
 ## Connection to Chapter 35
 
-Space provides the stage, but time provides the play. How does temporal flow emerge from the timeless $\psi = \psi(\psi)$? This leads us to [Chapter 35: The Flow of Time](./chapter-35-flow-of-time.md).
+Space provides the stage, but time provides the play. How does temporal flow emerge from the timeless $\psi = \psi(\psi)$? This leads us to [Chapter 35: The Flow of Time](./chapter-35-flow-of-time).
 
 ---
 

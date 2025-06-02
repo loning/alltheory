@@ -94,7 +94,7 @@ This duality reflects the discrete/continuous nature of $\psi$'s recursive colla
 
 ## Connection to Chapter 10
 
-Symbols alone are not enough—they must relate to each other. This necessity for inter-symbol reference leads us to [Chapter 10: Reference and Self-Reference](./chapter-10-reference-and-self-reference.md).
+Symbols alone are not enough—they must relate to each other. This necessity for inter-symbol reference leads us to [Chapter 10: Reference and Self-Reference](./chapter-10-reference-and-self-reference).
 
 ---
 

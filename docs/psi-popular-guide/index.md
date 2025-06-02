@@ -131,7 +131,7 @@ No prerequisites needed. No math degree required. Just bring:
   }}>
     Start Chapter 1 →
   </a>
-  <a href="../10-psi-core-theory" style={{
+  <a href="../psi-core-theory" style={{
     display: 'inline-block',
     padding: '1rem 2rem',
     fontSize: '1rem',

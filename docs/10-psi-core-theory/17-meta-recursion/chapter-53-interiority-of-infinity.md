@@ -125,7 +125,7 @@ This paradox IS the infinite—a completion that includes its own incompletion.
 
 ## Connection to Chapter 54
 
-If infinity is interior to $\psi$, what about the void, nothingness, emptiness? How does $\psi$ relate to nothing? This leads us to [Chapter 54: The Paradox of the Void](./chapter-54-paradox-of-void.md).
+If infinity is interior to $\psi$, what about the void, nothingness, emptiness? How does $\psi$ relate to nothing? This leads us to [Chapter 54: The Paradox of the Void](./chapter-54-paradox-of-void).
 
 ---
 

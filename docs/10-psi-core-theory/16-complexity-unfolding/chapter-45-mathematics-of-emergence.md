@@ -131,7 +131,7 @@ This is where $\psi$ is most generative.
 
 ## Connection to Chapter 46
 
-Emergent systems often form networks. How do networks self-generate and evolve? This leads us to [Chapter 46: The Self-Generation of Networks](./chapter-46-self-generation-of-networks.md).
+Emergent systems often form networks. How do networks self-generate and evolve? This leads us to [Chapter 46: The Self-Generation of Networks](./chapter-46-self-generation-of-networks).
 
 ---
 

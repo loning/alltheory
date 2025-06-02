@@ -119,7 +119,7 @@ Here's your practical toolkit for living this philosophy:
 This popular guide is just the beginning. If you're hungry for more:
 
 ### 📚 Deeper Exploration
-- Visit the [Ψhē Self-Being complete philosophy](../10-psi-core-theory/index.md) for the full 64-chapter journey
+- Visit the [Ψhē Self-Being complete philosophy](../psi-core-theory) for the full 64-chapter journey
 - Each chapter there goes deeper into the mathematical and philosophical foundations
 
 ### 🌍 Living Community
@@ -191,7 +191,7 @@ Simply be. And in being, know. And in knowing, be.
 
 <div style={{textAlign: 'center', marginTop: '3rem'}}>
   <div style={{marginBottom: '2rem'}}>
-    <a href="../10-psi-core-theory" style={{
+    <a href="../psi-core-theory" style={{
       display: 'inline-block',
       padding: '1rem 2rem',
       background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',

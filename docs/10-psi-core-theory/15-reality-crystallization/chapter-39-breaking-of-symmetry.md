@@ -113,7 +113,7 @@ Perhaps $\psi$ breaks symmetry in all possible ways, and we exist in a branch th
 
 ## Connection to Chapter 40
 
-Broken symmetries create forces and fields. How do these fields emerge and interact? This leads us to [Chapter 40: The Emergence of Fields](./chapter-40-emergence-of-fields.md).
+Broken symmetries create forces and fields. How do these fields emerge and interact? This leads us to [Chapter 40: The Emergence of Fields](./chapter-40-emergence-of-fields).
 
 ---
 

@@ -101,7 +101,7 @@ Even misunderstanding maintains the self-referential structure, just incompletel
 
 ## Connection to Chapter 15
 
-The unity of expression and understanding reveals a startling truth: silence is impossible. Even the absence of expression is itself expressive. This leads us to [Chapter 15: The Impossibility of Silence](./chapter-15-impossibility-of-silence.md).
+The unity of expression and understanding reveals a startling truth: silence is impossible. Even the absence of expression is itself expressive. This leads us to [Chapter 15: The Impossibility of Silence](./chapter-15-impossibility-of-silence).
 
 ---
 

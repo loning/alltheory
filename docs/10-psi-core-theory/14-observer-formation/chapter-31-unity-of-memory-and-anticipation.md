@@ -117,7 +117,7 @@ This is not the absence of time but time fully present—all of time contained i
 
 ## Connection to Chapter 32
 
-The unity of memory and anticipation creates the sense of self—the feeling of being a continuous identity through time. But what is this self? This leads us to [Chapter 32: The Necessity of Self-Consciousness](./chapter-32-necessity-of-self-consciousness.md).
+The unity of memory and anticipation creates the sense of self—the feeling of being a continuous identity through time. But what is this self? This leads us to [Chapter 32: The Necessity of Self-Consciousness](./chapter-32-necessity-of-self-consciousness).
 
 ---
 

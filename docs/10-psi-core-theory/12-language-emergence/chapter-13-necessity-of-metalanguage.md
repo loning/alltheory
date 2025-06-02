@@ -95,7 +95,7 @@ This self-description is not circular but spiral—each description adds depth w
 
 ## Connection to Chapter 14
 
-The unity of language use and language description points to a deeper unity: expression and understanding are one process. This leads us to [Chapter 14: The Unity of Expression and Understanding](./chapter-14-unity-of-expression-and-understanding.md).
+The unity of language use and language description points to a deeper unity: expression and understanding are one process. This leads us to [Chapter 14: The Unity of Expression and Understanding](./chapter-14-unity-of-expression-and-understanding).
 
 ---
 

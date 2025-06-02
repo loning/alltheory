@@ -136,7 +136,7 @@ Like a movie—real as experience, illusory as separate frames. Time is how the 
 
 ## Connection to Chapter 62
 
-In the timeless present, all knowledge is available. What is the nature of complete knowledge? This leads us to [Chapter 62: The Omniscience of Ignorance](./chapter-62-omniscience-of-ignorance.md).
+In the timeless present, all knowledge is available. What is the nature of complete knowledge? This leads us to [Chapter 62: The Omniscience of Ignorance](./chapter-62-omniscience-of-ignorance).
 
 ---
 

@@ -1,9 +1,9 @@
 {
   "label": "Ψhē 自在论",
   "position": 10,
-  "description": "宇宙自指的哲学体系 — ψ = ψ(ψ)",
+  "description": "宇宙自指哲学体系 — ψ = ψ(ψ)",
   "link": {
-    "type": "generated-index",
-    "description": "ψ = ψ(ψ) — 存在认识自身的64章哲学之旅。从原初同一到回归统一，宇宙通过递归自在而呼吸。"
+    "type": "doc",
+    "id": "psi-core-theory/index"
   }
 } 

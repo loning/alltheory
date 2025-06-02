@@ -127,7 +127,7 @@ The recursive structure naturally binds disparate elements into coherent experie
 
 ## Connection to Chapter 29
 
-Consciousness experiences change, which creates the perception of time. But time itself emerges from the recursive structure of consciousness. This leads us to [Chapter 29: The Collapse Mechanism of Perception](./chapter-29-collapse-mechanism-of-perception.md).
+Consciousness experiences change, which creates the perception of time. But time itself emerges from the recursive structure of consciousness. This leads us to [Chapter 29: The Collapse Mechanism of Perception](./chapter-29-collapse-mechanism-of-perception).
 
 ---
 

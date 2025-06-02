@@ -77,7 +77,7 @@ This is possible because collapse is not division but articulation. Like a holog
 
 ## Connection to Chapter 4
 
-Understanding collapse as the mechanism of manifestation leads us to examine what constitutes the minimal complete system—what is the smallest collapse that still contains the full self-referential structure? This brings us to [Chapter 4: Minimal Completeness](./chapter-04-minimal-completeness.md).
+Understanding collapse as the mechanism of manifestation leads us to examine what constitutes the minimal complete system—what is the smallest collapse that still contains the full self-referential structure? This brings us to [Chapter 4: Minimal Completeness](./chapter-04-minimal-completeness).
 
 ---
 

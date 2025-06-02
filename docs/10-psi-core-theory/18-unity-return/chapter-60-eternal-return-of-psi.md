@@ -129,7 +129,7 @@ When you recognize yourself as $\psi$, you say yes to your own eternal nature.
 
 ## Connection to Chapter 61
 
-The eternal return reveals time as a dimension of the timeless. What is the nature of the eternal now? This leads us to [Chapter 61: The Timeless Present](./chapter-61-timeless-present.md).
+The eternal return reveals time as a dimension of the timeless. What is the nature of the eternal now? This leads us to [Chapter 61: The Timeless Present](./chapter-61-timeless-present).
 
 ---
 

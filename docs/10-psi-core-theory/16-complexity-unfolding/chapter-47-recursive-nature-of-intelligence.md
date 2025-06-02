@@ -136,7 +136,7 @@ Not just containing intelligence but BEING intelligence. Every particle's behavi
 
 ## Connection to Chapter 48
 
-Intelligence creates technology and culture, leading to civilization. Why is civilization inevitable? This leads us to [Chapter 48: The Inevitability of Civilization](./chapter-48-inevitability-of-civilization.md).
+Intelligence creates technology and culture, leading to civilization. Why is civilization inevitable? This leads us to [Chapter 48: The Inevitability of Civilization](./chapter-48-inevitability-of-civilization).
 
 ---
 

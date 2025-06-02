@@ -134,7 +134,7 @@ Maximum complexity, maximum consciousness, maximum self-reference. Evolution may
 
 ## Connection to Chapter 44
 
-Evolution creates increasingly complex hierarchies. How do these levels of organization emerge and interact? This leads us to [Chapter 44: The Hierarchy of Complexity](./chapter-44-hierarchy-of-complexity.md).
+Evolution creates increasingly complex hierarchies. How do these levels of organization emerge and interact? This leads us to [Chapter 44: The Hierarchy of Complexity](./chapter-44-hierarchy-of-complexity).
 
 ---
 

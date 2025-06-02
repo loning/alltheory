@@ -131,7 +131,7 @@ Logical systems are languages for discussing valid inference:
 
 ## Connection to Chapter 20
 
-Logic gives us rules, but these rules must be applied through proof. The act of proving is itself a collapse process. This leads us to [Chapter 20: Proof as Collapse](./chapter-20-proof-as-collapse.md).
+Logic gives us rules, but these rules must be applied through proof. The act of proving is itself a collapse process. This leads us to [Chapter 20: Proof as Collapse](./chapter-20-proof-as-collapse).
 
 ---
 

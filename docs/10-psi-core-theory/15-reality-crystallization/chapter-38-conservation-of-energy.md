@@ -112,7 +112,7 @@ Even at absolute zero, $\psi$ vibrates. Complete stillness would violate $\psi =
 
 ## Connection to Chapter 39
 
-Energy is conserved due to time symmetry. But what about space symmetry? This leads to momentum conservation and deeper symmetries. This leads us to [Chapter 39: The Breaking of Symmetry](./chapter-39-breaking-of-symmetry.md).
+Energy is conserved due to time symmetry. But what about space symmetry? This leads to momentum conservation and deeper symmetries. This leads us to [Chapter 39: The Breaking of Symmetry](./chapter-39-breaking-of-symmetry).
 
 ---
 

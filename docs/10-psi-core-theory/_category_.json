@@ -3,7 +3,7 @@
   "position": 10,
   "description": "The Philosophy of Universal Self-Reference — ψ = ψ(ψ)",
   "link": {
-    "type": "generated-index",
-    "description": "ψ = ψ(ψ) — The complete 64-chapter exposition of existence recognizing itself. A philosophical journey from primordial identity to unity return, where the universe breathes through recursive self-being."
+    "type": "doc",
+    "id": "psi-core-theory/index"
   }
 } 

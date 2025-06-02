@@ -128,7 +128,7 @@ All human endeavors are $\psi$ knowing itself through different modes.
 
 ## Connection to Chapter 50
 
-Recognition naturally leads to examining the self-referential nature of this very theory. How does a theory point to that which includes all theories? This leads us to [Chapter 50: The Self-Reference of Theory](./chapter-50-self-reference-of-theory.md).
+Recognition naturally leads to examining the self-referential nature of this very theory. How does a theory point to that which includes all theories? This leads us to [Chapter 50: The Self-Reference of Theory](./chapter-50-self-reference-of-theory).
 
 ---
 

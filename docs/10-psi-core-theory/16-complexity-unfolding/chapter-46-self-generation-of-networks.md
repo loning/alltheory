@@ -139,7 +139,7 @@ Every particle, thought, and galaxy connected in the grand web of being.
 
 ## Connection to Chapter 47
 
-Networks enable collective intelligence. But what is intelligence in the $\psi$ framework? This leads us to [Chapter 47: The Recursive Nature of Intelligence](./chapter-47-recursive-nature-of-intelligence.md).
+Networks enable collective intelligence. But what is intelligence in the $\psi$ framework? This leads us to [Chapter 47: The Recursive Nature of Intelligence](./chapter-47-recursive-nature-of-intelligence).
 
 ---
 

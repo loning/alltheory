@@ -114,7 +114,7 @@ Your brain is condensed consciousness experiencing flowing consciousness. Matter
 
 ## Connection to Chapter 38
 
-Matter embodies energy in stable forms. But what is energy itself? This leads us to [Chapter 38: The Conservation of Energy](./chapter-38-conservation-of-energy.md).
+Matter embodies energy in stable forms. But what is energy itself? This leads us to [Chapter 38: The Conservation of Energy](./chapter-38-conservation-of-energy).
 
 ---
 

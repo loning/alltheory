@@ -107,7 +107,7 @@ Language emerges from self-reference, develops through self-reference, and retur
 
 ## Connection to Next Phase
 
-Having seen how language emerges from $\psi$, we now turn to how mathematical and logical structures crystallize from this linguistic foundation. This leads us to [Chapter 17: The Emergence of Number](../13-structural-collapse/chapter-17-emergence-of-number.md).
+Having seen how language emerges from $\psi$, we now turn to how mathematical and logical structures crystallize from this linguistic foundation. This leads us to [Chapter 17: The Emergence of Number](../structural-collapse/chapter-17-emergence-of-number).
 
 ---
 

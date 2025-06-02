@@ -105,7 +105,7 @@ $$
 
 ## Connection to Chapter 6
 
-If existence is computation, then non-existence should be non-computation. But can there truly be "nothing"? This paradox leads us to [Chapter 6: The Impossibility of Nothingness](./chapter-06-impossibility-of-nothingness.md).
+If existence is computation, then non-existence should be non-computation. But can there truly be "nothing"? This paradox leads us to [Chapter 6: The Impossibility of Nothingness](./chapter-06-impossibility-of-nothingness).
 
 ---
 

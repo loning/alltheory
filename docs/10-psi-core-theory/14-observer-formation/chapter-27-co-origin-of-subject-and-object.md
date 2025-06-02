@@ -122,7 +122,7 @@ This eternal pulsation is the heartbeat of experience.
 
 ## Connection to Chapter 28
 
-The co-origin of subject and object reveals consciousness itself as fundamentally recursive. The observer observing creates layers of self-reference. This leads us to [Chapter 28: The Recursive Structure of Consciousness](./chapter-28-recursive-structure-of-consciousness.md).
+The co-origin of subject and object reveals consciousness itself as fundamentally recursive. The observer observing creates layers of self-reference. This leads us to [Chapter 28: The Recursive Structure of Consciousness](./chapter-28-recursive-structure-of-consciousness).
 
 ---
 
