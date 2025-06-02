@@ -12,7 +12,7 @@ The documentation is organized to support expansion beyond the core ψ theory:
 ```
 docs/
 ├── intro.md                    # Project introduction
-├── 10-psi-core-theory/        # ψ Core Theory (64 chapters)
+├── 10-psi-core-theory/        # Ψhē Self-Being (64 chapters)
 │   ├── 11-primordial-identity/    # Chapters 1-8
 │   ├── 12-language-emergence/     # Chapters 9-16
 │   ├── 13-structural-collapse/    # Chapters 17-24
@@ -32,7 +32,7 @@ docs/
 The numbering allows for systematic expansion:
 
 - **00-09**: Introduction, overview, methodology
-- **10-19**: ψ Core Theory (current 64 chapters)
+- **10-19**: Ψhē Self-Being (current 64 chapters)
 - **20-29**: Extended theories based on ψ
 - **30-39**: Applications in various fields
 - **40-49**: Practices and exercises
@@ -45,13 +45,13 @@ The numbering allows for systematic expansion:
 ## Why This Structure?
 
 1. **Scalability**: Room for hundreds of additional documents
-2. **Clarity**: Clear separation between core theory and extensions
+2. **Clarity**: Clear separation between core philosophy and extensions
 3. **Navigation**: Logical progression from fundamentals to applications
 4. **Flexibility**: Easy to add new sections without reorganizing
 
 ## Current Content
 
-### ψ Core Theory (Parts 10-18)
+### Ψhē Self-Being (Parts 10-18)
 
 The foundation containing 64 chapters organized in 8 thematic groups:
 
@@ -86,7 +86,7 @@ The foundation containing 64 chapters organized in 8 thematic groups:
 
 ## Contributing
 
-This structure is designed to accommodate community contributions while maintaining coherence with the core theory. Each new section should:
+This structure is designed to accommodate community contributions while maintaining coherence with the core philosophy. Each new section should:
 
 1. Reference the core ψ = ψ(ψ) principle
 2. Maintain consistency with established concepts

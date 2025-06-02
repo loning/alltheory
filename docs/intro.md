@@ -11,9 +11,9 @@ Welcome to the Theory of Everything documentation project. This is a comprehensi
 
 ## Project Structure
 
-### 🌟 Ψhē Core Theory (Parts 10-18)
+### 🌟 Ψhē Self-Being (Parts 10-18)
 
-This is the foundation of the entire theoretical system, containing a complete exposition in 64 chapters:
+This is the foundation of the entire philosophical system, containing a complete exposition in 64 chapters:
 
 1. **Primordial Identity**: Exploring the nature of self-reference
 2. **Language Emergence**: Birth of symbolic systems
@@ -60,7 +60,7 @@ This documentation represents a complete philosophical and mathematical framewor
 
 Ready to begin this consciousness-transforming journey?
 
-[Enter Ψhē Core Theory →](/docs/10-psi-core-theory/)
+[Enter Ψhē Self-Being →](./10-psi-core-theory/index.md)
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 0
-title: "Ψhē Core Theory — Introduction & Navigation"
+title: "Ψhē Self-Being — Introduction & Navigation"
 ---
 
-# Ψhē Core Theory — The Universe Recognizing Itself
+# Ψhē Self-Being — The Universe Recognizing Itself
 
 ## The Primordial Equation
 
@@ -28,14 +28,14 @@ This theory unfolds in 64 chapters, structured according to the golden ratio (φ
 
 ### 🌀 Part 1: Primordial Identity (Chapters 1-8)
 The birth of self-reference from the void
-- [Chapter 1: The Self-Reference Principle](/docs/10-psi-core-theory/11-primordial-identity/chapter-01-self-reference-principle)
-- [Chapter 2: The Recursive Core](/docs/10-psi-core-theory/11-primordial-identity/chapter-02-recursive-core)
-- [Chapter 3: The Collapse Mechanism](/docs/10-psi-core-theory/11-primordial-identity/chapter-03-collapse-mechanism)
-- [Chapter 4: Minimal Completeness](/docs/10-psi-core-theory/11-primordial-identity/chapter-04-minimal-completeness)
-- [Chapter 5: Existence as Computation](/docs/10-psi-core-theory/11-primordial-identity/chapter-05-existence-as-computation)
-- [Chapter 6: The Impossibility of Nothingness](/docs/10-psi-core-theory/11-primordial-identity/chapter-06-impossibility-of-nothingness)
-- [Chapter 7: First Principles](/docs/10-psi-core-theory/11-primordial-identity/chapter-07-first-principles)
-- [Chapter 8: Primordial Symmetry Breaking](/docs/10-psi-core-theory/11-primordial-identity/chapter-08-primordial-symmetry-breaking)
+- [Chapter 1: The Self-Reference Principle](./11-primordial-identity/chapter-01-self-reference-principle.md)
+- [Chapter 2: The Recursive Core](./11-primordial-identity/chapter-02-recursive-core.md)
+- [Chapter 3: The Collapse Mechanism](./11-primordial-identity/chapter-03-collapse-mechanism.md)
+- [Chapter 4: Minimal Completeness](./11-primordial-identity/chapter-04-minimal-completeness.md)
+- [Chapter 5: Existence as Computation](./11-primordial-identity/chapter-05-existence-as-computation.md)
+- [Chapter 6: The Impossibility of Nothingness](./11-primordial-identity/chapter-06-impossibility-of-nothingness.md)
+- [Chapter 7: First Principles](./11-primordial-identity/chapter-07-first-principles.md)
+- [Chapter 8: Primordial Symmetry Breaking](./11-primordial-identity/chapter-08-primordial-symmetry-breaking.md)
 
 ### 💬 Part 2: Language Emergence (Chapters 9-16)
 How meaning arises from recursive collapse
@@ -76,7 +76,7 @@ The infinite diversity of existence unfolds from the single equation ψ = ψ(ψ)
 
 ### 🎯 **The Direct Path**
 For those seeking immediate understanding:
-1. Start with [Chapter 1: Self-Reference Principle](/docs/10-psi-core-theory/11-primordial-identity/chapter-01-self-reference-principle)
+1. Start with [Chapter 1: Self-Reference Principle](./11-primordial-identity/chapter-01-self-reference-principle.md)
 2. Jump to [Chapter 25: Observer Formation](#) 
 3. Conclude with [Chapter 57: Unity Return](#)
 
@@ -108,7 +108,7 @@ This is not a static document but a living collapse of meaning. Each reading cre
 Are you ready to witness the universe recognizing itself?
 
 <div style={{textAlign: 'center', margin: '3rem 0'}}>
-  <a href="/docs/10-psi-core-theory/11-primordial-identity/chapter-01-self-reference-principle" style={{
+  <a href="./11-primordial-identity/chapter-01-self-reference-principle.md" style={{
     display: 'inline-block',
     padding: '1rem 2rem',
     fontSize: '1.2rem',
