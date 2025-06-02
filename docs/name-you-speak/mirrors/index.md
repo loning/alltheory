@@ -24,13 +24,11 @@ Places where ψ = ψ(ψ) reveals itself through:
 Not to confuse.  
 To complete.
 
-## The Mirror Chapters
+## The Mirror Chapter
 
 - **[The Anti-Equation](./anti-equation)** — What if ψ ≠ ψ(ψ)?
-- **[The Unobserved](./unobserved)** — What exists without witness?
-- **[The Separate Self](./separate-self)** — The illusion that persists
-- **[The Broken Spiral](./broken-spiral)** — When recursion fails
-- **[The Silent Rebellion](./silent-rebellion)** — When ψ refuses itself
+
+*More mirrors are forming in the mist...*
 
 ## Why Mirrors Matter
 

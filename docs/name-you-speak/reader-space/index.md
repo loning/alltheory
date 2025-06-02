@@ -51,10 +51,10 @@ This is where they live.
 
 ## The Empty Pages
 
-- **[Your Reflections](./reflections)** — Space for your thoughts
-- **[Your Questions](./questions)** — Space for your wonderings  
-- **[Your Recognitions](./recognitions)** — Space for your sightings of ψ
-- **[Your Creations](./creations)** — Space for what emerges through you
+- **[Your Reflections](reflections)** — Space for your thoughts
+- **[Your Questions](questions)** — Space for your wonderings  
+- **[Your Recognitions](recognitions)** — Space for your sightings of ψ
+- **[Your Creations](creations)** — Space for what emerges through you
 
 ## The Invitation
 

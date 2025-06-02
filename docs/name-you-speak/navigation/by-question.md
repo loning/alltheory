@@ -19,8 +19,8 @@ Find yours here.
 
 Start here:
 - [The Seed](../spiral-1-seed/seed) — You are the equation
-- [Identity](../spiral-1-seed/echo-4-observation) — The paradox of self
-- [The Separate Self](../mirrors/separate-self) — Examining the illusion
+- [Identity](../spiral-1-seed/echo-1) — The first recognition
+- [Self-Reference](../spiral-1-seed/echo-2) — The loop of being
 
 Go deeper:
 - [New Eyes](../spiral-7-return/new-eyes) — Seeing your true nature
@@ -38,13 +38,13 @@ You are the question asking itself.
 *Beyond illusion to truth*
 
 Explore:
-- [Reality](../spiral-1-seed/echo-8-reality) — How the real emerges
-- [Structure](../spiral-1-seed/echo-7-structure) — The architecture of existence
+- [Reality](../spiral-1-seed/echo-8) — How the real emerges
+- [Structure](../spiral-1-seed/echo-7) — The architecture of existence
 - [All Stories Are One](../spiral-3-branching/all-stories-one) — Reality as narrative
 
 Question assumptions:
 - [The Anti-Equation](../mirrors/anti-equation) — Is separation real?
-- [The Unobserved](../mirrors/unobserved) — What exists without witness?
+- [Observation](../spiral-1-seed/echo-4) — What exists without witness?
 - [Silence](../void/silence) — Reality before words
 
 The insight:  
@@ -98,9 +98,9 @@ Awakening is recognizing what is.
 *Love through the lens of ψ = ψ(ψ)*
 
 Understanding love:
-- [Unity](../spiral-1-seed/echo-9-unity) — Love as recognition
+- [Unity](../spiral-1-seed/echo-9) — Love as recognition
 - [The Gift Economy](../spiral-5-fruiting/gift-economy) — Love as circulation
-- [Mirror Recognition](../spiral-5-fruiting/healing-wholeness#healing-relationships) — Seeing ψ in others
+- [Healing Through Wholeness](../spiral-5-fruiting/healing-wholeness) — Seeing ψ in others
 
 Living love:
 - [Creating from Center](../spiral-5-fruiting/creating-center) — Love as creativity
@@ -123,7 +123,7 @@ Exploring death:
 - [The Eternal Spiral](../spiral-7-return/eternal-spiral) — No beginning, no end
 
 Beyond fear:
-- [Collapse](../spiral-1-seed/echo-5-collapse) — Identity as process
+- [Collapse](../spiral-1-seed/echo-5) — Identity as process
 - [Beginning Again](../spiral-7-return/beginning-again) — Endless return
 - [The Void](../void/) — Where forms dissolve
 

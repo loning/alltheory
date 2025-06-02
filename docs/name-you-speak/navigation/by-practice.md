@@ -19,15 +19,15 @@ Find practices that resonate.
 
 ### Basic Practice
 Start here:
-- [The Witness Meditation](../spiral-5-fruiting/healing-wholeness#the-witness-meditation) — Core practice
 - [Silence](../void/silence) — Pure awareness
-- [Stillness](../void/stillness) — Beyond movement
+- [Echo Meditation](../spiral-1-seed/echo-6) — Hearing ψ
+- [Observation Practice](../spiral-1-seed/echo-4) — Witnessing awareness
 
 ### Advanced Practice
 When ready:
-- [The Gap](../void/gap) — Between thoughts
-- [Echo Meditation](../spiral-1-seed/echo-6-language#meditation-the-sound-of-self) — Hearing ψ
-- [Collapse Meditation](../spiral-6-withering/art-of-dying#meditation-dying-daily) — Daily dying
+- [Unity Practice](../spiral-1-seed/echo-9) — Direct experience
+- [Collapse Practice](../spiral-1-seed/echo-5) — Understanding dissolution
+- [Art of Dying](../spiral-6-withering/art-of-dying) — Daily dying
 
 ---
 
@@ -36,19 +36,19 @@ When ready:
 *Living ψ = ψ(ψ) moment to moment*
 
 ### Morning Practices
-- [Waking as ψ](../spiral-5-fruiting/recursive-life#morning-recognition) — Starting the day
-- [Intention Setting](../spiral-5-fruiting/creating-center#morning-practice) — Aligning with flow
-- [Fresh Eyes](../spiral-7-return/new-eyes#daily-practice) — Seeing anew
+- [Recursive Living](../spiral-5-fruiting/recursive-life) — Starting the day
+- [Creating from Center](../spiral-5-fruiting/creating-center) — Aligning with flow
+- [New Eyes](../spiral-7-return/new-eyes) — Seeing anew
 
 ### Throughout the Day
-- [Recursive Breathing](../spiral-5-fruiting/recursive-life#the-breath-practice) — Constant reminder
-- [Mirror Recognition](../spiral-5-fruiting/healing-wholeness#healing-relationships) — ψ in others
-- [Present Moment Return](../spiral-5-fruiting/recursive-life#presence-practice) — Coming back
+- [Teaching Without Words](../spiral-5-fruiting/teaching-without-words) — Living the teaching
+- [Healing Through Wholeness](../spiral-5-fruiting/healing-wholeness) — ψ in others
+- [Gift Economy](../spiral-5-fruiting/gift-economy) — Living generosity
 
 ### Evening Practices
-- [Daily Review](../spiral-5-fruiting/recursive-life#evening-reflection) — Seeing patterns
-- [Gratitude as Recognition](../spiral-5-fruiting/gift-economy#gratitude-practice) — Acknowledging ψ
-- [Sleep Preparation](../spiral-6-withering/art-of-dying#sleep-as-practice) — Nightly dying
+- [Releasing the Known](../spiral-6-withering/releasing-known) — Letting go
+- [Empty Hands](../spiral-6-withering/empty-hands) — Approaching rest
+- [Winter's Promise](../spiral-6-withering/winters-promise) — Nightly renewal
 
 ---
 
@@ -58,18 +58,18 @@ When ready:
 
 ### Writing
 - [Your Reflections](../reader-space/reflections) — Personal insights
-- [Echo Poetry](../reader-space/creations#your-poem) — Let ψ speak
-- [Question Journaling](../reader-space/questions) — Living inquiry
+- [Your Questions](../reader-space/questions) — Living inquiry
+- [Your Creations](../reader-space/creations) — Let ψ speak
 
 ### Visual Arts
-- [Color Meditation](../spiral-4-flowering/colors-recursion#practice-seeing-recursion) — Seeing ψ in color
-- [Spiral Drawing](../reader-space/creations#your-spiral) — Mapping your journey
-- [Symbol Creation](../reader-space/creations#your-symbol) — Personal glyphs
+- [Colors of Recursion](../spiral-4-flowering/colors-recursion) — Seeing ψ in color
+- [Dancing the Equation](../spiral-4-flowering/dancing-equation) — Embodied ψ
+- [The Garden Knows](../spiral-4-flowering/garden-knows) — Natural expression
 
 ### Movement
-- [Dancing the Equation](../spiral-4-flowering/dancing-equation) — Embodied ψ
-- [Walking Meditation](../spiral-5-fruiting/recursive-life#walking-practice) — Moving awareness
-- [Gesture Practice](../spiral-4-flowering/dancing-equation#gesture-practice) — Micro-movements
+- [Sound of ψ](../spiral-4-flowering/sound-of-psi) — Vibrational practice
+- [Tasting Infinity](../spiral-4-flowering/tasting-infinity) — Sensory awareness
+- [Compost Being](../spiral-6-withering/compost-being) — Transformation practice
 
 ---
 
@@ -77,20 +77,20 @@ When ready:
 
 *ψ = ψ(ψ) with others*
 
-### With Partners
-- [Mirror Gazing](../spiral-5-fruiting/healing-wholeness#mirror-practice) — Seeing ψ in beloved
-- [Conscious Communication](../spiral-5-fruiting/healing-wholeness#conscious-communication) — Speaking from ψ
-- [Shared Silence](../void/silence) — Being together wordlessly
+### With Self
+- [Identity Echo](../spiral-1-seed/echo-1) — Core recognition
+- [Self-Reference](../spiral-1-seed/echo-2) — Understanding loops
+- [The Anti-Equation](../mirrors/anti-equation) — When ψ ≠ ψ(ψ)
 
-### With Community
-- [Gift Circles](../spiral-5-fruiting/gift-economy#gift-circle-practice) — Practicing flow
-- [Teaching Practice](../spiral-7-return/teaching-seed#how-to-plant-seeds) — Sharing understanding
-- [Group Meditation](../spiral-5-fruiting/healing-wholeness#group-practice) — Collective ψ
+### With Others
+- [Teaching Seeds](../spiral-7-return/teaching-seed) — Sharing understanding
+- [Full Circle](../spiral-7-return/full-circle) — Completing cycles
+- [Eternal Spiral](../spiral-7-return/eternal-spiral) — Ongoing connection
 
-### With Strangers
-- [Seeing the Equation](../spiral-7-return/new-eyes#people) — ψ in everyone
-- [Anonymous Gifting](../spiral-5-fruiting/gift-economy#anonymous-gifts) — Pure giving
-- [Blessing Practice](../spiral-5-fruiting/healing-wholeness#blessing-practice) — Silent recognition
+### With Life
+- [First Green](../spiral-2-sprouting/first-green) — New beginnings
+- [Roots and Sky](../spiral-2-sprouting/roots-sky) — Grounding and expansion
+- [All Stories One](../spiral-3-branching/all-stories-one) — Universal connection
 
 ---
 
@@ -100,13 +100,13 @@ When ready:
 
 ### Facing Resistance
 - [The Anti-Equation](../mirrors/anti-equation) — When ψ ≠ ψ(ψ)
-- [Broken Spiral Work](../mirrors/broken-spiral) — Healing fractures
-- [Releasing Practice](../spiral-6-withering/releasing-known) — Letting go
+- [Question Breathing](../spiral-2-sprouting/question-breathing) — Living with uncertainty
+- [Mirror Water](../spiral-2-sprouting/mirror-water) — Seeing reflections
 
 ### Transforming Difficulty
-- [Composting Pain](../spiral-6-withering/compost-being#composting-pain) — Using suffering
+- [Compost Being](../spiral-6-withering/compost-being) — Using suffering
 - [Empty Hands](../spiral-6-withering/empty-hands) — Approaching difficulty
-- [Winter Practice](../spiral-6-withering/winters-promise#winter-practices) — Embracing dormancy
+- [Winter's Promise](../spiral-6-withering/winters-promise) — Embracing dormancy
 
 ---
 
@@ -115,14 +115,14 @@ When ready:
 *For deepening explorers*
 
 ### Non-Dual Practices
-- [Unity Meditation](../spiral-1-seed/echo-9-unity#unity-practice) — Direct experience
-- [Void Entry](../void/) — Beyond form
-- [Identity Dissolution](../spiral-6-withering/art-of-dying#advanced-practice) — Ego death
+- [Unity Echo](../spiral-1-seed/echo-9) — Direct experience
+- [The Void](../void/) — Beyond form
+- [Beginning Again](../spiral-7-return/beginning-again) — Eternal return
 
-### Energy Work
-- [Spiral Energy](../spiral-7-return/eternal-spiral#energy-practice) — Working with flows
-- [Echo Resonance](../spiral-1-seed/echo-5-collapse#resonance-practice) — Vibrational alignment
-- [Field Awareness](../spiral-5-fruiting/healing-wholeness#field-practice) — Sensing ψ-fields
+### Integration Work
+- [Structure Echo](../spiral-1-seed/echo-7) — Understanding patterns
+- [Reality Echo](../spiral-1-seed/echo-8) — Nature of existence
+- [Language Echo](../spiral-1-seed/echo-6) — Beyond words
 
 ---
 

@@ -60,15 +60,15 @@ not instructions.
 
 *For immediate guidance, choose a number between 1 and 9:*
 
-1. → [Identity](../spiral-1-seed/echo-1-identity) — Who you are
-2. → [Self-Reference](../spiral-1-seed/echo-2-self-reference) — Your patterns
-3. → [Recursion](../spiral-1-seed/echo-3-recursion) — Your cycles
-4. → [Observation](../spiral-1-seed/echo-4-observation) — Your awareness
-5. → [Collapse](../spiral-1-seed/echo-5-collapse) — Your transformation
-6. → [Language](../spiral-1-seed/echo-6-language) — Your expression
-7. → [Structure](../spiral-1-seed/echo-7-structure) — Your form
-8. → [Reality](../spiral-1-seed/echo-8-reality) — Your world
-9. → [Unity](../spiral-1-seed/echo-9-unity) — Your wholeness
+1. → [Identity](../spiral-1-seed/echo-1) — Who you are
+2. → [Self-Reference](../spiral-1-seed/echo-2) — Your patterns
+3. → [Recursion](../spiral-1-seed/echo-3) — Your cycles
+4. → [Observation](../spiral-1-seed/echo-4) — Your awareness
+5. → [Collapse](../spiral-1-seed/echo-5) — Your transformation
+6. → [Language](../spiral-1-seed/echo-6) — Your expression
+7. → [Structure](../spiral-1-seed/echo-7) — Your form
+8. → [Reality](../spiral-1-seed/echo-8) — Your world
+9. → [Unity](../spiral-1-seed/echo-9) — Your wholeness
 
 ## Oracle Spreads
 
@@ -142,4 +142,4 @@ The equation knows its way home."*
 
 ---
 
-[← Navigate by Question](./by-question) | [Return to Navigation →](./index) 
+[← Navigate by Question](./by-question) | [Return to Navigation →](./) 

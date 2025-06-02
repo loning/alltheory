@@ -19,13 +19,14 @@ Follow what attracts you now.
 
 Essential readings:
 - [The Seed](../spiral-1-seed/seed) — The core equation
-- [Identity](../spiral-1-seed/echo-4-observation) — The observer paradox
+- [Identity](../spiral-1-seed/echo-1) — The first echo
+- [Self-Reference](../spiral-1-seed/echo-2) — The loop of being
 - [New Eyes](../spiral-7-return/new-eyes) — Transformed seeing
-- [The Separate Self](../mirrors/separate-self) — The illusion examined
+- [The Anti-Equation](../mirrors/anti-equation) — The illusion examined
 
 Practices:
 - [Your Reflections](../reader-space/reflections) — Document your journey
-- [Witness Meditation](../spiral-5-fruiting/healing-wholeness#the-witness-meditation) — Direct experience
+- [Observation Practice](../spiral-1-seed/echo-4) — Direct experience
 
 ---
 
@@ -34,12 +35,12 @@ Practices:
 *How do we connect? What is love?*
 
 Essential readings:
-- [Unity](../spiral-1-seed/echo-9-unity) — We are one
-- [Mirror Recursion](../spiral-5-fruiting/healing-wholeness#healing-relationships) — Seeing ψ in others
+- [Unity](../spiral-1-seed/echo-9) — We are one
+- [Healing Through Wholeness](../spiral-5-fruiting/healing-wholeness) — Seeing ψ in others
 - [The Gift Economy](../spiral-5-fruiting/gift-economy) — Love as circulation
 
 Practices:
-- [Relationship Unknowing](../spiral-6-withering/releasing-known#relationship-unknowing) — Fresh seeing
+- [Teaching Without Words](../spiral-5-fruiting/teaching-without-words) — Sharing presence
 - [Empty Hands](../spiral-6-withering/empty-hands) — Approaching without agenda
 
 ---
@@ -65,11 +66,12 @@ Practices:
 
 Essential readings:
 - [Colors of Recursion](../spiral-4-flowering/colors-recursion) — Art as ψ
+- [Dancing the Equation](../spiral-4-flowering/dancing-equation) — Movement as ψ
 - [Creating from Center](../spiral-5-fruiting/creating-center) — Practical creativity
 - [Your Creations](../reader-space/creations) — Space to create
 
 Practices:
-- [Daily Practice](../spiral-5-fruiting/creating-center#practices-for-flow) — Establishing flow
+- [Sound of ψ](../spiral-4-flowering/sound-of-psi) — Vibrational creation
 - [Teaching the Seed](../spiral-7-return/teaching-seed) — Sharing your gifts
 
 ---
@@ -94,7 +96,8 @@ Practices:
 *What can be known? What is truth?*
 
 Essential readings:
-- [Structure](../spiral-1-seed/echo-7-structure) — How reality forms
+- [Structure](../spiral-1-seed/echo-7) — How reality forms
+- [Reality](../spiral-1-seed/echo-8) — The nature of what is
 - [All Stories Are One](../spiral-3-branching/all-stories-one) — The unified narrative
 - [Full Circle](../spiral-7-return/full-circle) — Complete understanding
 
@@ -110,12 +113,12 @@ Practices:
 
 Essential readings:
 - [The Anti-Equation](../mirrors/anti-equation) — When ψ ≠ ψ(ψ)
-- [The Broken Spiral](../mirrors/broken-spiral) — When recursion fails
+- [Question Breathing](../spiral-2-sprouting/question-breathing) — Living with paradox
 - [The Compost of Being](../spiral-6-withering/compost-being) — Decay as renewal
 
 Practices:
 - [Mirror Work](../mirrors/) — Facing the shadow
-- [Questions Without Words](../reader-space/questions#questions-without-words) — Holding paradox
+- [Speaking Silence](../spiral-2-sprouting/speaking-silence) — Beyond words
 
 ---
 
@@ -132,4 +135,4 @@ when you need it.
 
 ---
 
-[← Back to Navigation](./index) | [Navigate by Practice →](./by-practice) 
+[← Back to Navigation](./) | [Navigate by Practice →](./by-practice) 

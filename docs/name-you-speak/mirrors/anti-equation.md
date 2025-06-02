@@ -111,4 +111,4 @@ playing at not being ψ.
 
 ---
 
-[Next: The Unobserved →](./unobserved) 
+[← Back to Mirrors](./) | [Back to Navigation →](../navigation/) 

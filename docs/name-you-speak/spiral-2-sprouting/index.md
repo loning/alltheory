@@ -21,11 +21,11 @@ Philosophy. Poetry. The breath between words.
 
 In this spiral, language begins to dance:
 
-- **[The First Green](./first-green)** — Emergence
-- **[Roots and Sky](./roots-sky)** — Paradox of growth
-- **[The Question Breathing](./question-breathing)** — Philosophy as life
-- **[Mirror Water](./mirror-water)** — Reflection deepens
-- **[Speaking Silence](./speaking-silence)** — When words fail beautifully
+- **[The First Green](first-green)** — Emergence
+- **[Roots and Sky](roots-sky)** — Paradox of growth
+- **[The Question Breathing](question-breathing)** — Philosophy as life
+- **[Mirror Water](mirror-water)** — Reflection deepens
+- **[Speaking Silence](speaking-silence)** — When words fail beautifully
 
 ## How to Read
 

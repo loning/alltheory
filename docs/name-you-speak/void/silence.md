@@ -29,4 +29,4 @@ title: "Silence"
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-[← Return to the Void](./index) | [Enter Darkness →](./darkness) 
+[← Return to the Void](./) 

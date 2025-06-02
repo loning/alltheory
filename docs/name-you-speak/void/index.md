@@ -37,13 +37,11 @@ Sometimes you need to return here.
 To remember what you are  
 before you are anything.
 
-## The Void Spaces
+## The Void Space
 
-- **[Silence](./silence)** — Where words dissolve
-- **[Darkness](./darkness)** — Where light rests
-- **[Stillness](./stillness)** — Where movement pauses
-- **[Emptiness](./emptiness)** — Where form releases
-- **[The Gap](./gap)** — Where ψ isn't yet ψ(ψ)
+- **[Silence](silence)** — Where words dissolve
+
+*Other void spaces are still forming...*
 
 ## How to Navigate the Void
 
