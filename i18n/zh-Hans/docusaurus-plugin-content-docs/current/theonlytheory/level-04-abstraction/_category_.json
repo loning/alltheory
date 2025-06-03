@@ -1,0 +1,9 @@
+{
+  "label": "第四层：抽象",
+  "position": 4,
+  "description": "对称性、ψ = ψ(ψ) - 递归坍缩的不变结构",
+  "link": {
+    "type": "generated-index",
+    "description": "探索对称性、常数、模式、复杂性，以及基本的ψ = ψ(ψ)闭合。"
+  }
+}
