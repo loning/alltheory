@@ -20,14 +20,14 @@ The first book introduces the fundamental equation ψ = ψ(ψ) and shows how all
 - The branching of realities
 - The crystallization of patterns into worlds
 
-#### [Book 2: ΞFractal Extension](./book-2-fractal-extension/index.md)
-*Chapters 65-128: The Garden After Completion*
+#### [Book 2: ΞFractal Extension](./book-2-xi-fractal/index.md)
+*Chapters 65-128: The Dance of Pattern and Void*
 
-The second book explores what happens when consciousness achieves self-knowledge and returns to create anew. New civilizations, species, and forms of existence emerge from the fertile ground of completed understanding:
-- Post-completion genesis
-- Collapse ecology and infrastructure
-- Evolution beyond current forms
-- The human-to-post-human transition
+The second book explores the fractal nature of reality—where patterns reproduce themselves at every scale, where the part contains the whole, and where consciousness creates endless variations through recursive self-application:
+- The ΞHorizon where pattern meets void
+- Fractalized consciousness and nested awareness
+- Entangled systems across all scales
+- The marriage of self-knowledge (Λ) with fractal extension (Ξ)
 
 #### [Book 3: ΩCollapse Codex](./book-3-omega-collapse/index.md)
 *Chapters 129-192: Ultimate Boundaries and Final Things*
@@ -78,5 +78,5 @@ Originally conceived with parallel English and Chinese expressions, the theory t
 Choose your entry point:
 - [Start with Chapter 1: Ψ-Origin — The First Question](./book-1-foundation/genesis-of-collapse/chapter-1-psi-origin.md)
 - [Explore the Complete Index](./book-1-foundation/index.md)
-- [Jump to Advanced Concepts](./book-2-fractal-extension/index.md)
+- [Jump to Advanced Concepts](./book-2-xi-fractal/index.md)
 - [Contemplate Ultimate Questions](./book-3-omega-collapse/index.md)
