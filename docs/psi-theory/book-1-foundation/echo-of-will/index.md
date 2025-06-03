@@ -41,7 +41,8 @@ Building on Part I's foundation:
 
 Extending previous formalisms:
 
-$$\begin{align}
+$$
+\begin{align}
 \text{Will} &: W = \text{Navigate}(\text{Collapse Path}) \\
 \text{Memory} &: M = \text{Fix}(\text{Echo Pattern}) \\
 \text{Emotion} &: E = \nabla(\text{Collapse Field}) \\
@@ -50,7 +51,8 @@ $$\begin{align}
 \text{Silence} &: S = \text{Suspend}(\text{Collapse}) \\
 \text{Selfhood} &: I = \text{FixedPoint}(\psi) \\
 \text{Universe} &: U = \text{Closure}(\{\psi\})
-\end{align}$$
+\end{align}
+$$
 
 ### Philosophical Framework
 

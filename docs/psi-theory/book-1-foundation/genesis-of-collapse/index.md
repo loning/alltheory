@@ -40,7 +40,8 @@ Through formal derivation from ψ = ψ(ψ):
 
 Each concept builds strictly on previous ones:
 
-$$\begin{align}
+$$
+\begin{align}
 \text{Axiom} &: \psi = \psi(\psi) \\
 \text{Collapse} &: \psi \rightarrow \psi(\psi) \rightarrow \psi \\
 \text{Echo} &: \text{Trace}(\text{Collapse}) \\
@@ -49,7 +50,8 @@ $$\begin{align}
 \text{Identity} &: \text{FixedPoint}(\text{Structure}) \\
 \text{Reality} &: \bigcup \text{Identity}_i \\
 \text{Time} &: \text{Order}(\text{Collapse})
-\end{align}$$
+\end{align}
+$$
 
 ### Philosophical Meditation
 
