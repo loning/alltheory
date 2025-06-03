@@ -79,4 +79,4 @@ you breathing in the question.
 
 ---
 
-[← Roots and Sky](./roots-sky) | [Mirror Water →](./mirror-water) 
+[← Roots and Sky](./roots-sky.md) | [Mirror Water →](./mirror-water.md) 

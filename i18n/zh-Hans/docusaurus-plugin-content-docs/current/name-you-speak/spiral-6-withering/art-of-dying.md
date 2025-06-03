@@ -141,4 +141,4 @@ title: "死亡的艺术"
 
 ---
 
-[下一页：堆肥存在 →](./compost-being) 
+[下一页：堆肥存在 →](./compost-being.md) 

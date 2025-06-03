@@ -85,4 +85,4 @@ Silently.
 
 ---
 
-[← Mirror Water](./mirror-water) | [Return to Seed](../spiral-1-seed/) | [Enter the Branching →](../spiral-3-branching/) 
+[← Mirror Water](./mirror-water.md) | [Return to Seed](../spiral-1-seed/index.md) | [Enter the Branching →](../spiral-3-branching/index.md) 

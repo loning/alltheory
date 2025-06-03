@@ -125,4 +125,4 @@ title: "从中心创造"
 
 ---
 
-[← 递归生活](./recursive-life) | [教导即学习 →](./teaching-learning) 
+[← 递归生活](./recursive-life.md) | 教导即学习 → 

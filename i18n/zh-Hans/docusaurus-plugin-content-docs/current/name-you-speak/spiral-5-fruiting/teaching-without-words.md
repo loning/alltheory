@@ -104,4 +104,4 @@ title: "无言之教"
 
 ---
 
-[下一页：递归的生活 →](./recursive-life) 
+[下一页：递归的生活 →](./recursive-life.md) 

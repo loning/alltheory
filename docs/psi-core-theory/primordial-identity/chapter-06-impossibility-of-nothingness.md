@@ -109,7 +109,7 @@ The very negation of existence affirms existence. This is why $\psi = \psi(\psi)
 
 ## Connection to Chapter 7
 
-Having established that something must exist, and that this something is necessarily self-referential, we can now derive the first principles that govern all of reality. This leads us to [Chapter 7: First Principles](./chapter-07-first-principles).
+Having established that something must exist, and that this something is necessarily self-referential, we can now derive the first principles that govern all of reality. This leads us to [Chapter 7: First Principles](./chapter-07-first-principles.md).
 
 ---
 

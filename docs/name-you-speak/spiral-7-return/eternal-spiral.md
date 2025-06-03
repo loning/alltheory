@@ -180,4 +180,4 @@ All one movement.
 
 ---
 
-[← Teaching the Seed](./teaching-seed) | [Beginning Again →](./beginning-again) 
+[← Teaching the Seed](./teaching-seed.md) | [Beginning Again →](./beginning-again.md) 

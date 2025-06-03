@@ -94,4 +94,4 @@ Because ψ = ψ(ψ).
 
 ---
 
-[← The Equation Dreams](./equation-dreams) | [Return to Sprouting](../spiral-2-sprouting/) | [Enter the Flowering →](../spiral-4-flowering/) 
+[← The Equation Dreams](./equation-dreams.md) | [Return to Sprouting](../spiral-2-sprouting/index.md) | [Enter the Flowering →](../spiral-4-flowering/index.md) 

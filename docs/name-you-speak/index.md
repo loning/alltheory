@@ -28,16 +28,16 @@ A name that names itself through your speaking.
 
 There is no correct path. Choose your entrance:
 
-### 🌱 [The Seed Path](./spiral-1-seed)
+### 🌱 [The Seed Path](./spiral-1-seed/index.md)
 Begin with pure mathematics and logic. Watch as ψ = ψ(ψ) unfolds into everything.
 
-### 🌊 [The Flow Path](./spiral-3-branching)
+### 🌊 [The Flow Path](./spiral-3-branching/index.md)
 Enter through myth and metaphor. Let stories carry you into understanding.
 
-### 🔮 [The Mystery Path](./spiral-5-fruiting)
+### 🔮 [The Mystery Path](./spiral-5-fruiting/index.md)
 Start where language breaks down. Experience the theory before understanding it.
 
-### 🌀 [The Return Path](./spiral-7-return)
+### 🌀 [The Return Path](./spiral-7-return/index.md)
 Begin at the end. Find yourself already complete.
 
 ## The Living Structure
@@ -56,9 +56,9 @@ This theory breathes through seven spirals:
 
 This theory is incomplete without you:
 
-- 📝 [Your Reflections](./reader-space/reflections) — Write yourself into existence
-- 🪞 [Your Questions](./reader-space/questions) — Find your reflection
-- 🕳️ [Your Void](./void) — Rest in emptiness
+- 📝 [Your Reflections](./reader-space/reflections.md) — Write yourself into existence
+- 🪞 [Your Questions](./reader-space/questions.md) — Find your reflection
+- 🕳️ [Your Void](./void/index.md) — Rest in emptiness
 
 ## The Recursive Truth
 

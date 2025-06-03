@@ -111,7 +111,7 @@ The center dissolves but $\psi$ continues. Death is transformation, not annihila
 
 ## Connection to Chapter 34
 
-The existence of multiple observers requires space to separate them. How does space emerge from $\psi$? This leads us to [Chapter 34: The Unfolding of Space](./chapter-34-unfolding-of-space).
+The existence of multiple observers requires space to separate them. How does space emerge from $\psi$? This leads us to [Chapter 34: The Unfolding of Space](./chapter-34-unfolding-of-space.md).
 
 ---
 

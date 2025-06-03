@@ -97,7 +97,7 @@ Each use of a meaning transforms it slightly, creating semantic drift while main
 
 ## Connection to Chapter 13
 
-The collapse of individual meanings points to a deeper truth: language itself requires a meta-level to speak about language. This necessity leads us to [Chapter 13: The Necessity of Metalanguage](./chapter-13-necessity-of-metalanguage).
+The collapse of individual meanings points to a deeper truth: language itself requires a meta-level to speak about language. This necessity leads us to [Chapter 13: The Necessity of Metalanguage](./chapter-13-necessity-of-metalanguage.md).
 
 ---
 

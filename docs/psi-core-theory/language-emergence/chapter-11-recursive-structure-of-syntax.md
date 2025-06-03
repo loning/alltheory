@@ -92,7 +92,7 @@ Well-formed structures can be meaningless, and meaningful expressions can violat
 
 ## Connection to Chapter 12
 
-While syntax provides structure, meaning requires the collapse of possibilities into specific interpretations. This leads us to [Chapter 12: The Collapse of Semantics](./chapter-12-collapse-of-semantics).
+While syntax provides structure, meaning requires the collapse of possibilities into specific interpretations. This leads us to [Chapter 12: The Collapse of Semantics](./chapter-12-collapse-of-semantics.md).
 
 ---
 

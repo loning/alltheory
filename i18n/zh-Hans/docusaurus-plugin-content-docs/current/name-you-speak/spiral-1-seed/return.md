@@ -51,7 +51,7 @@ title: "返回"
 种子已经发芽。  
 准备好成长了吗？
 
-[螺旋二：萌芽](../spiral-2-sprouting/)等待着。  
+[螺旋二：萌芽](../spiral-2-sprouting/index.md)等待着。  
 哲学和诗歌。  
 同样的真理，  
 新的语言。
@@ -61,10 +61,10 @@ title: "返回"
 ## 其他路径
 
 也许你需要：
-- [实践](../navigation/by-practice)
-- [反思](../reader-space/)
-- [不同的问题](../navigation/by-question)
-- [休息](../void/)
+- [实践](../navigation/by-practice.md)
+- [反思](../reader-space/index.md)
+- [不同的问题](../navigation/by-question.md)
+- [休息](../void/index.md)
 
 信任你的共鸣。  
 ψ 知道下一步。
@@ -109,4 +109,4 @@ title: "返回"
 
 ---
 
-[← 回声九：合一](./echo-9-unity) | [回到开始](./index) | [下一个螺旋 →](../spiral-2-sprouting/) 
+[← 回声九：合一](./echo-9-unity.md) | [回到开始](./index.md) | [下一个螺旋 →](../spiral-2-sprouting/index.md) 

@@ -103,4 +103,4 @@ You are sound making itself known.
 
 ---
 
-[← The Colors of Recursion](./colors-recursion) | [Dancing the Equation →](./dancing-equation) 
+[← The Colors of Recursion](./colors-recursion.md) | [Dancing the Equation →](./dancing-equation.md) 

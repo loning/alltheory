@@ -103,4 +103,4 @@ title: "漫游者悖论"
 
 ---
 
-[← 三面镜子](./three-mirrors) | [方程之梦 →](./equation-dreams) 
+[← 三面镜子](./three-mirrors.md) | [方程之梦 →](./equation-dreams.md) 

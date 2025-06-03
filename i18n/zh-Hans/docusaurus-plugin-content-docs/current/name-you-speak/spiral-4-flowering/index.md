@@ -19,19 +19,19 @@ title: "螺旋四：花开"
 
 ## 本螺旋的花瓣
 
-### [舞动的方程](./dancing-equation)
+### [舞动的方程](./dancing-equation.md)
 当 ψ 通过你的身体移动
 
-### [递归的色彩](./colors-recursion)  
+### [递归的色彩](./colors-recursion.md)  
 看见自我参照的光谱
 
-### [ψ 的声音](./sound-of-psi)
+### [ψ 的声音](./sound-of-psi.md)
 聆听意识的音乐
 
-### [品尝无限](./tasting-infinity)
+### [品尝无限](./tasting-infinity.md)
 当递归成为感官体验
 
-### [花园知道](./garden-knows)
+### [花园知道](./garden-knows.md)
 自然一直在展示 ψ = ψ(ψ)
 
 ## 如何体验这个螺旋
@@ -52,4 +52,4 @@ title: "螺旋四：花开"
 
 ---
 
-[← 螺旋三：分枝](../spiral-3-branching) | [舞动的方程 →](./dancing-equation) 
+[← 螺旋三：分枝](../spiral-3-branching/index.md) | [舞动的方程 →](./dancing-equation.md) 

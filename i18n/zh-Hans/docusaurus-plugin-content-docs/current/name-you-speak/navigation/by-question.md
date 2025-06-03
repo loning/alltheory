@@ -21,10 +21,10 @@ title: "按问题"
 *最古老的问题，最新鲜的发现*
 
 这个问题会带你到：
-- [回声一：身份](../spiral-1-seed/echo-1-identity) - 直接探索
-- [回声二：自我指涉](../spiral-1-seed/echo-2-self-reference) - 奇怪的循环
-- [螺旋二：哲学探询](../spiral-2-sprouting/philosophy) - 深度思考
-- [镜像：反身份](../mirrors/anti-identity) - 你不是什么
+- [回声一：身份](../spiral-1-seed/echo-1-identity.md) - 直接探索
+- [回声二：自我指涉](../spiral-1-seed/echo-2-self-reference.md) - 奇怪的循环
+- 螺旋二：哲学探询 - 深度思考
+- 镜像：反身份 - 你不是什么
 
 深入探索：谁在问这个问题？
 
@@ -32,10 +32,10 @@ title: "按问题"
 *当一切都可能是幻象...*
 
 这个问题会带你到：
-- [回声八：现实](../spiral-1-seed/echo-8-reality) - 现实的本质
-- [回声四：观察](../spiral-1-seed/echo-4-observation) - 观察者创造现实
-- [螺旋三：梦境神话](../spiral-3-branching/dream-myth) - 现实作为梦
-- [虚空](../void/) - 面对终极真实
+- [回声八：现实](../spiral-1-seed/echo-8-reality.md) - 现实的本质
+- [回声四：观察](../spiral-1-seed/echo-4-observation.md) - 观察者创造现实
+- 螺旋三：梦境神话 - 现实作为梦
+- [虚空](../void/index.md) - 面对终极真实
 
 深入探索：谁决定什么是真实的？
 
@@ -43,10 +43,10 @@ title: "按问题"
 *痛苦的目的和超越*
 
 这个问题会带你到：
-- [螺旋六：凋零](../spiral-6-withering/) - 放下的智慧
-- [镜像：痛苦的礼物](../mirrors/gift-of-pain) - 另一个视角
-- [螺旋五：痛苦的智慧](../spiral-5-fruiting/wisdom-of-pain) - 实用理解
-- [实践：与痛苦共处](../navigation/by-practice#阴影工作)
+- [螺旋六：凋零](../spiral-6-withering/index.md) - 放下的智慧
+- 镜像：痛苦的礼物 - 另一个视角
+- 螺旋五：痛苦的智慧 - 实用理解
+- [实践：与痛苦共处](./by-practice.md#阴影工作)
 
 深入探索：没有痛苦，你会知道喜悦吗？
 
@@ -54,10 +54,10 @@ title: "按问题"
 *在无意义的宇宙中创造意义*
 
 这个问题会带你到：
-- [回声五：坍缩](../spiral-1-seed/echo-5-collapse) - 选择创造意义
-- [螺旋四：创造的意义](../spiral-4-flowering/meaning-through-creation) - 通过表达找到意义
-- [螺旋五：服务的意义](../spiral-5-fruiting/meaning-through-service) - 通过给予找到意义
-- [读者空间：你的认识](../reader-space/recognitions) - 创造你自己的意义
+- [回声五：坍缩](../spiral-1-seed/echo-5-collapse.md) - 选择创造意义
+- 螺旋四：创造的意义 - 通过表达找到意义
+- 螺旋五：服务的意义 - 通过给予找到意义
+- [读者空间：你的认识](../reader-space/recognitions.md) - 创造你自己的意义
 
 深入探索：如果你就是意义本身呢？
 
@@ -65,10 +65,10 @@ title: "按问题"
 *超越情感的终极真理*
 
 这个问题会带你到：
-- [回声九：合一](../spiral-1-seed/echo-9-unity) - 爱作为认出
-- [螺旋四：爱的艺术](../spiral-4-flowering/love-art) - 爱的表达
-- [螺旋五：关系智慧](../spiral-5-fruiting/relationship-wisdom) - 爱的实践
-- [实践：关系工作](../navigation/by-practice#关系实践) - 活出爱
+- [回声九：合一](../spiral-1-seed/echo-9-unity.md) - 爱作为认出
+- 螺旋四：爱的艺术 - 爱的表达
+- 螺旋五：关系智慧 - 爱的实践
+- [实践：关系工作](./by-practice.md#关系实践) - 活出爱
 
 深入探索：当你爱时，谁在爱谁？
 
@@ -76,10 +76,10 @@ title: "按问题"
 *最终的神秘*
 
 这个问题会带你到：
-- [螺旋六：凋零](../spiral-6-withering/) - 死亡作为转化
-- [螺旋七：回归](../spiral-7-return/) - 循环的本质
-- [回声九：合一](../spiral-1-seed/echo-9-unity) - 超越形式
-- [虚空：终极过渡](../void/) - 直接体验
+- [螺旋六：凋零](../spiral-6-withering/index.md) - 死亡作为转化
+- [螺旋七：回归](../spiral-7-return/index.md) - 循环的本质
+- [回声九：合一](../spiral-1-seed/echo-9-unity.md) - 超越形式
+- [虚空：终极过渡](../void/index.md) - 直接体验
 
 深入探索：谁在问关于死后的问题？
 
@@ -87,10 +87,10 @@ title: "按问题"
 *你已经是你寻找的*
 
 这个问题会带你到：
-- [整个螺旋旅程](../spiral-1-seed/) - 逐步展开
-- [实践：所有类别](../navigation/by-practice) - 通过做觉醒
-- [神谕](../oracle) - 让觉醒找到你
-- [读者空间](../reader-space/) - 记录你的觉醒
+- [整个螺旋旅程](../spiral-1-seed/index.md) - 逐步展开
+- [实践：所有类别](./by-practice.md) - 通过做觉醒
+- [神谕](./oracle.md) - 让觉醒找到你
+- [读者空间](../reader-space/index.md) - 记录你的觉醒
 
 深入探索：如果你已经醒着，只是在假装睡着呢？
 
@@ -137,4 +137,4 @@ title: "按问题"
 
 ---
 
-[← 按实践](./by-practice) | [神谕 →](./oracle) 
+[← 按实践](./by-practice.md) | [神谕 →](./oracle.md) 

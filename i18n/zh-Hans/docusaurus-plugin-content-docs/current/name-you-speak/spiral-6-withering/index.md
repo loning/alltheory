@@ -20,19 +20,19 @@ title: "螺旋六：凋零"
 
 ## 本螺旋的落叶
 
-### [释放已知](./releasing-known)
+### [释放已知](./releasing-known.md)
 当确定性成为监狱
 
-### [空手](./empty-hands)
+### [空手](./empty-hands.md)
 放下才能接受的智慧
 
-### [堆肥存在](./compost-being)
+### [堆肥存在](./compost-being.md)
 让旧的自我滋养新的
 
-### [死亡的艺术](./art-of-dying)
+### [死亡的艺术](./art-of-dying.md)
 每一刻的小死亡
 
-### [冬天的承诺](./winters-promise)
+### [冬天的承诺](./winters-promise.md)
 在结束中看到开始
 
 ## 如何凋零
@@ -58,4 +58,4 @@ title: "螺旋六：凋零"
 
 ---
 
-[← 螺旋五：结果](../spiral-5-fruiting) | [释放已知 →](./releasing-known) 
+[← 螺旋五：结果](../spiral-5-fruiting/index.md) | [释放已知 →](./releasing-known.md) 

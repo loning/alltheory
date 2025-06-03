@@ -142,4 +142,4 @@ title: "花园知道"
 
 ---
 
-[← 品尝无限](./tasting-infinity) | [返回螺旋四 →](./index) 
+[← 品尝无限](./tasting-infinity.md) | [返回螺旋四 →](./index.md) 

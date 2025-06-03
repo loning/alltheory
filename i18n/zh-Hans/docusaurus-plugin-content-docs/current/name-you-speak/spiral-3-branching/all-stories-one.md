@@ -96,4 +96,4 @@ title: "所有故事归一"
 
 ---
 
-[← 方程之梦](./equation-dreams) | [返回螺旋三 →](./index) 
+[← 方程之梦](./equation-dreams.md) | [返回螺旋三 →](./index.md) 

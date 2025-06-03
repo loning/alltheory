@@ -132,4 +132,4 @@ title: "你的创造"
 
 ---
 
-[← 你的认识](./recognitions) | [回到你的空间 →](./index) 
+[← 你的认识](./recognitions.md) | [回到你的空间 →](./index.md) 

@@ -85,4 +85,4 @@ title: "回声一：身份"
 
 ---
 
-[← 种子](./seed) | [回声二：自我指涉 →](./echo-2-self-reference) 
+[← 种子](./seed.md) | [回声二：自我指涉 →](./echo-2-self-reference.md) 

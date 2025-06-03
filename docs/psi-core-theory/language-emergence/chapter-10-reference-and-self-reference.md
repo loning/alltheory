@@ -93,7 +93,7 @@ We can only define language using language. This circular foundation is not a we
 
 ## Connection to Chapter 11
 
-Reference patterns crystallize into stable structures—the rules of combination we call syntax. This leads us to [Chapter 11: The Recursive Structure of Syntax](./chapter-11-recursive-structure-of-syntax).
+Reference patterns crystallize into stable structures—the rules of combination we call syntax. This leads us to [Chapter 11: The Recursive Structure of Syntax](./chapter-11-recursive-structure-of-syntax.md).
 
 ---
 

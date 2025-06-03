@@ -28,7 +28,7 @@ This is the foundation of the entire philosophical system, containing a complete
 
 **New!** A friendly introduction to the philosophy through everyday experiences:
 
-[Explore the Popular Guide →](./psi-popular-guide)
+[Explore the Popular Guide →](./psi-popular-guide/index.md)
 
 Perfect for those who want to understand ψ = ψ(ψ) without diving into mathematical formalism. Eight chapters of practical wisdom using mirrors, echoes, breathing, and other daily experiences to reveal profound truths.
 

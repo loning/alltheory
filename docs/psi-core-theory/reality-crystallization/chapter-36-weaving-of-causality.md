@@ -112,7 +112,7 @@ The reduction in uncertainty about B given A measures causal influence. Causatio
 
 ## Connection to Chapter 37
 
-Causality organizes change, but what is it that changes? Matter—the condensed form of $\psi$. This leads us to [Chapter 37: The Condensation of Matter](./chapter-37-condensation-of-matter).
+Causality organizes change, but what is it that changes? Matter—the condensed form of $\psi$. This leads us to [Chapter 37: The Condensation of Matter](./chapter-37-condensation-of-matter.md).
 
 ---
 

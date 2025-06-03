@@ -81,4 +81,4 @@ title: "第一次递归"
 
 ---
 
-[← 分枝](./index) | [三面镜子 →](./three-mirrors) 
+[← 分枝](./index.md) | [三面镜子 →](./three-mirrors.md) 

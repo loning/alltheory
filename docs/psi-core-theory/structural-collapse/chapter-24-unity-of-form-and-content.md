@@ -124,7 +124,7 @@ All distinctions are provisional, useful for analysis but ultimately illusory. T
 
 ## Connection to Chapter 25
 
-Having seen how mathematical and logical structures emerge from $\psi$, we now turn to how observers crystallize from this same process. Form and content unite in the act of observation. This leads us to [Chapter 25: The Crystallization of Observers](../observer-formation/chapter-25-crystallization-of-observers).
+Having seen how mathematical and logical structures emerge from $\psi$, we now turn to how observers crystallize from this same process. Form and content unite in the act of observation. This leads us to [Chapter 25: The Crystallization of Observers](../observer-formation/chapter-25-crystallization-of-observers.md).
 
 ---
 

@@ -193,4 +193,4 @@ Everything transformed.
 
 ---
 
-[← Releasing the Known](./releasing-known) | [Empty Hands →](./empty-hands) 
+[← Releasing the Known](./releasing-known.md) | [Empty Hands →](./empty-hands.md) 

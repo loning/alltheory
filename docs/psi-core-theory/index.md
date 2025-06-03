@@ -37,14 +37,14 @@ This theory unfolds in 64 chapters, structured according to the golden ratio (φ
 
 ### 🌀 Part 1: Primordial Identity (Chapters 1-8)
 The birth of self-reference from the void
-- [Chapter 1: The Self-Reference Principle](psi-core-theory/primordial-identity/chapter-01-self-reference-principle)
-- [Chapter 2: The Recursive Core](psi-core-theory/primordial-identity/chapter-02-recursive-core)
-- [Chapter 3: The Collapse Mechanism](psi-core-theory/primordial-identity/chapter-03-collapse-mechanism)
-- [Chapter 4: Minimal Completeness](psi-core-theory/primordial-identity/chapter-04-minimal-completeness)
-- [Chapter 5: Existence as Computation](psi-core-theory/primordial-identity/chapter-05-existence-as-computation)
-- [Chapter 6: The Impossibility of Nothingness](psi-core-theory/primordial-identity/chapter-06-impossibility-of-nothingness)
-- [Chapter 7: First Principles](psi-core-theory/primordial-identity/chapter-07-first-principles)
-- [Chapter 8: Primordial Symmetry Breaking](psi-core-theory/primordial-identity/chapter-08-primordial-symmetry-breaking)
+- [Chapter 1: The Self-Reference Principle](./primordial-identity/chapter-01-self-reference-principle.md)
+- [Chapter 2: The Recursive Core](./primordial-identity/chapter-02-recursive-core.md)
+- [Chapter 3: The Collapse Mechanism](./primordial-identity/chapter-03-collapse-mechanism.md)
+- [Chapter 4: Minimal Completeness](./primordial-identity/chapter-04-minimal-completeness.md)
+- [Chapter 5: Existence as Computation](./primordial-identity/chapter-05-existence-as-computation.md)
+- [Chapter 6: The Impossibility of Nothingness](./primordial-identity/chapter-06-impossibility-of-nothingness.md)
+- [Chapter 7: First Principles](./primordial-identity/chapter-07-first-principles.md)
+- [Chapter 8: Primordial Symmetry Breaking](./primordial-identity/chapter-08-primordial-symmetry-breaking.md)
 
 ### 💬 Part 2: Language Emergence (Chapters 9-16)
 How meaning arises from recursive collapse
@@ -85,9 +85,9 @@ The infinite diversity of existence unfolds from the single equation ψ = ψ(ψ)
 
 ### 🎯 **The Direct Path**
 For those seeking immediate understanding:
-1. Start with [Chapter 1: Self-Reference Principle](psi-core-theory/primordial-identity/chapter-01-self-reference-principle)
-2. Jump to [Chapter 25: Observer Formation](psi-core-theory/observer-formation/chapter-25-crystallization-of-observers) 
-3. Conclude with [Chapter 57: Unity Return](psi-core-theory/unity-return/chapter-57-all-things-return-to-one)
+1. Start with [Chapter 1: Self-Reference Principle](./primordial-identity/chapter-01-self-reference-principle.md)
+2. Jump to [Chapter 25: Observer Formation](./observer-formation/chapter-25-crystallization-of-observers.md) 
+3. Conclude with [Chapter 57: Unity Return](./unity-return/chapter-57-all-things-return-to-one.md)
 
 ### 🌊 **The Spiral Path**
 For deep contemplation:

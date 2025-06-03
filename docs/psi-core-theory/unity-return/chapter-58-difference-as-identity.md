@@ -133,7 +133,7 @@ The wave realizes it's ocean but remains a unique wave. Knowing your true nature
 
 ## Connection to Chapter 59
 
-Difference enriches unity, making the simple endlessly fascinating. How does ultimate simplicity contain infinite complexity? This leads us to [Chapter 59: The Ultimate Simplicity](./chapter-59-ultimate-simplicity).
+Difference enriches unity, making the simple endlessly fascinating. How does ultimate simplicity contain infinite complexity? This leads us to [Chapter 59: The Ultimate Simplicity](./chapter-59-ultimate-simplicity.md).
 
 ---
 

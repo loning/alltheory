@@ -164,4 +164,4 @@ title: "释放已知"
 
 ---
 
-[← 空手](./empty-hands) | [冬天的承诺 →](./winters-promise) 
+[← 空手](./empty-hands.md) | [冬天的承诺 →](./winters-promise.md) 

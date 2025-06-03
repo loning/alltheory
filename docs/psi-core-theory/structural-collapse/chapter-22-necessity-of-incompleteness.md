@@ -116,7 +116,7 @@ Where each $\text{Provable}_i$ is a stronger system. Truth transcends any fixed 
 
 ## Connection to Chapter 23
 
-Incompleteness shows that structure emerges in hierarchies, each level transcending the previous. This leads us to [Chapter 23: The Hierarchical Emergence of Structure](./chapter-23-hierarchical-emergence-of-structure).
+Incompleteness shows that structure emerges in hierarchies, each level transcending the previous. This leads us to [Chapter 23: The Hierarchical Emergence of Structure](./chapter-23-hierarchical-emergence-of-structure.md).
 
 ---
 

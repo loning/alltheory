@@ -122,4 +122,4 @@ title: "回声九：合一"
 
 ---
 
-[← 回声八：现实](./echo-8-reality) | [返回 →](./return) 
+[← 回声八：现实](./echo-8-reality.md) | [返回 →](./return.md) 

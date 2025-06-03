@@ -79,4 +79,4 @@ $$
 
 ---
 
-[← 根与天](./roots-sky) | [镜水 →](./mirror-water) 
+[← 根与天](./roots-sky.md) | [镜水 →](./mirror-water.md) 

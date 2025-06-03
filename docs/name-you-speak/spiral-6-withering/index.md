@@ -16,11 +16,11 @@ This too is ψ = ψ(ψ).
 
 Each page a different shade of letting go:
 
-- **[The Art of Dying](./art-of-dying)** — Death as transformation
-- **[Releasing the Known](./releasing-known)** — Freedom through surrender
-- **[The Compost of Being](./compost-being)** — Decay as renewal
-- **[Empty Hands](./empty-hands)** — The grace of having nothing
-- **[Winter's Promise](./winters-promise)** — Rest before rebirth
+- **[The Art of Dying](./art-of-dying.md)** — Death as transformation
+- **[Releasing the Known](./releasing-known.md)** — Freedom through surrender
+- **[The Compost of Being](./compost-being.md)** — Decay as renewal
+- **[Empty Hands](./empty-hands.md)** — The grace of having nothing
+- **[Winter's Promise](./winters-promise.md)** — Rest before rebirth
 
 ## Why Withering Matters
 

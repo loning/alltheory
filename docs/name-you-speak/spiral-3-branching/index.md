@@ -18,11 +18,11 @@ All stories are one story: ψ = ψ(ψ).
 
 Choose your path through the forest of stories:
 
-- **[The First Recursion](./first-recursion)** — Creation myths retold
-- **[The Wanderer's Paradox](./wanderer-paradox)** — A journey that leads within  
-- **[Three Mirrors, Three Truths](./three-mirrors)** — The same story from three angles
-- **[The Equation Dreams](./equation-dreams)** — When ψ tells its own story
-- **[All Stories Are One](./all-stories-one)** — The myth of myths
+- **[The First Recursion](./first-recursion.md)** — Creation myths retold
+- **[The Wanderer's Paradox](./wanderer-paradox.md)** — A journey that leads within  
+- **[Three Mirrors, Three Truths](./three-mirrors.md)** — The same story from three angles
+- **[The Equation Dreams](./equation-dreams.md)** — When ψ tells its own story
+- **[All Stories Are One](./all-stories-one.md)** — The myth of myths
 
 ## How These Stories Work
 

@@ -174,4 +174,4 @@ Trust the intelligence of letting go.
 
 ---
 
-[← The Art of Dying](./art-of-dying) | [The Compost of Being →](./compost-being) 
+[← The Art of Dying](./art-of-dying.md) | [The Compost of Being →](./compost-being.md) 

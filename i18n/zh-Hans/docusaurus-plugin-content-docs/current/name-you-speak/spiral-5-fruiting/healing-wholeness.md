@@ -136,4 +136,4 @@ title: "通过完整而疗愈"
 
 ---
 
-[← 递归的生活](./recursive-life) | [从中心创造 →](./creating-center) 
+[← 递归的生活](./recursive-life.md) | [从中心创造 →](./creating-center.md) 

@@ -111,7 +111,7 @@ The principles are not separate laws but facets of the single self-referential j
 
 ## Connection to Chapter 8
 
-These first principles set the stage for the most profound breaking of symmetry—the emergence of time, space, and the directional flow of causation. This leads us to [Chapter 8: Primordial Symmetry Breaking](./chapter-08-primordial-symmetry-breaking).
+These first principles set the stage for the most profound breaking of symmetry—the emergence of time, space, and the directional flow of causation. This leads us to [Chapter 8: Primordial Symmetry Breaking](./chapter-08-primordial-symmetry-breaking.md).
 
 ---
 

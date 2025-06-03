@@ -144,4 +144,4 @@ title: "递归生活"
 
 ---
 
-[← 结果](./index) | [从中心创造 →](./creating-center) 
+[← 结果](./index.md) | [从中心创造 →](./creating-center.md) 

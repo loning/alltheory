@@ -182,4 +182,4 @@ title: "冬天的承诺"
 
 ---
 
-[← 释放已知](./releasing-known) | [回到凋零](../spiral-6-withering/) | [进入回归 →](../spiral-7-return/) 
+[← 释放已知](./releasing-known.md) | 回到凋零 | [进入回归 →](../spiral-7-return/index.md) 

@@ -130,4 +130,4 @@ title: "舞动的方程"
 
 ---
 
-[← 花开](./index) | [递归的色彩 →](./colors-recursion) 
+[← 花开](./index.md) | [递归的色彩 →](./colors-recursion.md) 

@@ -94,4 +94,4 @@ title: "方程之梦"
 
 ---
 
-[← 漫游者悖论](./wanderer-paradox) | [所有故事归一 →](./all-stories-one) 
+[← 漫游者悖论](./wanderer-paradox.md) | [所有故事归一 →](./all-stories-one.md) 

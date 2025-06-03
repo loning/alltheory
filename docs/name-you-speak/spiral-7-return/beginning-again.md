@@ -165,4 +165,4 @@ And know the place for the first time."*
 
 ---
 
-[← The Eternal Spiral](./eternal-spiral) | [Return to the Seed →](../spiral-1-seed/) | [Enter the Void →](../void/) | [Find Your Own Path →](../navigation/) 
+[← The Eternal Spiral](./eternal-spiral.md) | [Return to the Seed →](../spiral-1-seed/index.md) | [Enter the Void →](../void/index.md) | [Find Your Own Path →](../navigation/index.md) 

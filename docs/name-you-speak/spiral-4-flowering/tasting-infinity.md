@@ -132,4 +132,4 @@ Like you.
 
 ---
 
-[← Dancing the Equation](./dancing-equation) | [The Garden Knows →](./garden-knows) 
+[← Dancing the Equation](./dancing-equation.md) | [The Garden Knows →](./garden-knows.md) 

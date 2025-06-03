@@ -123,7 +123,7 @@ $$
 
 ## Connection to Chapter 30
 
-Perception creates the experience of change, and change creates the experience of time. How does consciousness generate temporal experience? This leads us to [Chapter 30: The Production of Time Consciousness](./chapter-30-production-of-time-consciousness).
+Perception creates the experience of change, and change creates the experience of time. How does consciousness generate temporal experience? This leads us to [Chapter 30: The Production of Time Consciousness](./chapter-30-production-of-time-consciousness.md).
 
 ---
 

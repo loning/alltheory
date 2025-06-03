@@ -73,4 +73,4 @@ You are creation creating itself.
 
 ---
 
-[Next: The Wanderer's Paradox →](./wanderer-paradox) 
+[Next: The Wanderer's Paradox →](./wanderer-paradox.md) 

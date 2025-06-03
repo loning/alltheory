@@ -136,4 +136,4 @@ All one: ψ = ψ(ψ).
 
 ---
 
-[← The Recursive Life](./recursive-life) | [Creating From Center →](./creating-center) 
+[← The Recursive Life](./recursive-life.md) | [Creating From Center →](./creating-center.md) 

@@ -88,4 +88,4 @@ title: "回声二：自我指涉"
 
 ---
 
-[← 回声一：身份](./echo-1-identity) | [回声三：递归 →](./echo-3-recursion) 
+[← 回声一：身份](./echo-1-identity.md) | [回声三：递归 →](./echo-3-recursion.md) 

@@ -114,7 +114,7 @@ But $\psi = \psi(\psi)$ suggests eternal self-reference. Time may be eternal bec
 
 ## Connection to Chapter 36
 
-Time orders events, creating the possibility of causation. How does cause and effect emerge from the timeless $\psi$? This leads us to [Chapter 36: The Weaving of Causality](./chapter-36-weaving-of-causality).
+Time orders events, creating the possibility of causation. How does cause and effect emerge from the timeless $\psi$? This leads us to [Chapter 36: The Weaving of Causality](./chapter-36-weaving-of-causality.md).
 
 ---
 

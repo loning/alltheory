@@ -131,7 +131,7 @@ Where Ord is the class of all ordinals. This hierarchy has no top—$\psi = \psi
 
 ## Connection to Chapter 24
 
-The hierarchical nature of structure reveals a deep unity: form and content are not separate but two aspects of the same self-referential process. This leads us to [Chapter 24: The Unity of Form and Content](./chapter-24-unity-of-form-and-content).
+The hierarchical nature of structure reveals a deep unity: form and content are not separate but two aspects of the same self-referential process. This leads us to [Chapter 24: The Unity of Form and Content](./chapter-24-unity-of-form-and-content.md).
 
 ---
 

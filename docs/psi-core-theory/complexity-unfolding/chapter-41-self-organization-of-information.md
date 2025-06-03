@@ -117,7 +117,7 @@ Each level transcends the previous while including it.
 
 ## Connection to Chapter 42
 
-Information self-organizes most dramatically in living systems. But what exactly is life? This leads us to [Chapter 42: The Definition of Life](./chapter-42-definition-of-life).
+Information self-organizes most dramatically in living systems. But what exactly is life? This leads us to [Chapter 42: The Definition of Life](./chapter-42-definition-of-life.md).
 
 ---
 

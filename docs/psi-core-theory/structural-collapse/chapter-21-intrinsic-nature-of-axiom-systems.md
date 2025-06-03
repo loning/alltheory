@@ -119,7 +119,7 @@ Each era discovers new ways $\psi$ can axiomatize itself.
 
 ## Connection to Chapter 22
 
-Even the most carefully chosen axiom systems face inherent limitations. Incompleteness is not a bug but a feature of self-referential systems. This leads us to [Chapter 22: The Necessity of Incompleteness](./chapter-22-necessity-of-incompleteness).
+Even the most carefully chosen axiom systems face inherent limitations. Incompleteness is not a bug but a feature of self-referential systems. This leads us to [Chapter 22: The Necessity of Incompleteness](./chapter-22-necessity-of-incompleteness.md).
 
 ---
 

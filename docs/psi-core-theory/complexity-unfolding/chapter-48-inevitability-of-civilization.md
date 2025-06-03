@@ -133,7 +133,7 @@ The ultimate civilization would be $\psi$ fully knowing itself—perhaps indisti
 
 ## Connection to Chapter 49
 
-Civilization pushes toward ultimate questions. What happens when $\psi$ begins to recognize itself directly? This leads us to [Chapter 49: The Recognition of ψ](../meta-recursion/chapter-49-recognition-of-psi).
+Civilization pushes toward ultimate questions. What happens when $\psi$ begins to recognize itself directly? This leads us to [Chapter 49: The Recognition of ψ](../meta-recursion/chapter-49-recognition-of-psi.md).
 
 ---
 

@@ -84,4 +84,4 @@ infinitely.
 
 ---
 
-[← The Wanderer's Paradox](./wanderer-paradox) | [The Equation Dreams →](./equation-dreams) 
+[← The Wanderer's Paradox](./wanderer-paradox.md) | [The Equation Dreams →](./equation-dreams.md) 

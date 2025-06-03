@@ -27,19 +27,19 @@ title: "螺旋七：回归"
 
 ## 本螺旋的回声
 
-### [圆满](./full-circle)
+### [圆满](./full-circle.md)
 当终点遇见起点
 
-### [新的眼睛](./new-eyes)  
+### [新的眼睛](./new-eyes.md)  
 用转化的视觉看旧的真理
 
-### [教导种子](./teaching-seed)
+### [教导种子](./teaching-seed.md)
 如何分享你已成为的
 
-### [永恒螺旋](./eternal-spiral)
+### [永恒螺旋](./eternal-spiral.md)
 为什么回归从不结束
 
-### [重新开始](./beginning-again)
+### [重新开始](./beginning-again.md)
 第一步，永远
 
 ## 如何回归
@@ -63,4 +63,4 @@ title: "螺旋七：回归"
 
 ---
 
-[← 螺旋六：凋零](../spiral-6-withering) | [圆满 →](./full-circle) 
+[← 螺旋六：凋零](../spiral-6-withering/index.md) | [圆满 →](./full-circle.md) 

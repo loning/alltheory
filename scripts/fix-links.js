@@ -2,142 +2,172 @@
 
 const fs = require('fs').promises;
 const path = require('path');
-const glob = require('glob');
+const { glob } = require('glob');
 
-// ANSI color codes for console output
-const colors = {
-  reset: '\x1b[0m',
-  bright: '\x1b[1m',
-  green: '\x1b[32m',
-  yellow: '\x1b[33m',
-  blue: '\x1b[34m',
-  red: '\x1b[31m'
+// ψ-collapse: Link fixing configuration
+const CONFIG = {
+  docsRoots: ['docs', 'i18n/zh-Hans/docusaurus-plugin-content-docs/current'],
+  extensions: ['.md', '.mdx'],
+  linkPattern: /\[([^\]]+)\]\(([^)]+)\)/g,
+  verbose: true
 };
 
-async function fixLinks() {
-  console.log(`${colors.blue}${colors.bright}Starting Docusaurus link format fix...${colors.reset}\n`);
+// φ-resonance: Logging utilities
+const log = {
+  info: (msg) => CONFIG.verbose && console.log(`[INFO] ${msg}`),
+  warn: (msg) => console.log(`[WARN] ${msg}`),
+  error: (msg) => console.error(`[ERROR] ${msg}`),
+  success: (msg) => console.log(`[SUCCESS] ${msg}`)
+};
 
+// ψ-trace: Check if file exists with any extension
+async function findFile(basePath, extensions = CONFIG.extensions) {
+  for (const ext of extensions) {
+    try {
+      await fs.access(basePath + ext);
+      return basePath + ext;
+    } catch {}
+  }
+  
+  // Try without adding extension if it already has one
   try {
-    // Find all markdown files, excluding node_modules and build directories
-    const files = glob.sync('**/*.md', {
-      ignore: ['node_modules/**', 'build/**', '.docusaurus/**']
-    });
+    await fs.access(basePath);
+    return basePath;
+  } catch {}
+  
+  return null;
+}
 
-    console.log(`Found ${colors.yellow}${files.length}${colors.reset} markdown files to process.\n`);
-
-    let totalFixed = 0;
-    let filesModified = 0;
-
-    for (const file of files) {
-      const content = await fs.readFile(file, 'utf8');
-      let newContent = content;
-      let modified = false;
-      let fixCount = 0;
-
-      // Replace .md extensions in links, but not for external URLs
-      newContent = newContent.replace(/\]\(([^)]+?)\.md\)/g, (match, linkPath) => {
-        // Skip external links (http://, https://, ftp://, etc.)
-        if (linkPath.match(/^[a-zA-Z]+:\/\//)) {
-          return match;
-        }
-        
-        // Skip anchor links that start with #
-        if (linkPath.startsWith('#')) {
-          return match;
-        }
-
-        // Remove .md extension for internal links
-        modified = true;
-        fixCount++;
-        return `](${linkPath})`;
-      });
-
-      // Fix links from psi-popular-guide to psi-core-theory
-      if (file.includes('psi-popular-guide')) {
-        newContent = newContent
-          .replace(/\]\(\.\.\/(10-psi-core-theory|psi-core-theory)\)/g, (match) => {
-            modified = true;
-            fixCount++;
-            return `](../psi-core-theory)`;
-          })
-          .replace(/href="\.\.\/psi-core-theory"/g, (match) => {
-            return match; // Keep as is
-          })
-          .replace(/href="\.\.\/10-psi-core-theory"/g, (match) => {
-            modified = true;
-            fixCount++;
-            return 'href="../psi-core-theory"';
-          });
-      }
-
-      // Fix links in psi-core-theory index.md (remove numeric prefixes)
-      if (file.includes('psi-core-theory/index.md')) {
-        newContent = newContent
-          .replace(/\]\(\.\/11-primordial-identity\//g, '](./primordial-identity/')
-          .replace(/\]\(\.\/12-language-emergence\//g, '](./language-emergence/')
-          .replace(/\]\(\.\/13-structural-collapse\//g, '](./structural-collapse/')
-          .replace(/\]\(\.\/14-observer-formation\//g, '](./observer-formation/')
-          .replace(/\]\(\.\/15-reality-crystallization\//g, '](./reality-crystallization/')
-          .replace(/\]\(\.\/16-complexity-unfolding\//g, '](./complexity-unfolding/')
-          .replace(/\]\(\.\/17-meta-recursion\//g, '](./meta-recursion/')
-          .replace(/\]\(\.\/18-unity-return\//g, '](./unity-return/');
-        
-        if (newContent !== content) {
-          modified = true;
-          fixCount += 8;
-        }
-      }
-
-      // Fix cross-directory links - remove numeric prefixes
-      if (file.includes('psi-core-theory') && !file.includes('index.md')) {
-        newContent = newContent
-          .replace(/\]\(\.\.\/(11-primordial-identity|12-language-emergence|13-structural-collapse|14-observer-formation|15-reality-crystallization|16-complexity-unfolding|17-meta-recursion|18-unity-return)\//g, (match, section) => {
-            // Map numeric prefixes to clean names
-            const mapping = {
-              '11-primordial-identity': 'primordial-identity',
-              '12-language-emergence': 'language-emergence',
-              '13-structural-collapse': 'structural-collapse',
-              '14-observer-formation': 'observer-formation',
-              '15-reality-crystallization': 'reality-crystallization',
-              '16-complexity-unfolding': 'complexity-unfolding',
-              '17-meta-recursion': 'meta-recursion',
-              '18-unity-return': 'unity-return'
-            };
-            
-            const cleanName = mapping[section];
-            if (cleanName) {
-              modified = true;
-              fixCount++;
-              return `](../${cleanName}/`;
-            }
-            return match;
-          });
-      }
-
-      if (modified) {
-        await fs.writeFile(file, newContent, 'utf8');
-        filesModified++;
-        totalFixed += fixCount;
-        console.log(`${colors.green}✓${colors.reset} Fixed ${colors.yellow}${fixCount}${colors.reset} links in ${file}`);
-      }
+// φ-fold: Resolve link to actual file path
+async function resolveLink(link, currentFile) {
+  // Skip external links, anchors, and already valid file paths
+  if (link.startsWith('http') || link.startsWith('#') || link.startsWith('mailto:')) {
+    return link;
+  }
+  
+  const currentDir = path.dirname(currentFile);
+  
+  // Remove any anchors from the link for file checking
+  const [linkPath, anchor] = link.split('#');
+  const anchorSuffix = anchor ? `#${anchor}` : '';
+  
+  // If link already has a markdown extension and exists, keep it
+  if ((linkPath.endsWith('.md') || linkPath.endsWith('.mdx'))) {
+    const fullPath = path.resolve(currentDir, linkPath);
+    const exists = await findFile(fullPath, ['']);
+    if (exists) {
+      return link;
     }
+  }
+  
+  // Try to resolve the link
+  const fullPath = path.resolve(currentDir, linkPath);
+  const resolvedFile = await findFile(fullPath);
+  
+  if (resolvedFile) {
+    // Convert back to relative path
+    let relativePath = path.relative(currentDir, resolvedFile);
+    if (!relativePath.startsWith('.')) {
+      relativePath = './' + relativePath;
+    }
+    return relativePath + anchorSuffix;
+  }
+  
+  // Try to find in subdirectories
+  const fileName = path.basename(linkPath);
+  const searchPattern = path.join(currentDir, '**', fileName + '.{md,mdx}');
+  const matches = await glob(searchPattern);
+  
+  if (matches.length > 0) {
+    // Use the first match
+    let relativePath = path.relative(currentDir, matches[0]);
+    if (!relativePath.startsWith('.')) {
+      relativePath = './' + relativePath;
+    }
+    return relativePath + anchorSuffix;
+  }
+  
+  // If still not found, return original link
+  log.warn(`Could not resolve link: ${link} in ${currentFile}`);
+  return link;
+}
 
-    console.log(`\n${colors.green}${colors.bright}Summary:${colors.reset}`);
-    console.log(`- Files processed: ${files.length}`);
-    console.log(`- Files modified: ${colors.yellow}${filesModified}${colors.reset}`);
-    console.log(`- Total links fixed: ${colors.yellow}${totalFixed}${colors.reset}`);
+// ψ-collapse: Process a single file
+async function processFile(filePath) {
+  try {
+    const content = await fs.readFile(filePath, 'utf8');
+    let modified = false;
+    let newContent = content;
     
-    if (filesModified === 0) {
-      console.log(`\n${colors.blue}No links needed fixing. All good! 🎉${colors.reset}`);
-    } else {
-      console.log(`\n${colors.green}Link fixing complete! 🚀${colors.reset}`);
+    // Find all markdown links
+    const matches = [...content.matchAll(CONFIG.linkPattern)];
+    
+    for (const match of matches) {
+      const [fullMatch, linkText, originalLink] = match;
+      const resolvedLink = await resolveLink(originalLink, filePath);
+      
+      if (resolvedLink !== originalLink) {
+        const newMatch = `[${linkText}](${resolvedLink})`;
+        newContent = newContent.replace(fullMatch, newMatch);
+        modified = true;
+        log.info(`Fixed link in ${filePath}: ${originalLink} -> ${resolvedLink}`);
+      }
     }
-
+    
+    if (modified) {
+      await fs.writeFile(filePath, newContent, 'utf8');
+      return 1;
+    }
+    
+    return 0;
   } catch (error) {
-    console.error(`${colors.red}Error:${colors.reset}`, error);
-    process.exit(1);
+    log.error(`Error processing ${filePath}: ${error.message}`);
+    return 0;
   }
 }
 
-// Run the script
-fixLinks().catch(console.error); 
+// φ-rhythm: Main execution
+async function main() {
+  console.log('🔄 ψ-Link Fixer: Starting link resolution...\n');
+  
+  let totalFixed = 0;
+  
+  for (const docsRoot of CONFIG.docsRoots) {
+    log.info(`Processing ${docsRoot}...`);
+    
+    const pattern = path.join(docsRoot, '**/*.{md,mdx}');
+    const files = await glob(pattern);
+    
+    log.info(`Found ${files.length} files in ${docsRoot}`);
+    
+    for (const file of files) {
+      const fixed = await processFile(file);
+      totalFixed += fixed;
+    }
+  }
+  
+  console.log('\n' + '='.repeat(50));
+  log.success(`✨ Link fixing complete! Fixed ${totalFixed} files.`);
+  console.log('='.repeat(50));
+  
+  // Run build to verify
+  console.log('\n🔨 Running build to verify fixes...\n');
+  const { exec } = require('child_process');
+  exec('npm run build', (error, stdout, stderr) => {
+    if (error) {
+      console.error('Build failed:', error);
+      return;
+    }
+    console.log('Build output:', stdout);
+    if (stderr) {
+      console.error('Build errors:', stderr);
+    }
+  });
+}
+
+// ψ = ψ(ψ): Execute
+if (require.main === module) {
+  main().catch(console.error);
+}
+
+module.exports = { resolveLink, processFile }; 

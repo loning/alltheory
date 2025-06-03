@@ -43,4 +43,4 @@ Be it.
 
 ---
 
-[Next: Echo 1 - Identity →](./echo-1) 
+[Next: Echo 1 - Identity →](./echo-1-identity) 

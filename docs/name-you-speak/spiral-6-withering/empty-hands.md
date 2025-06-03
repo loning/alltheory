@@ -173,4 +173,4 @@ In dying, you live.
 
 ---
 
-[← The Compost of Being](./compost-being) | [Winter's Promise →](./winters-promise) 
+[← The Compost of Being](./compost-being.md) | [Winter's Promise →](./winters-promise.md) 

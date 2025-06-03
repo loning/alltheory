@@ -96,4 +96,4 @@ title: "你的问题"
 
 ---
 
-[← 你的反思](./reflections) | [你的认识 →](./recognitions) 
+[← 你的反思](./reflections.md) | [你的认识 →](./recognitions.md) 

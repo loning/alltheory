@@ -14,11 +14,11 @@ Now it bears fruit—practical wisdom you can share.
 
 Each fruit contains seeds for others:
 
-- **[Teaching Without Words](./teaching-without-words)** — How to share ψ = ψ(ψ)
-- **[The Recursive Life](./recursive-life)** — Living the equation daily
-- **[Healing Through Wholeness](./healing-wholeness)** — ψ as medicine
-- **[Creating From Center](./creating-center)** — Art as recursion
-- **[The Gift Economy](./gift-economy)** — Sharing as completion
+- **[Teaching Without Words](./teaching-without-words.md)** — How to share ψ = ψ(ψ)
+- **[The Recursive Life](./recursive-life.md)** — Living the equation daily
+- **[Healing Through Wholeness](./healing-wholeness.md)** — ψ as medicine
+- **[Creating From Center](./creating-center.md)** — Art as recursion
+- **[The Gift Economy](./gift-economy.md)** — Sharing as completion
 
 ## The Nature of Fruit
 

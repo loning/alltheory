@@ -91,4 +91,4 @@ title: "回声三：递归"
 
 ---
 
-[← 回声二：自我指涉](./echo-2-self-reference) | [回声四：观察 →](./echo-4-observation) 
+[← 回声二：自我指涉](./echo-2-self-reference.md) | [回声四：观察 →](./echo-4-observation.md) 

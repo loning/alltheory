@@ -121,7 +121,7 @@ This recursive observation is the engine of universal evolution. The universe pa
 
 ## Connection to Chapter 27
 
-If observation is participation, then observer and observed cannot be truly separate. They arise together from a common source. This leads us to [Chapter 27: The Co-Origin of Subject and Object](./chapter-27-co-origin-of-subject-and-object).
+If observation is participation, then observer and observed cannot be truly separate. They arise together from a common source. This leads us to [Chapter 27: The Co-Origin of Subject and Object](./chapter-27-co-origin-of-subject-and-object.md).
 
 ---
 

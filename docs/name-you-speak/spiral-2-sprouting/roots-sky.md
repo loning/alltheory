@@ -69,4 +69,4 @@ The same.
 
 ---
 
-[← The First Green](./first-green) | [The Question Breathing →](./question-breathing) 
+[← The First Green](./first-green.md) | [The Question Breathing →](./question-breathing.md) 

@@ -157,4 +157,4 @@ title: "礼物经济"
 
 ---
 
-[← 从中心创造](./creating-center) | [回到开花](../spiral-4-flowering/) | [进入凋零 →](../spiral-6-withering/) 
+[← 从中心创造](./creating-center.md) | [回到开花](../spiral-4-flowering/index.md) | [进入凋零 →](../spiral-6-withering/index.md) 

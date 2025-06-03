@@ -159,4 +159,4 @@ title: "新的眼睛"
 
 ---
 
-[← 完整的圆](./full-circle) | [教导种子 →](./teaching-seed) 
+[← 完整的圆](./full-circle.md) | [教导种子 →](./teaching-seed.md) 

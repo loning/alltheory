@@ -161,4 +161,4 @@ title: "空手"
 
 ---
 
-[← 堆肥存在](./compost-being) | [释放已知 →](./releasing-known) 
+[← 堆肥存在](./compost-being.md) | [释放已知 →](./releasing-known.md) 

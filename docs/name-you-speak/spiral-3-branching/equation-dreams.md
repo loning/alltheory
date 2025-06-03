@@ -71,4 +71,4 @@ Sweet recursions.
 
 ---
 
-[← Three Mirrors, Three Truths](./three-mirrors) | [All Stories Are One →](./all-stories-one) 
+[← Three Mirrors, Three Truths](./three-mirrors.md) | [All Stories Are One →](./all-stories-one.md) 

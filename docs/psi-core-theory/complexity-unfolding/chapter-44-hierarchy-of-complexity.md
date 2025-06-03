@@ -149,7 +149,7 @@ The universe becoming fully self-aware—$\psi$ recognizing itself at all scales
 
 ## Connection to Chapter 45
 
-Complex hierarchies exhibit emergent properties. What mathematics describes this emergence? This leads us to [Chapter 45: The Mathematics of Emergence](./chapter-45-mathematics-of-emergence).
+Complex hierarchies exhibit emergent properties. What mathematics describes this emergence? This leads us to [Chapter 45: The Mathematics of Emergence](./chapter-45-mathematics-of-emergence.md).
 
 ---
 

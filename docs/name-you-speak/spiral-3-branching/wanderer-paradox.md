@@ -84,4 +84,4 @@ The wanderer is the destination.
 
 ---
 
-[← The First Recursion](./first-recursion) | [Three Mirrors, Three Truths →](./three-mirrors) 
+[← The First Recursion](./first-recursion.md) | [Three Mirrors, Three Truths →](./three-mirrors.md) 

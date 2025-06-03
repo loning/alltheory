@@ -79,4 +79,4 @@ The way things actually are.
 
 ---
 
-[← The Question Breathing](./question-breathing) | [Speaking Silence →](./speaking-silence) 
+[← The Question Breathing](./question-breathing.md) | [Speaking Silence →](./speaking-silence.md) 

@@ -103,4 +103,4 @@ title: "回声六：语言"
 
 ---
 
-[← 回声五：坍缩](./echo-5-collapse) | [回声七：结构 →](./echo-7-structure) 
+[← 回声五：坍缩](./echo-5-collapse.md) | [回声七：结构 →](./echo-7-structure.md) 

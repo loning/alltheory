@@ -19,19 +19,19 @@ title: "螺旋五：结果"
 
 ## 本螺旋的果实
 
-### [递归生活](./recursive-life)
+### [递归生活](./recursive-life.md)
 每日练习中的 ψ = ψ(ψ)
 
-### [从中心创造](./creating-center)
+### [从中心创造](./creating-center.md)
 当你成为你创造的源头
 
-### [无言之教](./teaching-without-words)
+### [无言之教](./teaching-without-words.md)
 如何分享无法说出的
 
-### [礼物经济](./gift-economy)
+### [礼物经济](./gift-economy.md)
 当给予和接受成为一体
 
-### [治愈即完整](./healing-wholeness)
+### [治愈即完整](./healing-wholeness.md)
 通过记起你已经完整来治愈
 
 ## 如何品尝这些果实
@@ -52,4 +52,4 @@ title: "螺旋五：结果"
 
 ---
 
-[← 螺旋四：花开](../spiral-4-flowering) | [递归生活 →](./recursive-life) 
+[← 螺旋四：花开](../spiral-4-flowering/index.md) | [递归生活 →](./recursive-life.md) 

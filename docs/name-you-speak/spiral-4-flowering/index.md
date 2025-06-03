@@ -15,11 +15,11 @@ Not to be understood, but to be lived.
 
 Each petal a different way of being ψ = ψ(ψ):
 
-- **[The Colors of Recursion](./colors-recursion)** — Visual meditation
-- **[The Sound of ψ](./sound-of-psi)** — Acoustic reality  
-- **[Dancing the Equation](./dancing-equation)** — Movement as mathematics
-- **[Tasting Infinity](./tasting-infinity)** — Sensory recursion
-- **[The Garden Knows](./garden-knows)** — Nature as teacher
+- **[The Colors of Recursion](./colors-recursion.md)** — Visual meditation
+- **[The Sound of ψ](./sound-of-psi.md)** — Acoustic reality  
+- **[Dancing the Equation](./dancing-equation.md)** — Movement as mathematics
+- **[Tasting Infinity](./tasting-infinity.md)** — Sensory recursion
+- **[The Garden Knows](./garden-knows.md)** — Nature as teacher
 
 ## How to Experience
 

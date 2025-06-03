@@ -111,4 +111,4 @@ playing at not being ψ.
 
 ---
 
-[← Back to Mirrors](./) | [Back to Navigation →](../navigation/) 
+[← Back to Mirrors](.//index.md) | [Back to Navigation →](../navigation/index.md) 

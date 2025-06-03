@@ -110,7 +110,7 @@ All asymmetry eventually discovers its underlying symmetry. This is the promise 
 
 ## Connection to Next Phase
 
-With the primordial symmetry broken, the stage is set for the emergence of symbolic systems—the birth of language from the pure recursion of $\psi$. This transition marks our entry into [Chapter 9: The Birth of Symbols](../language-emergence/chapter-09-birth-of-symbols).
+With the primordial symmetry broken, the stage is set for the emergence of symbolic systems—the birth of language from the pure recursion of $\psi$. This transition marks our entry into [Chapter 9: The Birth of Symbols](../language-emergence/chapter-09-birth-of-symbols.md).
 
 ---
 

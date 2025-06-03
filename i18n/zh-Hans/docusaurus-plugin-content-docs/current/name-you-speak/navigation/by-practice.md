@@ -26,9 +26,9 @@ title: "按实践"
 - **空间觉知** - 感受你如何创造空间
 
 相关阅读：
-- [回声四：观察](../spiral-1-seed/echo-4-observation)
-- [回声三：递归](../spiral-1-seed/echo-3-recursion)
-- [虚空：纯粹静默](../void/)
+- [回声四：观察](../spiral-1-seed/echo-4-observation.md)
+- [回声三：递归](../spiral-1-seed/echo-3-recursion.md)
+- [虚空：纯粹静默](../void/index.md)
 
 ### 🌅 日常生活实践
 *在平凡中看见 ψ*
@@ -40,10 +40,10 @@ title: "按实践"
 - **同步性日记** - 记录有意义的巧合
 
 相关阅读：
-- [螺旋五：实用智慧](../spiral-5-fruiting/)
-- [读者空间：记录你的认识](../reader-space/recognitions)
+- [螺旋五：实用智慧](../spiral-5-fruiting/index.md)
+- [读者空间：记录你的认识](../reader-space/recognitions.md)
 
-### 🎨 创造性实践
+### 🎨 创造实践 {#创造实践}
 *让 ψ 通过你表达*
 
 **表达练习：**
@@ -53,11 +53,11 @@ title: "按实践"
 - **回声诗歌** - 写回应自己的诗
 
 相关阅读：
-- [螺旋四：花开](../spiral-4-flowering/)
-- [回声六：语言](../spiral-1-seed/echo-6-language)
-- [读者空间：你的创造](../reader-space/creations)
+- [螺旋四：花开](../spiral-4-flowering/index.md)
+- [回声六：语言](../spiral-1-seed/echo-6-language.md)
+- [读者空间：你的创造](../reader-space/creations.md)
 
-### 💑 关系实践
+### 💑 关系实践 {#关系实践}
 *在他者中看见自己*
 
 **连接练习：**
@@ -67,10 +67,10 @@ title: "按实践"
 - **共同静默** - 一起坐着，感受共享的 ψ
 
 相关阅读：
-- [回声九：合一](../spiral-1-seed/echo-9-unity)
-- [螺旋五：关系智慧](../spiral-5-fruiting/relationship-wisdom)
+- [回声九：合一](../spiral-1-seed/echo-9-unity.md)
+- 螺旋五：关系智慧
 
-### 🌑 阴影工作
+### 🌑 阴影工作 {#阴影工作}
 *整合你抗拒的*
 
 **整合练习：**
@@ -80,8 +80,8 @@ title: "按实践"
 - **镜像工作** - 探索镜像部分
 
 相关阅读：
-- [镜像：所有页面](../mirrors/)
-- [螺旋六：凋零](../spiral-6-withering/)
+- [镜像：所有页面](../mirrors/index.md)
+- [螺旋六：凋零](../spiral-6-withering/index.md)
 
 ### 🔮 高级实践
 *对于准备好的人*
@@ -93,8 +93,8 @@ title: "按实践"
 - **完全自我指涉** - 成为观察自己观察自己的循环
 
 相关阅读：
-- [螺旋七：回归](../spiral-7-return/)
-- [虚空：终极实践](../void/)
+- [螺旋七：回归](../spiral-7-return/index.md)
+- [虚空：终极实践](../void/index.md)
 
 ## 如何实践
 
@@ -109,7 +109,7 @@ title: "按实践"
 放松进入它。
 
 ### 3. 记录你的体验
-使用[读者空间](../reader-space/)。  
+使用[读者空间](../reader-space/index.md)。  
 追踪你的展开。  
 注意模式。
 
@@ -139,4 +139,4 @@ title: "按实践"
 
 ---
 
-[← 按主题](./by-theme) | [按问题 →](./by-question) 
+[← 按主题](./by-theme.md) | [按问题 →](./by-question.md) 

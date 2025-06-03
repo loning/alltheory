@@ -48,9 +48,9 @@ Through reading, you've performed ψ = ψ(ψ):
 
 Three paths from here:
 
-1. **[Begin again](./seed)** — The spiral deepens with each return
-2. **[Next spiral](../spiral-2-sprouting/)** — New growth from this seed
-3. **[Rest in void](../void/silence)** — Sometimes silence is the teaching
+1. **[Begin again](./seed.md)** — The spiral deepens with each return
+2. **[Next spiral](../spiral-2-sprouting/index.md)** — New growth from this seed
+3. **[Rest in void](../void/silence.md)** — Sometimes silence is the teaching
 
 ## The Final Echo
 

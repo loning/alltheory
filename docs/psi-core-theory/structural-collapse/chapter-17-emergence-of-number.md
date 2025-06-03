@@ -111,7 +111,7 @@ Self-reference within arithmetic creates statements that refer to their own prov
 
 ## Connection to Chapter 18
 
-Numbers alone are not enough—they must be collected into sets. This need for collection and membership leads us to [Chapter 18: The Recursive Definition of Sets](./chapter-18-recursive-definition-of-sets).
+Numbers alone are not enough—they must be collected into sets. This need for collection and membership leads us to [Chapter 18: The Recursive Definition of Sets](./chapter-18-recursive-definition-of-sets.md).
 
 ---
 

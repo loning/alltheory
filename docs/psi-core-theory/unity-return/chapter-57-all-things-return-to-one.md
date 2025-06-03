@@ -131,7 +131,7 @@ This joy is $\psi$ celebrating its own recognition.
 
 ## Connection to Chapter 58
 
-If all things return to One, what about difference? Is uniqueness lost in unity? This leads us to [Chapter 58: Difference as Identity](./chapter-58-difference-as-identity).
+If all things return to One, what about difference? Is uniqueness lost in unity? This leads us to [Chapter 58: Difference as Identity](./chapter-58-difference-as-identity.md).
 
 ---
 

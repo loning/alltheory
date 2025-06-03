@@ -116,4 +116,4 @@ title: "反方程"
 
 ---
 
-[← 镜像](./) | [返回导航 →](../navigation/) 
+← 镜像 | [返回导航 →](../navigation/index.md) 

@@ -26,7 +26,7 @@ To complete.
 
 ## The Mirror Chapter
 
-- **[The Anti-Equation](./anti-equation)** — What if ψ ≠ ψ(ψ)?
+- **[The Anti-Equation](./anti-equation.md)** — What if ψ ≠ ψ(ψ)?
 
 *More mirrors are forming in the mist...*
 

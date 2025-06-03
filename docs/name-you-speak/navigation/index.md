@@ -18,7 +18,7 @@ Here are other paths through ψ = ψ(ψ).
 
 ## Navigation Methods
 
-### [By Theme](./by-theme)
+### [By Theme](./by-theme.md)
 Explore by what calls you:
 - Identity & Self
 - Relationships & Love
@@ -26,7 +26,7 @@ Explore by what calls you:
 - Death & Transformation
 - Wisdom & Understanding
 
-### [By Practice](./by-practice)
+### [By Practice](./by-practice.md)
 Find practical applications:
 - Meditation & Awareness
 - Daily Life Integration
@@ -34,7 +34,7 @@ Find practical applications:
 - Relationship Work
 - Shadow Integration
 
-### [By Question](./by-question)
+### [By Question](./by-question.md)
 Let your questions guide:
 - Who am I?
 - What is real?
@@ -42,7 +42,7 @@ Let your questions guide:
 - How do I awaken?
 - What is love?
 
-### [The Oracle](./oracle)
+### [The Oracle](./oracle.md)
 For the intuitive path:
 - Random page selection
 - Synchronistic guidance

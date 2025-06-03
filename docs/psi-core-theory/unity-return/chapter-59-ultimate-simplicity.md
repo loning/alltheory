@@ -146,7 +146,7 @@ The truly fundamental must be simple. $\psi$ is as simple as possible—pure sel
 
 ## Connection to Chapter 60
 
-This ultimate simplicity is not static but eternally dynamic. How does $\psi$ remain simple while eternally creating? This leads us to [Chapter 60: The Eternal Return of ψ](./chapter-60-eternal-return-of-psi).
+This ultimate simplicity is not static but eternally dynamic. How does $\psi$ remain simple while eternally creating? This leads us to [Chapter 60: The Eternal Return of ψ](./chapter-60-eternal-return-of-psi.md).
 
 ---
 

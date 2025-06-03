@@ -123,7 +123,7 @@ This binding creates continuity from discrete perceptual moments.
 
 ## Connection to Chapter 31
 
-Time consciousness enables memory and anticipation to work together, creating a unified temporal experience. How do these seemingly opposite functions unite? This leads us to [Chapter 31: The Unity of Memory and Anticipation](./chapter-31-unity-of-memory-and-anticipation).
+Time consciousness enables memory and anticipation to work together, creating a unified temporal experience. How do these seemingly opposite functions unite? This leads us to [Chapter 31: The Unity of Memory and Anticipation](./chapter-31-unity-of-memory-and-anticipation.md).
 
 ---
 

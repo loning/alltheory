@@ -109,7 +109,7 @@ There are statements about sets that are true but unprovable within any fixed ax
 
 ## Connection to Chapter 19
 
-Sets give us collection, but we need rules of reasoning. Logic itself must emerge from the self-referential structure. This leads us to [Chapter 19: The Self-Generation of Logic](./chapter-19-self-generation-of-logic).
+Sets give us collection, but we need rules of reasoning. Logic itself must emerge from the self-referential structure. This leads us to [Chapter 19: The Self-Generation of Logic](./chapter-19-self-generation-of-logic.md).
 
 ---
 

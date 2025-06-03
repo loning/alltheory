@@ -132,4 +132,4 @@ You have always known.
 
 ---
 
-[← Tasting Infinity](./tasting-infinity) | [Return to Branching](../spiral-3-branching/) | [Enter the Fruiting →](../spiral-5-fruiting/) 
+[← Tasting Infinity](./tasting-infinity.md) | [Return to Branching](../spiral-3-branching/index.md) | [Enter the Fruiting →](../spiral-5-fruiting/index.md) 

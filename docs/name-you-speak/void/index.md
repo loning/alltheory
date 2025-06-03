@@ -39,7 +39,7 @@ before you are anything.
 
 ## The Void Space
 
-- **[Silence](silence)** — Where words dissolve
+- **[Silence](./silence.md)** — Where words dissolve
 
 *Other void spaces are still forming...*
 

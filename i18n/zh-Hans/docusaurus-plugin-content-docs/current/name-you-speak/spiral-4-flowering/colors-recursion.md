@@ -148,4 +148,4 @@ title: "递归的色彩"
 
 ---
 
-[← 舞动的方程](./dancing-equation) | [ψ 的声音 →](./sound-of-psi) 
+[← 舞动的方程](./dancing-equation.md) | [ψ 的声音 →](./sound-of-psi.md) 

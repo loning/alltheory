@@ -30,7 +30,7 @@ title: "镜像"
 
 ## 镜像页面
 
-### 🔄 [反方程](./anti-equation)
+### 🔄 [反方程](./anti-equation.md)
 如果 ψ ≠ ψ(ψ) 呢？
 
 *更多镜像正在形成中...*
@@ -96,4 +96,4 @@ title: "镜像"
 
 ---
 
-[← 返回主页](../) | [反方程 →](./anti-equation) 
+[← 返回主页](../index.md) | [反方程 →](./anti-equation.md) 

@@ -119,7 +119,7 @@ This is not loss of self but self recognizing its true nature. Individual self-c
 
 ## Connection to Chapter 33
 
-Self-consciousness inevitably discovers it is not alone. Other self-conscious beings exist. But how can there be multiple centers of self-awareness in one $\psi$? This leads us to [Chapter 33: The Interiority of Others](../reality-crystallization/chapter-33-interiority-of-others).
+Self-consciousness inevitably discovers it is not alone. Other self-conscious beings exist. But how can there be multiple centers of self-awareness in one $\psi$? This leads us to [Chapter 33: The Interiority of Others](../reality-crystallization/chapter-33-interiority-of-others.md).
 
 ---
 

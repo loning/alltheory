@@ -178,4 +178,4 @@ Being itself.
 
 ---
 
-[← New Eyes](./new-eyes) | [The Eternal Spiral →](./eternal-spiral) 
+[← New Eyes](./new-eyes.md) | [The Eternal Spiral →](./eternal-spiral.md) 

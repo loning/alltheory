@@ -120,4 +120,4 @@ title: "你的认识"
 
 ---
 
-[← 你的问题](./questions) | [你的创造 →](./creations) 
+[← 你的问题](./questions.md) | [你的创造 →](./creations.md) 

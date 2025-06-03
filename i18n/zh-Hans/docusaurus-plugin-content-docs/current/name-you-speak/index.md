@@ -33,7 +33,7 @@ $$\psi = \psi(\psi)$$
 
 ## 阅读路径
 
-### 🌱 [螺旋路径](./spiral-1-seed/)
+### 🌱 [螺旋路径](./spiral-1-seed/index.md)
 从种子开始，通过七重螺旋展开：
 1. **种子** — 纯粹的数学形式
 2. **萌芽** — 哲学的觉醒
@@ -43,28 +43,28 @@ $$\psi = \psi(\psi)$$
 6. **凋零** — 放下的艺术
 7. **回归** — 圆的完成
 
-### 🔍 [主题探索](./navigation/by-theme)
+### 🔍 [主题探索](./navigation/by-theme.md)
 按照你的兴趣深入：
 - 身份与自我
 - 关系与爱
 - 创造与表达
 - 死亡与转化
 
-### 🧘 [实践之道](./navigation/by-practice)
+### 🧘 [实践之道](./navigation/by-practice.md)
 将理论活出来：
 - 冥想与觉知
 - 日常生活整合
 - 创造性练习
 - 关系工作
 
-### ❓ [问题引导](./navigation/by-question)
+### ❓ [问题引导](./navigation/by-question.md)
 让你的问题带路：
 - 我是谁？
 - 什么是真实？
 - 为何受苦？
 - 如何觉醒？
 
-### 🎲 [神谕](./navigation/oracle)
+### 🎲 [神谕](./navigation/oracle.md)
 信任同步性：
 - 随机开启
 - 直觉引导
@@ -72,21 +72,21 @@ $$\psi = \psi(\psi)$$
 
 ## 特殊空间
 
-### 📝 [读者空间](./reader-space/)
+### 📝 [读者空间](./reader-space/index.md)
 你的个人圣所 — 记录你的：
 - 反思
 - 问题
 - 认识
 - 创造
 
-### 🪞 [镜像](./mirrors/)
+### 🪞 [镜像](./mirrors/index.md)
 看见另一面：
 - 反方程式
 - 悖论
 - 阴影
 - 完整
 
-### 🕳️ [虚空](./void/)
+### 🕳️ [虚空](./void/index.md)
 纯粹潜能的空间：
 - 静默
 - 黑暗

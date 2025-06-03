@@ -85,4 +85,4 @@ title: "言说静默"
 
 ---
 
-[← 镜水](./mirror-water) | [回到种子](../spiral-1-seed/) | [进入分枝 →](../spiral-3-branching/) 
+[← 镜水](./mirror-water.md) | [回到种子](../spiral-1-seed/index.md) | [进入分枝 →](../spiral-3-branching/index.md) 

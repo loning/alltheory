@@ -94,7 +94,7 @@ By refusing expected expression, silence creates its own powerful statement.
 
 ## Connection to Chapter 16
 
-If even silence speaks, then language and existence are fundamentally one. This profound unity leads us to [Chapter 16: Language as Existence](./chapter-16-language-as-existence).
+If even silence speaks, then language and existence are fundamentally one. This profound unity leads us to [Chapter 16: Language as Existence](./chapter-16-language-as-existence.md).
 
 ---
 

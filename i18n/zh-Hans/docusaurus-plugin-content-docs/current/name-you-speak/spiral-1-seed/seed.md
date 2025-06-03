@@ -76,4 +76,4 @@ $$\psi = \psi(\psi)$$
 
 ---
 
-[下一个：回声一 - 身份 →](./echo-1-identity) 
+[下一个：回声一 - 身份 →](./echo-1-identity.md) 

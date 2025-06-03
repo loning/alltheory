@@ -157,4 +157,4 @@ in the act of sharing.
 
 ---
 
-[← Creating From Center](./creating-center) | [Return to Flowering](../spiral-4-flowering/) | [Enter the Withering →](../spiral-6-withering/) 
+[← Creating From Center](./creating-center.md) | [Return to Flowering](../spiral-4-flowering/index.md) | [Enter the Withering →](../spiral-6-withering/index.md) 

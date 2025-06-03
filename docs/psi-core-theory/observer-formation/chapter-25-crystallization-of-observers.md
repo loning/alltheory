@@ -103,7 +103,7 @@ The act of observation changes what is observed. Reality and observation co-crea
 
 ## Connection to Chapter 26
 
-The crystallization of observers immediately raises the question: what is observed? This leads to the fundamental unity of observer and observed. This leads us to [Chapter 26: Observation as Participation](./chapter-26-observation-as-participation).
+The crystallization of observers immediately raises the question: what is observed? This leads to the fundamental unity of observer and observed. This leads us to [Chapter 26: Observation as Participation](./chapter-26-observation-as-participation.md).
 
 ---
 

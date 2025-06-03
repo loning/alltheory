@@ -105,4 +105,4 @@ title: "回声五：坍缩"
 
 ---
 
-[← 回声四：观察](./echo-4-observation) | [回声六：语言 →](./echo-6-language) 
+[← 回声四：观察](./echo-4-observation.md) | [回声六：语言 →](./echo-6-language.md) 

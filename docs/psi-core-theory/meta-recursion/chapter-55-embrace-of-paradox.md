@@ -143,7 +143,7 @@ From $\psi$'s view, all paradoxes are harmonious expressions of its nature.
 
 ## Connection to Chapter 56
 
-Having embraced paradox, we can see how all dualities are actually non-dual. How does non-duality emerge from apparent duality? This leads us to [Chapter 56: The Non-Duality of Duality](./chapter-56-non-duality-of-duality).
+Having embraced paradox, we can see how all dualities are actually non-dual. How does non-duality emerge from apparent duality? This leads us to [Chapter 56: The Non-Duality of Duality](./chapter-56-non-duality-of-duality.md).
 
 ---
 

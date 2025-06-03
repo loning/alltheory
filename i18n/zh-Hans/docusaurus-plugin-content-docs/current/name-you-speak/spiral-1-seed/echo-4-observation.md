@@ -101,4 +101,4 @@ title: "回声四：观察"
 
 ---
 
-[← 回声三：递归](./echo-3-recursion) | [回声五：坍缩 →](./echo-5-collapse) 
+[← 回声三：递归](./echo-3-recursion.md) | [回声五：坍缩 →](./echo-5-collapse.md) 

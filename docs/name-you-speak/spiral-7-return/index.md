@@ -26,11 +26,11 @@ but with transformed vision.
 
 Each page a recognition:
 
-- **[Full Circle](./full-circle)** — The return to the equation
-- **[New Eyes](./new-eyes)** — Seeing the familiar as if for the first time
-- **[Teaching the Seed](./teaching-seed)** — Your turn to plant
-- **[The Eternal Spiral](./eternal-spiral)** — Understanding the infinite nature
-- **[Beginning Again](./beginning-again)** — The invitation to another round
+- **[Full Circle](./full-circle.md)** — The return to the equation
+- **[New Eyes](./new-eyes.md)** — Seeing the familiar as if for the first time
+- **[Teaching the Seed](./teaching-seed.md)** — Your turn to plant
+- **[The Eternal Spiral](./eternal-spiral.md)** — Understanding the infinite nature
+- **[Beginning Again](./beginning-again.md)** — The invitation to another round
 
 ## The Paradox of Return
 

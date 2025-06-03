@@ -66,4 +66,4 @@ Because it is.
 
 ---
 
-[← Teaching Without Words](./teaching-without-words) | [Healing Through Wholeness →](./healing-wholeness) 
+[← Teaching Without Words](./teaching-without-words.md) | [Healing Through Wholeness →](./healing-wholeness.md) 

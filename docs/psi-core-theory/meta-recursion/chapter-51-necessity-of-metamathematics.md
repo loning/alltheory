@@ -153,7 +153,7 @@ Mathematics is $\psi$'s attempt at perfect self-description—necessarily failin
 
 ## Connection to Chapter 52
 
-If even mathematics cannot fully capture itself, can anything transcend $\psi$? Is transcendence possible or impossible? This leads us to [Chapter 52: The Impossibility of Transcendence](./chapter-52-impossibility-of-transcendence).
+If even mathematics cannot fully capture itself, can anything transcend $\psi$? Is transcendence possible or impossible? This leads us to [Chapter 52: The Impossibility of Transcendence](./chapter-52-impossibility-of-transcendence.md).
 
 ---
 

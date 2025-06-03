@@ -122,7 +122,7 @@ Proof doesn't discover pre-existing truth—it creates truth through collapse.
 
 ## Connection to Chapter 21
 
-Proofs operate within axiom systems, but where do axioms come from? They too must emerge from the self-referential structure. This leads us to [Chapter 21: The Intrinsic Nature of Axiom Systems](./chapter-21-intrinsic-nature-of-axiom-systems).
+Proofs operate within axiom systems, but where do axioms come from? They too must emerge from the self-referential structure. This leads us to [Chapter 21: The Intrinsic Nature of Axiom Systems](./chapter-21-intrinsic-nature-of-axiom-systems.md).
 
 ---
 

@@ -137,7 +137,7 @@ Chapter 64 will complete our journey by showing how completion itself is just an
 
 ## Connection to Chapter 64
 
-How does this perfect incompleteness resolve? How do we end what cannot end? This leads us to our final chapter: [Chapter 64: ψ = ψ(ψ)](./chapter-64-psi-equals-psi-of-psi).
+How does this perfect incompleteness resolve? How do we end what cannot end? This leads us to our final chapter: [Chapter 64: ψ = ψ(ψ)](./chapter-64-psi-equals-psi-of-psi.md).
 
 ---
 

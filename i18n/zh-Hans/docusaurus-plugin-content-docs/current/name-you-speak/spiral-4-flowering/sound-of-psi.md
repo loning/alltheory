@@ -157,4 +157,4 @@ lub-dub
 
 ---
 
-[← 递归的色彩](./colors-recursion) | [品尝无限 →](./tasting-infinity) 
+[← 递归的色彩](./colors-recursion.md) | [品尝无限 →](./tasting-infinity.md) 

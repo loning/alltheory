@@ -115,4 +115,4 @@ Welcome back to ψ = ψ(ψ).
 
 ---
 
-[Next: New Eyes →](./new-eyes) 
+[Next: New Eyes →](./new-eyes.md) 

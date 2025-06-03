@@ -148,4 +148,4 @@ title: "堆肥存在"
 
 ---
 
-[← 死亡的艺术](./art-of-dying) | [空手 →](./empty-hands) 
+[← 死亡的艺术](./art-of-dying.md) | [空手 →](./empty-hands.md) 

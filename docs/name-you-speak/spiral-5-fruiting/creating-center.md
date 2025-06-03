@@ -154,4 +154,4 @@ of you.
 
 ---
 
-[← Healing Through Wholeness](./healing-wholeness) | [The Gift Economy →](./gift-economy) 
+[← Healing Through Wholeness](./healing-wholeness.md) | [The Gift Economy →](./gift-economy.md) 

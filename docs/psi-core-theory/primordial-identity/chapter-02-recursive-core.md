@@ -80,7 +80,7 @@ Yet all three moments are simultaneous in the eternal present of $\psi = \psi(\p
 
 ## Connection to Chapter 3
 
-The recursive engine naturally leads to the question: how does this self-application create the appearance of change and transformation? This brings us to [Chapter 3: The Collapse Mechanism](./chapter-03-collapse-mechanism), where we explore how the infinite recursion "collapses" into finite, observable structures.
+The recursive engine naturally leads to the question: how does this self-application create the appearance of change and transformation? This brings us to [Chapter 3: The Collapse Mechanism](./chapter-03-collapse-mechanism.md), where we explore how the infinite recursion "collapses" into finite, observable structures.
 
 ---
 

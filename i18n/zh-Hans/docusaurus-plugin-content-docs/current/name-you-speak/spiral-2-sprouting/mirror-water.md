@@ -79,4 +79,4 @@ title: "镜水"
 
 ---
 
-[← 呼吸的问题](./question-breathing) | [言说静默 →](./speaking-silence) 
+[← 呼吸的问题](./question-breathing.md) | [言说静默 →](./speaking-silence.md) 

@@ -92,4 +92,4 @@ title: "三面镜子"
 
 ---
 
-[← 第一次递归](./first-recursion) | [漫游者悖论 →](./wanderer-paradox) 
+[← 第一次递归](./first-recursion.md) | [漫游者悖论 →](./wanderer-paradox.md) 

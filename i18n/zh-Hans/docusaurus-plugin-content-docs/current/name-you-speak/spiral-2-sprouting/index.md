@@ -32,23 +32,23 @@ title: "螺旋二：萌芽"
 
 ## 本螺旋的回声
 
-### [初绿](./first-green)
+### [初绿](./first-green.md)
 生命的第一次搅动  
 突破已知
 
-### [根与天](./roots-sky)  
+### [根与天](./roots-sky.md)  
 向下扎根  
 向上伸展
 
-### [呼吸的问题](./question-breathing)
+### [呼吸的问题](./question-breathing.md)
 活在未知中的  
 艺术
 
-### [镜水](./mirror-water)
+### [镜水](./mirror-water.md)
 反射中  
 看见真实
 
-### [说出静默](./speaking-silence)
+### [说出静默](./speaking-silence.md)
 当语言  
 遇见它的极限
 
@@ -86,4 +86,4 @@ title: "螺旋二：萌芽"
 
 ---
 
-[← 螺旋一：种子](../spiral-1-seed) | [初绿 →](./first-green) 
+[← 螺旋一：种子](../spiral-1-seed/index.md) | [初绿 →](./first-green.md) 

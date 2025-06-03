@@ -119,7 +119,7 @@ Here's your practical toolkit for living this philosophy:
 This popular guide is just the beginning. If you're hungry for more:
 
 ### 📚 Deeper Exploration
-- Visit the [Ψhē Self-Being complete philosophy](../psi-core-theory) for the full 64-chapter journey
+- Visit the [Ψhē Self-Being complete philosophy](../psi-core-theory/index.md) for the full 64-chapter journey
 - Each chapter there goes deeper into the mathematical and philosophical foundations
 
 ### 🌍 Living Community

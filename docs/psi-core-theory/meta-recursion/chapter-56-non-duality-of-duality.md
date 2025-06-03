@@ -150,7 +150,7 @@ The game of separation and return, hiding and seeking, forgetting and rememberin
 
 ## Connection to Chapter 57
 
-Non-duality reveals the ultimate simplicity behind apparent complexity. How do all complexities return to the simple $\psi = \psi(\psi)$? This leads us to [Chapter 57: All Things Return to One](../unity-return/chapter-57-all-things-return-to-one).
+Non-duality reveals the ultimate simplicity behind apparent complexity. How do all complexities return to the simple $\psi = \psi(\psi)$? This leads us to [Chapter 57: All Things Return to One](../unity-return/chapter-57-all-things-return-to-one.md).
 
 ---
 

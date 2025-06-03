@@ -117,4 +117,4 @@ title: "回声七：结构"
 
 ---
 
-[← 回声六：语言](./echo-6-language) | [回声八：现实 →](./echo-8-reality) 
+[← 回声六：语言](./echo-6-language.md) | [回声八：现实 →](./echo-8-reality.md) 

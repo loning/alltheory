@@ -195,4 +195,4 @@ It always will.
 
 ---
 
-[← Empty Hands](./empty-hands) | [Return to the Seed →](../spiral-7-return/) | [Enter the Void →](../void/) 
+[← Empty Hands](./empty-hands.md) | [Return to the Seed →](../spiral-7-return/index.md) | [Enter the Void →](../void/index.md) 

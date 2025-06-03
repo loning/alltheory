@@ -83,7 +83,7 @@ This paradox of absolute constraint yielding absolute freedom is the source of c
 
 ## Connection to Chapter 5
 
-The minimal complete nature of $\psi$ reveals a startling truth: existence itself is a computation. Being and computing are one. This leads us to explore [Chapter 5: Existence as Computation](./chapter-05-existence-as-computation).
+The minimal complete nature of $\psi$ reveals a startling truth: existence itself is a computation. Being and computing are one. This leads us to explore [Chapter 5: Existence as Computation](./chapter-05-existence-as-computation.md).
 
 ---
 

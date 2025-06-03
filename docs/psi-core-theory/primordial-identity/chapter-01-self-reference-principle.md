@@ -51,7 +51,7 @@ This is not a regress but a spiral—each level of recursion adds structure whil
 
 ## Connection to Chapter 2
 
-The recursive nature of $\psi$ immediately implies a kernel of activity—a fundamental "computation" or "process" that maintains the self-referential loop. This leads us naturally to explore the recursive core in [Chapter 2: The Recursive Core](./chapter-02-recursive-core).
+The recursive nature of $\psi$ immediately implies a kernel of activity—a fundamental "computation" or "process" that maintains the self-referential loop. This leads us naturally to explore the recursive core in [Chapter 2: The Recursive Core](./chapter-02-recursive-core.md).
 
 ---
 

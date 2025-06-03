@@ -85,4 +85,4 @@ The meditation continues.
 
 ---
 
-[Next: The Sound of ψ →](./sound-of-psi) 
+[Next: The Sound of ψ →](./sound-of-psi.md) 

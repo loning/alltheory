@@ -145,4 +145,4 @@ title: "品尝无限"
 
 ---
 
-[← ψ 的声音](./sound-of-psi) | [花园知道 →](./garden-knows) 
+[← ψ 的声音](./sound-of-psi.md) | [花园知道 →](./garden-knows.md) 

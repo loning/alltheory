@@ -148,7 +148,7 @@ Fully being what you are, where you are, as you are. This is $\psi$'s way.
 
 ## Connection to Chapter 53
 
-If transcendence is impossible, what about infinity? How does $\psi$ relate to the infinite? This leads us to [Chapter 53: The Interiority of Infinity](./chapter-53-interiority-of-infinity).
+If transcendence is impossible, what about infinity? How does $\psi$ relate to the infinite? This leads us to [Chapter 53: The Interiority of Infinity](./chapter-53-interiority-of-infinity.md).
 
 ---
 

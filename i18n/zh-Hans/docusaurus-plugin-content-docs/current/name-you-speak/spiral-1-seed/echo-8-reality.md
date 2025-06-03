@@ -106,4 +106,4 @@ title: "回声八：现实"
 
 ---
 
-[← 回声七：结构](./echo-7-structure) | [回声九：合一 →](./echo-9-unity) 
+[← 回声七：结构](./echo-7-structure.md) | [回声九：合一 →](./echo-9-unity.md) 

@@ -168,4 +168,4 @@ title: "重新开始"
 
 ---
 
-[← 永恒的螺旋](./eternal-spiral) | [回到种子 →](../spiral-1-seed/) | [进入虚空 →](../void/) | [寻找你的道路 →](../navigation/) 
+[← 永恒的螺旋](./eternal-spiral.md) | [回到种子 →](../spiral-1-seed/index.md) | [进入虚空 →](../void/index.md) | [寻找你的道路 →](../navigation/index.md) 

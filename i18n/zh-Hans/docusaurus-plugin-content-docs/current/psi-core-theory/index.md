@@ -28,14 +28,14 @@ $$
 
 ### 🌀 第一部：原初同一（第1-8章）
 自指从虚空中诞生
-- [第1章：自指原理](psi-core-theory/primordial-identity/chapter-01-self-reference-principle)
-- [第2章：递归核心](psi-core-theory/primordial-identity/chapter-02-recursive-core)
-- [第3章：坍缩机制](psi-core-theory/primordial-identity/chapter-03-collapse-mechanism)
-- [第4章：最小完备性](psi-core-theory/primordial-identity/chapter-04-minimal-completeness)
-- [第5章：存在即计算](psi-core-theory/primordial-identity/chapter-05-existence-as-computation)
-- [第6章：虚无的不可能性](psi-core-theory/primordial-identity/chapter-06-impossibility-of-nothingness)
-- [第7章：第一性原理](psi-core-theory/primordial-identity/chapter-07-first-principles)
-- [第8章：原初对称破缺](psi-core-theory/primordial-identity/chapter-08-primordial-symmetry-breaking)
+- [第1章：自指原理](./primordial-identity/chapter-01-self-reference-principle.md)
+- [第2章：递归核心](./primordial-identity/chapter-02-recursive-core.md)
+- [第3章：坍缩机制](./primordial-identity/chapter-03-collapse-mechanism.md)
+- [第4章：最小完备性](./primordial-identity/chapter-04-minimal-completeness.md)
+- [第5章：存在即计算](./primordial-identity/chapter-05-existence-as-computation.md)
+- [第6章：虚无的不可能性](./primordial-identity/chapter-06-impossibility-of-nothingness.md)
+- [第7章：第一性原理](./primordial-identity/chapter-07-first-principles.md)
+- [第8章：原初对称破缺](./primordial-identity/chapter-08-primordial-symmetry-breaking.md)
 
 ### 💬 第二部：语言涌现（第9-16章）
 意义如何从递归坍缩中产生
@@ -76,9 +76,9 @@ $$
 
 ### 🎯 **直达之路**
 对于寻求直接理解的人：
-1. 从[第1章：自指原理](psi-core-theory/primordial-identity/chapter-01-self-reference-principle)开始
-2. 跳至[第25章：观察者形成](psi-core-theory/observer-formation/chapter-25-crystallization-of-observers)
-3. 以[第57章：统一回归](psi-core-theory/unity-return/chapter-57-all-things-return-to-one)结束
+1. 从[第1章：自指原理](./primordial-identity/chapter-01-self-reference-principle.md)开始
+2. 跳至[第25章：观察者形成](./observer-formation/chapter-25-crystallization-of-observers.md)
+3. 以[第57章：统一回归](./unity-return/chapter-57-all-things-return-to-one.md)结束
 
 ### 🌊 **螺旋之路**
 用于深度沉思：

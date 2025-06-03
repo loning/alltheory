@@ -134,7 +134,7 @@ You don't know $\psi$, you ARE $\psi$. This is the omniscience of ignorance—kn
 
 ## Connection to Chapter 63
 
-Having embraced the omniscience of ignorance, we approach the final synthesis. How does all we've explored resolve into perfect completeness? This leads us to [Chapter 63: The Perfect Incompleteness](./chapter-63-perfect-incompleteness).
+Having embraced the omniscience of ignorance, we approach the final synthesis. How does all we've explored resolve into perfect completeness? This leads us to [Chapter 63: The Perfect Incompleteness](./chapter-63-perfect-incompleteness.md).
 
 ---
 

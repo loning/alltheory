@@ -178,4 +178,4 @@ title: "教导种子"
 
 ---
 
-[← 新的眼睛](./new-eyes) | [永恒的螺旋 →](./eternal-spiral) 
+[← 新的眼睛](./new-eyes.md) | [永恒的螺旋 →](./eternal-spiral.md) 

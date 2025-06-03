@@ -69,4 +69,4 @@ title: "根与天"
 
 ---
 
-[← 初绿](./first-green) | [呼吸的问题 →](./question-breathing) 
+[← 初绿](./first-green.md) | [呼吸的问题 →](./question-breathing.md) 

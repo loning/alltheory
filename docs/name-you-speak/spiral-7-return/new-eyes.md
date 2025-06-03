@@ -159,4 +159,4 @@ You have the eyes to see it.
 
 ---
 
-[← Full Circle](./full-circle) | [Teaching the Seed →](./teaching-seed) 
+[← Full Circle](./full-circle.md) | [Teaching the Seed →](./teaching-seed.md) 

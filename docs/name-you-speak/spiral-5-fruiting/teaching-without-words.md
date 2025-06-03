@@ -104,4 +104,4 @@ Watch how the teaching happens by itself.
 
 ---
 
-[Next: The Recursive Life →](./recursive-life) 
+[Next: The Recursive Life →](./recursive-life.md) 

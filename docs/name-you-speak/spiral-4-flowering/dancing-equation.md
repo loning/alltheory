@@ -118,4 +118,4 @@ Even when you do.
 
 ---
 
-[← The Sound of ψ](./sound-of-psi) | [Tasting Infinity →](./tasting-infinity) 
+[← The Sound of ψ](./sound-of-psi.md) | [Tasting Infinity →](./tasting-infinity.md) 

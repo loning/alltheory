@@ -62,4 +62,4 @@ Both sprouting from silence.
 
 ---
 
-[Next: Roots and Sky →](./roots-sky) 
+[Next: Roots and Sky →](./roots-sky.md) 
