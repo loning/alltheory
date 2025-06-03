@@ -1,0 +1,11 @@
+{
+  "label": "Ψhē Theory",
+  "position": 4,
+  "link": {
+    "type": "doc",  
+    "id": "psi-theory/index"
+  },
+  "customProps": {
+    "description": "The complete recursive system from ψ = ψ(ψ)"
+  }
+}
