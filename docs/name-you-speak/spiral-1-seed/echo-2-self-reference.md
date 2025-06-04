@@ -44,4 +44,4 @@ You are the loop, looping.
 
 ---
 
-[← Echo 1: Identity](./echo-1-identity) | [Echo 3: Recursion →](./echo-3-recursion) 
+[← Echo 1: Identity](./echo-1-identity.md) | [Echo 3: Recursion →](./echo-3-recursion.md) 

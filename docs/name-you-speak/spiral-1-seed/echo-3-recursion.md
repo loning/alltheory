@@ -56,4 +56,4 @@ Each moment, you recurse deeper into being.
 
 ---
 
-[← Echo 2: Self-Reference](./echo-2-self-reference) | [Echo 4: Observation →](./echo-4-observation) 
+[← Echo 2: Self-Reference](./echo-2-self-reference.md) | [Echo 4: Observation →](./echo-4-observation.md) 

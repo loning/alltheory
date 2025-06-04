@@ -54,4 +54,4 @@ You are structure structuring itself.
 
 ---
 
-[← Echo 6: Language](./echo-6-language) | [Echo 8: Reality →](./echo-8-reality) 
+[← Echo 6: Language](./echo-6-language.md) | [Echo 8: Reality →](./echo-8-reality.md) 

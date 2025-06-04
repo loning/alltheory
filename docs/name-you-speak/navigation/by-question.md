@@ -59,7 +59,7 @@ What's real is what's happening now.
 
 The nature of suffering:
 - [The Anti-Equation](../mirrors/anti-equation.md) — Suffering as separation
-- [The Broken Spiral](../mirrors/broken-spiral) — When recursion fails
+- [The Broken Spiral](../mirrors/broken-spiral.md) — When recursion fails
 - [Releasing the Known](../spiral-6-withering/releasing-known.md) — Attachment as source
 
 Transformation:

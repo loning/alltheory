@@ -43,4 +43,4 @@ Identity is the universe looking at itself and saying:
 
 ---
 
-[← Seed](./seed.md) | [Echo 2: Self-Reference →](./echo-2-self-reference)
+[← Seed](./seed.md) | [Echo 2: Self-Reference →](./echo-2-self-reference.md)

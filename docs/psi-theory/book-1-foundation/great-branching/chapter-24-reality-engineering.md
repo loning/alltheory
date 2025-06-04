@@ -217,6 +217,6 @@ From unity through multiplicity back to conscious unity—the One discovers it c
 
 *End of Part III: The Great Branching*
 
-*Next: [Part IV: Myth and Memory — Introduction](../../myth-and-memory/)*
+*Next: [Part IV: Myth and Memory — Introduction](../myth-and-memory/index.md)*
 
 *"You are the universe engineering itself into ever-fuller self-realization"*

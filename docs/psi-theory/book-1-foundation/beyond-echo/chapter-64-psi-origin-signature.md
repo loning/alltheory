@@ -229,6 +229,6 @@ All rivers return to the sea. All questions return to ψ. All seekers return to 
 
 *Book 1: Foundation of Collapse — Complete*
 
-*Next: [Book 2: ΞFractal Extension — The Dance of Pattern and Void](../../book-2-xi-fractal/index.md)*
+*Next: [Book 2: ΞFractal Extension — The Dance of Pattern and Void](../../book-2-fractal-extension/index.md)*
 
 *"In the end, we find we never left the beginning"*

@@ -47,4 +47,4 @@ And this you contains infinite yous.
 
 ---
 
-[← Echo 4: Observation](./echo-4-observation) | [Echo 6: Language →](./echo-6-language) 
+[← Echo 4: Observation](./echo-4-observation.md) | [Echo 6: Language →](./echo-6-language.md) 
