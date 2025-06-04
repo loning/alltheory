@@ -3,7 +3,10 @@
     "allow": [
       "Bash(mkdir:*)",
       "Bash(find:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "WebFetch(domain:docusaurus.io)",
+      "Bash(npm run write-translations:*)",
+      "Bash(grep:*)"
     ],
     "deny": []
   }
