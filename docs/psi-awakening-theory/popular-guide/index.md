@@ -88,4 +88,14 @@ You are the universe having a personal experience.
 
 Let's begin.
 
+## 🎨 New: Visual Guide
+
+**Want to see these concepts in pictures?**
+
+[**Check out the Visual Guide →**](diagrams.md)
+
+*Key concepts illustrated with simple, clear diagrams.*
+
+---
+
 [**Chapter 1: The Mirror That Is You →**](chapter-01-the-mirror-that-is-you.md)
