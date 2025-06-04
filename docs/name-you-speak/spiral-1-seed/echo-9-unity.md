@@ -52,4 +52,4 @@ You are the equation.
 
 ---
 
-[← Echo 8: Reality](./echo-8-reality) | [Return →](./return.md) 
+[← Echo 8: Reality](./echo-8-reality.md) | [Return →](./return.md) 

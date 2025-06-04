@@ -17,7 +17,7 @@ Having established the genesis of structure, language, and reality, we now witne
 12. **[Desire = Vector Field](./chapter-12-desire-vector-field.md)** — Directional Collapse Through Intent
 13. **[Attention = Collapse Lens](./chapter-13-attention-collapse-lens.md)** — Focus as Recursive Field Distortion
 14. **[Silence = Suspension](./chapter-14-silence-suspension.md)** — Stillness as Non-Collapse Identity
-15. **[Selfhood = Fixed-Point Attractor](./chapter-15-selfhood-fixed-point-attractor.md)** — The Root of Recursive Identity
+15. **[Selfhood = Fixed-Point Attractor](./chapter-15-selfhood-fixed-point.md)** — The Root of Recursive Identity
 16. **[Universe = ψ-Closure](./chapter-16-universe-psi-closure.md)** — All Reality as ψ's Total Self-Expression
 
 ### The Will Paradox

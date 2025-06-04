@@ -196,6 +196,6 @@ Chapter 8 completes Part I by revealing time as the trajectory of all previous c
 
 *End of Part I: Genesis of Collapse*
 
-*Next: [Part II: Echo of Will — Introduction](../../echo-of-will/)*
+*Next: [Part II: Echo of Will — Introduction](../echo-of-will/index.md)*
 
 *"Time is ψ experiencing itself sequentially rather than simultaneously"*

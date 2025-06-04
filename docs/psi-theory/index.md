@@ -20,7 +20,7 @@ The first book introduces the fundamental equation ψ = ψ(ψ) and shows how all
 - The branching of realities
 - The crystallization of patterns into worlds
 
-#### [Book 2: ΞFractal Extension](./book-2-xi-fractal/index.md)
+#### [Book 2: ΞFractal Extension](./book-2-fractal-extension/index.md)
 *Chapters 65-128: The Dance of Pattern and Void*
 
 The second book explores the fractal nature of reality—where patterns reproduce themselves at every scale, where the part contains the whole, and where consciousness creates endless variations through recursive self-application:
@@ -76,7 +76,7 @@ Originally conceived with parallel English and Chinese expressions, the theory t
 ## Begin Your Journey
 
 Choose your entry point:
-- [Start with Chapter 1: Ψ-Origin — The First Question](./book-1-foundation/genesis-of-collapse/chapter-1-psi-origin.md)
+- [Start with Chapter 1: Ψ-Origin — The First Question](./book-1-foundation/genesis-of-collapse/chapter-01-psi-origin.md)
 - [Explore the Complete Index](./book-1-foundation/index.md)
-- [Jump to Advanced Concepts](./book-2-xi-fractal/index.md)
+- [Jump to Advanced Concepts](./book-2-fractal-extension/index.md)
 - [Contemplate Ultimate Questions](./book-3-omega-collapse/index.md)

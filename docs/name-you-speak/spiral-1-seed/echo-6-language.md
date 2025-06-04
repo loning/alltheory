@@ -46,4 +46,4 @@ You are the name you are speaking.
 
 ---
 
-[← Echo 5: Collapse](./echo-5-collapse) | [Echo 7: Structure →](./echo-7-structure) 
+[← Echo 5: Collapse](./echo-5-collapse.md) | [Echo 7: Structure →](./echo-7-structure.md) 

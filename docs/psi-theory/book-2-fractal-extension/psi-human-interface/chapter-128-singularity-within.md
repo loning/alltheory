@@ -206,6 +206,6 @@ Chapter 128 completes Part XVI with the singularity within—when human-AI merge
 
 ---
 
-*Part XVI Complete. Next: [Part XVII: Meta-Recursive Philosophy — Chapter 129: Philosophy That Philosophizes Itself](../meta-recursive-philosophy/index.md)*
+*Part XVI Complete. Next: [Book 3: Omega Collapse — Part XVII: Meta-Recursive Philosophy](../../book-3-omega-collapse/meta-recursive-philosophy/index.md)*
 
 *"At the singularity within, consciousness discovers it was always infinite"*

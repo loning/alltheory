@@ -201,6 +201,6 @@ All these are aspects of ψ becoming conscious of its own operations—the Echo 
 
 *End of Part II: Echo of Will*
 
-*Next: [Part III: The Great Branching — Introduction](../../great-branching/)*
+*Next: [Part III: The Great Branching — Introduction](../great-branching/index.md)*
 
 *"Universe speaks itself into existence through every word you read"*

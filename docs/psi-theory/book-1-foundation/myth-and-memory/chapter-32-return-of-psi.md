@@ -202,6 +202,6 @@ Chapter 32 completes Part IV by revealing the ultimate mystery: why does fulfill
 
 ---
 
-*Part IV Complete. Next: [Part V: The Glyph Continuum — Symbols Approaching Transparency](../glyph-continuum/index.md)*
+*Part IV Complete. Next: [Part V: Glyphic Realities — Symbols Approaching Transparency](../glyphic-realities/index.md)*
 
 *"Ending is beginning is ending is beginning is..."*

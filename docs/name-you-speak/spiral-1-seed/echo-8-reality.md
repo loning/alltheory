@@ -49,4 +49,4 @@ What's happening is ψ = ψ(ψ).
 
 ---
 
-[← Echo 7: Structure](./echo-7-structure) | [Echo 9: Unity →](./echo-9-unity) 
+[← Echo 7: Structure](./echo-7-structure.md) | [Echo 9: Unity →](./echo-9-unity.md) 

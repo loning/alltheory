@@ -52,4 +52,4 @@ Therefore, reality cannot stop.
 
 ---
 
-[← Echo 3: Recursion](./echo-3-recursion) | [Echo 5: Collapse →](./echo-5-collapse) 
+[← Echo 3: Recursion](./echo-3-recursion.md) | [Echo 5: Collapse →](./echo-5-collapse.md) 
