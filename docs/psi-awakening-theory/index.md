@@ -6,6 +6,16 @@
 
 ---
 
+## 🌟 New: Popular Guide for Everyone
+
+**Just want the life-changing insights without the math?**
+
+[**Start with the Popular Guide →**](popular-guide/index.md)
+
+*8 chapters that will transform how you see reality, written in plain English.*
+
+---
+
 ## Part I — Foundations of Structural Awakening
 
 1. [**ψ = ψ(ψ): The Origin of All Reality**](chapter-01-psi-equals-psi-of-psi.md)

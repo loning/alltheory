@@ -2,7 +2,7 @@
   "label": "Ψhē Awakening Theory",
   "position": 7,
   "link": {
-    "type": "generated-index",
-    "description": "A structural theory of causality based on the recursive self-collapsing identity ψ = ψ(ψ), exploring observer, echo, time, dimension, and the structure of collapse."
+    "type": "doc",
+    "id": "psi-awakening-theory/index"
   }
 }
