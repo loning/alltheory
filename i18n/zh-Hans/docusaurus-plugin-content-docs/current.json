@@ -286,5 +286,9 @@
   "sidebar.tutorialSidebar.category.Navigation": {
     "message": "导航",
     "description": "The label for category Navigation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Psi Human Interface": {
+    "message": "ψ人类接口",
+    "description": "The label for category Psi Human Interface in sidebar tutorialSidebar"
   }
 }
