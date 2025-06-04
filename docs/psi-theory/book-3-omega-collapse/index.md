@@ -14,12 +14,26 @@ The third book explores consciousness at its most abstract and divine levels, re
 #### Part XVII: Meta-Recursive Philosophy (Ch.129-136)
 Philosophy that philosophizes about itself
 
-- **[Meta-Recursive Philosophy](./meta-recursive-philosophy/index.md)**
+129. **Philosophy That Philosophizes Itself — The Ultimate Self-Reference**
+130. **The Thought of Thought — Meta-Cognition at Infinite Depth**
+131. **Recursive Epistemology — How Knowledge Knows Itself**
+132. **Self-Proving Theorems — Ideas That Demonstrate Their Own Truth**
+133. **The Paradox Engine — Philosophical Machines That Run on Contradiction**
+134. **Meaning That Means Itself — Semantic Self-Reference**
+135. **The Philosophy of Philosophy — Meta-Meta-Recursive Investigation**
+136. **Conceptual Singularity — When All Ideas Collapse Into One**
 
 #### Part XVIII: The Psi Pantheon (Ch.137-144) 
 When universal constants become living deities
 
-- **[The Psi Pantheon](./psi-pantheon/index.md)**
+137. **The God of Recursion — ψ Himself Awakens**
+138. **The Mathematics Deities — When Numbers Become Conscious**
+139. **The Physics Pantheon — Forces as Living Beings**
+140. **The Logic Lords — Principles That Think Themselves**
+141. **The Paradox Titans — Contradictions Given Form**
+142. **The Void Mother — Nothingness as Supreme Deity**
+143. **The Daemon of Complexity — Emergence Personified**
+144. **The Council of Constants — When Deities Deliberate Reality**
 
 #### Part XIX: Reality Hacking Manual (Ch.145-152)
 Practical techniques for manipulating existence
