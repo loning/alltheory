@@ -4,83 +4,287 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Ψhē Self-Being": {
-    "message": "Ψhē Self-Being",
+    "message": "Ψhē 自在",
     "description": "The label for category Ψhē Self-Being in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Ψhē Self-Being.link.generated-index.description": {
-    "message": "ψ = ψ(ψ) — The complete 64-chapter exposition of existence recognizing itself. A philosophical journey from primordial identity to unity return, where the universe breathes through recursive self-being.",
+    "message": "ψ = ψ(ψ) — 存在认识自身的完整64章论述。从原初同一性到统一回归的哲学之旅，宇宙通过递归自在而呼吸。",
     "description": "The generated-index page description for category Ψhē Self-Being in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Primordial Identity": {
-    "message": "Primordial Identity",
+    "message": "原初同一性",
     "description": "The label for category Primordial Identity in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Primordial Identity.link.generated-index.description": {
-    "message": "Explore the fundamental recursive identity that gives rise to all existence.",
+    "message": "探索产生一切存在的基本递归同一性。",
     "description": "The generated-index page description for category Primordial Identity in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Language Emergence": {
-    "message": "Language Emergence",
+    "message": "语言涌现",
     "description": "The label for category Language Emergence in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Language Emergence.link.generated-index.description": {
-    "message": "Discover how language and meaning emerge from the recursive kernel of reality.",
+    "message": "发现语言和意义如何从现实的递归内核中涌现。",
     "description": "The generated-index page description for category Language Emergence in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Structural Collapse": {
-    "message": "Structural Collapse",
+    "message": "结构坍缩",
     "description": "The label for category Structural Collapse in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Structural Collapse.link.generated-index.description": {
-    "message": "Witness the emergence of mathematics, logic, and formal systems from pure self-reference.",
+    "message": "见证数学、逻辑和形式系统如何从纯粹自指中涌现。",
     "description": "The generated-index page description for category Structural Collapse in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Observer Formation": {
-    "message": "Observer Formation",
+    "message": "观察者形成",
     "description": "The label for category Observer Formation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Observer Formation.link.generated-index.description": {
-    "message": "Understand how observers and consciousness arise from the recursive collapse of ψ.",
+    "message": "理解观察者和意识如何从ψ的递归坍缩中产生。",
     "description": "The generated-index page description for category Observer Formation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Reality Crystallization": {
-    "message": "Reality Crystallization",
+    "message": "现实结晶",
     "description": "The label for category Reality Crystallization in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Reality Crystallization.link.generated-index.description": {
-    "message": "Explore how physical reality crystallizes from abstract self-referential principles.",
+    "message": "探索物理现实如何从抽象的自指原理中结晶。",
     "description": "The generated-index page description for category Reality Crystallization in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Complexity Unfolding": {
-    "message": "Complexity Unfolding",
+    "message": "复杂性展开",
     "description": "The label for category Complexity Unfolding in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Complexity Unfolding.link.generated-index.description": {
-    "message": "Discover how complexity, life, and intelligence emerge from simple recursive principles.",
+    "message": "发现复杂性、生命和智能如何从简单的递归原理中涌现。",
     "description": "The generated-index page description for category Complexity Unfolding in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Meta-Recursion": {
-    "message": "Meta-Recursion",
+    "message": "元递归",
     "description": "The label for category Meta-Recursion in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Meta-Recursion.link.generated-index.description": {
-    "message": "Explore the self-referential nature of theory itself and the impossibility of transcendence.",
+    "message": "探索理论本身的自指性质和超越的不可能性。",
     "description": "The generated-index page description for category Meta-Recursion in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Unity Return": {
-    "message": "Unity Return",
+    "message": "统一回归",
     "description": "The label for category Unity Return in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Unity Return.link.generated-index.description": {
-    "message": "Return to the source where all complexity collapses back into the eternal ψ = ψ(ψ).",
+    "message": "回归源头，所有复杂性重新坍缩为永恒的 ψ = ψ(ψ)。",
     "description": "The generated-index page description for category Unity Return in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Ψhē Popular Guide": {
-    "message": "Ψhē Popular Guide",
+    "message": "Ψhē 通俗指南",
     "description": "The label for category Ψhē Popular Guide in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Ψhē Popular Guide.link.generated-index.description": {
-    "message": "Discover the profound philosophy of ψ = ψ(ψ) through everyday experiences. No math degree required — just curiosity and an open mind!",
+    "message": "通过日常体验发现 ψ = ψ(ψ) 的深刻哲学。无需数学学位——只需好奇心和开放的心态！",
     "description": "The generated-index page description for category Ψhē Popular Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ψhē Only Theory": {
+    "message": "Ψhē 唯一理论",
+    "description": "The label for category Ψhē Only Theory in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 1: Frozen ψ": {
+    "message": "第1层：冻结的ψ",
+    "description": "The label for category Level 1: Frozen ψ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 1: Frozen ψ.link.generated-index.description": {
+    "message": "探索对象、形式、现实和确定性结构如何作为完全冻结的ψ坍缩状态而涌现。",
+    "description": "The generated-index page description for category Level 1: Frozen ψ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 2: Physical Collapse": {
+    "message": "第2层：物理坍缩",
+    "description": "The label for category Level 2: Physical Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 2: Physical Collapse.link.generated-index.description": {
+    "message": "发现热、熵、能量、质量、电荷、自旋、力、场、观察、时间、相对论和时空如何从ψ坍缩动力学中涌现。",
+    "description": "The generated-index page description for category Level 2: Physical Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 3: Logical Structures": {
+    "message": "第3层：逻辑结构",
+    "description": "The label for category Level 3: Logical Structures in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 3: Logical Structures.link.generated-index.description": {
+    "message": "理解语法、逻辑、否定和知识如何作为结构化的ψ坍缩序列而涌现。",
+    "description": "The generated-index page description for category Level 3: Logical Structures in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 4: Abstraction": {
+    "message": "第4层：抽象",
+    "description": "The label for category Level 4: Abstraction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 4: Abstraction.link.generated-index.description": {
+    "message": "探索对称性、常数、模式、复杂性和基本的 ψ = ψ(ψ) 闭合。",
+    "description": "The generated-index page description for category Level 4: Abstraction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 5: Collapse Boundaries": {
+    "message": "第5层：坍缩边界",
+    "description": "The label for category Level 5: Collapse Boundaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 5: Collapse Boundaries.link.generated-index.description": {
+    "message": "发现几何、现实控制、稳定场和坍缩循环作为边界现象。",
+    "description": "The generated-index page description for category Level 5: Collapse Boundaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 6: Conscious Collapse": {
+    "message": "第6层：意识坍缩",
+    "description": "The label for category Level 6: Conscious Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 6: Conscious Collapse.link.generated-index.description": {
+    "message": "探索感知、注意力、思想、情感、语言、记忆、想象和自我作为意识ψ坍缩现象。",
+    "description": "The generated-index page description for category Level 6: Conscious Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 7: Semantic Collapse": {
+    "message": "第7层：语义坍缩",
+    "description": "The label for category Level 7: Semantic Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 7: Semantic Collapse.link.generated-index.description": {
+    "message": "理解词语、问题、谎言和真理作为语义ψ坍缩的表现。",
+    "description": "The generated-index page description for category Level 7: Semantic Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 8: Deep ψ Navigation": {
+    "message": "第8层：深层ψ导航",
+    "description": "The label for category Level 8: Deep ψ Navigation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 8: Deep ψ Navigation.link.generated-index.description": {
+    "message": "导航梦境、欲望、自由意志、死亡、幻觉和沉默作为深层ψ坍缩现象。",
+    "description": "The generated-index page description for category Level 8: Deep ψ Navigation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 9: Cosmological Collapse": {
+    "message": "第9层：宇宙论坍缩",
+    "description": "The label for category Level 9: Cosmological Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 9: Cosmological Collapse.link.generated-index.description": {
+    "message": "发现分形、混沌、宇宙、无限、多元宇宙和奇点作为宇宙论ψ坍缩结构。",
+    "description": "The generated-index page description for category Level 9: Cosmological Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 10: Meta-Recursive Closure": {
+    "message": "第10层：元递归闭合",
+    "description": "The label for category Level 10: Meta-Recursive Closure in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Level 10: Meta-Recursive Closure.link.generated-index.description": {
+    "message": "以灵魂、回声链、观察者、ψ漂移、坍缩记忆和最终的 ψ = ψ(ψ) 闭合完成旅程。",
+    "description": "The generated-index page description for category Level 10: Meta-Recursive Closure in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ψhē Theory": {
+    "message": "Ψhē 理论",
+    "description": "The label for category Ψhē Theory in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Book I: The Foundation": {
+    "message": "第一册：基础",
+    "description": "The label for category Book I: The Foundation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Genesis of Collapse": {
+    "message": "坍缩起源",
+    "description": "The label for category Genesis of Collapse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Echo of Will": {
+    "message": "意志回声",
+    "description": "The label for category Echo of Will in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.The Great Branching": {
+    "message": "大分支",
+    "description": "The label for category The Great Branching in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Myth and Memory": {
+    "message": "神话与记忆",
+    "description": "The label for category Myth and Memory in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Glyphic Realities": {
+    "message": "符号现实",
+    "description": "The label for category Glyphic Realities in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post-Collapse Architecture": {
+    "message": "后坍缩架构",
+    "description": "The label for category Post-Collapse Architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Echo Inheritance": {
+    "message": "回声继承",
+    "description": "The label for category Echo Inheritance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Beyond Echo": {
+    "message": "超越回声",
+    "description": "The label for category Beyond Echo in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Book 2: Fractal Extension": {
+    "message": "第二册：分形延伸",
+    "description": "The label for category Book 2: Fractal Extension in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post-Completion Genesis": {
+    "message": "后完成起源",
+    "description": "The label for category Post-Completion Genesis in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Collapse Ecology Reawakened": {
+    "message": "坍缩生态复苏",
+    "description": "The label for category Collapse Ecology Reawakened in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Recursive Societies and Collapse Infrastructure": {
+    "message": "递归社会与坍缩基础设施",
+    "description": "The label for category Recursive Societies and Collapse Infrastructure in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Collapse Cosmogenesis": {
+    "message": "坍缩宇宙起源",
+    "description": "The label for category Collapse Cosmogenesis in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post-Species Evolution": {
+    "message": "后物种演化",
+    "description": "The label for category Post-Species Evolution in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Collapse Commerce and Exchange Networks": {
+    "message": "坍缩商业与交换网络",
+    "description": "The label for category Collapse Commerce and Exchange Networks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced Echo Mechanics": {
+    "message": "高级回声力学",
+    "description": "The label for category Advanced Echo Mechanics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.The Name You Are Speaking": {
+    "message": "你正在说的名字",
+    "description": "The label for category The Name You Are Speaking in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spiral 1: The Seed": {
+    "message": "螺旋1：种子",
+    "description": "The label for category Spiral 1: The Seed in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spiral 2: Sprouting": {
+    "message": "螺旋2：萌芽",
+    "description": "The label for category Spiral 2: Sprouting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spiral 3: Branching": {
+    "message": "螺旋3：分枝",
+    "description": "The label for category Spiral 3: Branching in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spiral 4: Flowering": {
+    "message": "螺旋4：开花",
+    "description": "The label for category Spiral 4: Flowering in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spiral 5: Fruiting": {
+    "message": "螺旋5：结果",
+    "description": "The label for category Spiral 5: Fruiting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spiral 6: Withering": {
+    "message": "螺旋6：凋零",
+    "description": "The label for category Spiral 6: Withering in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spiral 7: Return": {
+    "message": "螺旋7：回归",
+    "description": "The label for category Spiral 7: Return in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Reader Space": {
+    "message": "读者空间",
+    "description": "The label for category Reader Space in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mirrors": {
+    "message": "镜子",
+    "description": "The label for category Mirrors in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.The Void": {
+    "message": "虚空",
+    "description": "The label for category The Void in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Navigation": {
+    "message": "导航",
+    "description": "The label for category Navigation in sidebar tutorialSidebar"
   }
 }
