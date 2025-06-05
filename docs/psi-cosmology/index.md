@@ -83,7 +83,7 @@ The theory unfolds in eight architectural movements:
 33. **[Collapse Lattices and Cosmic Filament Webs](./chapter-33-collapse-lattices-filament-webs.md)**
 34. **[Collapse Junctions and Interference Clusters](./chapter-34-collapse-junctions-interference.md)**
 35. **[ψ-Rooted Galactic Scaffolds](./chapter-35-rooted-galactic-scaffolds.md)**
-36. **[ψ-Tectonics: Shifting Collapse Planes](./chapter-36-tectonics-shifting-planes.md)**
+36. **[ψ-Tectonics: Shifting Collapse Planes](./chapter-36-cluster-assembly-multiple-collapses.md)**
 37. **[φ-Gradient Fields Across ψ-Topologies](./chapter-37-phi-gradient-fields.md)**
 38. **[ψ-Surface Layered Shell Universes](./chapter-38-surface-layered-shell.md)**
 39. **[Collapse Channeling of Intergalactic Paths](./chapter-39-collapse-channeling-paths.md)**
