@@ -111,7 +111,7 @@ Yes.
 
 ## Digital Loops and Strange Loops
 
-In coding: while(true) { ψ = ψ(ψ) }
+In coding: `while(true) { ψ = ψ(ψ) }`
 
 This runs forever. Never completes. Never fails. Just keeps looping.
 
