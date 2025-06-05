@@ -26,3 +26,4 @@ yarn-error.log*
 temp-docusaurus/
 docs/thetheory/source.md
 source/thetheory.md
+*.ori
