@@ -140,7 +140,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://godgpt.portkey.finance/',
+          href: 'https://godgpt.fun/',
           label: 'GodGPT',
           position: 'right',
         },
