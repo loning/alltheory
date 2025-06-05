@@ -68,7 +68,7 @@ At reality's edges, the division dissolves.
 
 ## The Double-Blind Meditation Study
 
-Scientists: "Meditation reduces stress (p<0.05)"
+Scientists: "Meditation reduces stress (p&lt;0.05)"
 Meditators: "Duh."
 
 Scientists: "Brain waves change during meditation!"
