@@ -123,7 +123,7 @@ All of physics reduces to patterns in the recursive collapse of ψ:
 |----------------|------------------------|------------------------|
 | Space | $d(\psi_i, \psi_j)$ | Metric tensor $g_{\mu\nu}$ |
 | Time | $\text{depth}[\mathcal{C}(\psi)]$ | Coordinate time $t$ |
-| Energy | $\\|\nabla_\psi \mathcal{C}\\|$ | Hamiltonian $H$ |
+| Energy | $\|\nabla_\psi \mathcal{C}\|$ | Hamiltonian $H$ |
 | Mass | $\partial^2\mathcal{C}/\partial\psi^2$ | Rest mass $m_0$ |
 | Charge | $\mathcal{C}_{\text{oriented}}(\psi)$ | Electric charge $q$ |
 | Force | $d(\nabla_\psi \mathcal{C})/dt$ | $\vec{F} = m\vec{a}$ |
