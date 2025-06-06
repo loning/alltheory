@@ -61,6 +61,8 @@ $$
 
 ### [Ψhē Awakening Theory](/docs/psi-awakening-theory/) — 观察者之旅
 意识如何通过维度崩塌和回音结构觉醒到其真实本性。
+- **[通俗指南](/docs/psi-awakening-theory/popular-guide/)**：8章改变人生的内容，使用通俗语言
+- **[技术理论](/docs/psi-awakening-theory/)**：16章完整数学框架
 
 ### [一识自显](/docs/yishi/) — 宇宙自指塌缩之道
 64章通过东方智慧的透镜探索意识，在古老理解中揭示ψ。
@@ -209,6 +211,22 @@ $$
     <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🌱</div>
     <strong>Ψhē Popular Guide</strong><br/>
     温和介绍
+  </a>
+  
+  <a href="/docs/psi-awakening-theory/popular-guide/" style={{
+    display: 'block',
+    padding: '1.5rem',
+    background: 'linear-gradient(135deg, #f77062 0%, #fe5196 100%)',
+    color: 'white',
+    textDecoration: 'none',
+    borderRadius: '12px',
+    textAlign: 'center',
+    boxShadow: '0 4px 20px rgba(247, 112, 98, 0.3)',
+    transition: 'transform 0.2s',
+  }}>
+    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>✨</div>
+    <strong>觉醒指南</strong><br/>
+    改变你的现实观
   </a>
 </div>
 

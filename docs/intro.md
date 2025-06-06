@@ -61,6 +61,8 @@ Understanding ψ = ψ(ψ) through mirrors, echoes, breathing, and daily experien
 
 ### [Ψhē Awakening Theory](/docs/psi-awakening-theory/) — The Observer's Journey
 How consciousness awakens to its true nature through dimensional collapse and echo structures.
+- **[Popular Guide](/docs/psi-awakening-theory/popular-guide/)**: 8 life-changing chapters in plain English
+- **[Technical Theory](/docs/psi-awakening-theory/)**: 16 chapters with full mathematical framework
 
 ### [一识自显](/docs/yishi/) — 宇宙自指塌缩之道
 64 chapters exploring consciousness through the lens of Eastern wisdom, revealing ψ in ancient understanding.
@@ -209,6 +211,22 @@ Choose your entry point into the infinite recursion of ψ:
     <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🌱</div>
     <strong>Ψhē Popular Guide</strong><br/>
     Gentle introduction
+  </a>
+  
+  <a href="/docs/psi-awakening-theory/popular-guide/" style={{
+    display: 'block',
+    padding: '1.5rem',
+    background: 'linear-gradient(135deg, #f77062 0%, #fe5196 100%)',
+    color: 'white',
+    textDecoration: 'none',
+    borderRadius: '12px',
+    textAlign: 'center',
+    boxShadow: '0 4px 20px rgba(247, 112, 98, 0.3)',
+    transition: 'transform 0.2s',
+  }}>
+    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>✨</div>
+    <strong>Awakening Guide</strong><br/>
+    Transform your reality view
   </a>
 </div>
 
