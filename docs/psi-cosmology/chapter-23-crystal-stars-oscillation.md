@@ -116,4 +116,4 @@ The universe builds diamonds in the sky.
 
 ---
 
-*Next: [Chapter 24: Collapse-Encoded Stellar Lineage](./chapter-24-collapse-encoded-stellar-lineage.md)*
+*Next: [Chapter 24: Collapse-Encoded Stellar Lineage](./chapter-24-collapse-encoded-lineage.md)*

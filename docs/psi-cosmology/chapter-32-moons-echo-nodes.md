@@ -128,4 +128,4 @@ When we map moons, we chart the standing waves of creation—nodes where the uni
 
 ---
 
-*Next: [Chapter 33: Initial Density Perturbations](./chapter-33-initial-density-perturbations.md)*
+*Next: [Chapter 33: Collapse Lattices and Cosmic Filament Webs](./chapter-33-collapse-lattices-filament-webs.md)*

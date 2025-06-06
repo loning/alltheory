@@ -122,7 +122,7 @@ Symmetries aren't static but evolve through collapse:
 
 $$\frac{\partial S}{\partial \tau} = \{H_\psi, S\}$$
 
-Where {,} represents the collapse Poisson bracket.
+Where $\{H,S\}$ represents the collapse Poisson bracket.
 
 ### 57.8 Symmetry Waves
 

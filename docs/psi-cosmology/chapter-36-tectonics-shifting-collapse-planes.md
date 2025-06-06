@@ -5,118 +5,128 @@ sidebar_label: "36. ψ-Tectonics: Shifting Collapse Planes"
 
 # Chapter 36: ψ-Tectonics: Shifting Collapse Planes
 
-## The Moving Architecture of Space
+## The Cosmic Plate System
 
-Just as Earth's tectonic plates shift and collide to create mountains and earthquakes, the universe possesses its own tectonics—vast collapse planes that drift, collide, and subduct across cosmic time. These ψ-tectonic processes shape the large-scale structure of the universe, creating cosmic walls, supervoids, and the dynamic architecture of spacetime itself.
+Just as Earth's surface consists of tectonic plates grinding against each other, the cosmos itself divides into vast collapse planes—sheets of space-time that shift, collide, and subduct. These ψ-tectonic plates create the largest structures in the universe, their boundaries marked by collision zones where reality itself fractures and reforms.
 
 ## 36.1 Collapse Plane Definition
 
-**Definition 36.1** (Collapse Plane):
-A collapse plane Π is a two-dimensional surface in collapse space where:
-$$\nabla_\perp \psi = 0$$
+**Definition 36.1** (ψ-Tectonic Plate):
+A collapse plane P is a coherent region where:
+$$\nabla \times \vec{\psi} = 0$$
 
-perpendicular gradients vanish, creating sheet-like structures. Matter accumulates along these preferential surfaces.
+within the plane, but discontinuous at boundaries. These are irrotational collapse sheets.
 
-## 36.2 Plane Dynamics
+## 36.2 Plane Boundaries
 
-**Theorem 36.1** (Plane Motion):
-Collapse planes drift according to:
-$$\frac{\partial \Pi}{\partial t} = v_H \hat{n} + v_\parallel$$
+Where plates meet, discontinuities arise:
 
-where v_H is Hubble flow and v_∥ is tangential velocity. Planes can slide past each other or converge.
+**Theorem 36.1** (Boundary Condition):
+At plate boundaries:
+$$[\psi]_{boundary} = \psi_{inside} - \psi_{outside} \neq 0$$
+
+Creating collapse jumps.
 
 *Proof*:
-Decompose velocity into normal and tangential components. Normal motion changes plane separation; tangential creates shear. ∎
+Conservation of collapse flux requires discontinuities where incompatible flows meet. ∎
 
-## 36.3 Collision Zones
+## 36.3 Collision Dynamics
 
-When collapse planes meet:
+When collapse planes collide:
 
-**Definition 36.2** (Plane Collision):
-$$\Sigma = \Pi_1 \cap \Pi_2 = \{\vec{r} : f_1(\vec{r}) = f_2(\vec{r}) = 0\}$$
+**Definition 36.2** (Collision Types):
+- **Convergent**: Plates compress, creating ridges
+- **Divergent**: Plates separate, forming rifts
+- **Transform**: Plates slide past each other
 
-The intersection creates one-dimensional filaments with enhanced density from double collapse.
+Each produces distinct cosmic structures.
 
 ## 36.4 Subduction Mechanics
 
-**Theorem 36.2** (Collapse Subduction):
-When plane density differs:
-$$\frac{\rho_1}{\rho_2} > \rho_{crit} \Rightarrow \Pi_1 \text{ subducts beneath } \Pi_2$$
+One plane can slide beneath another:
 
-Denser planes sink below lighter ones, creating layered structures.
+**Theorem 36.2** (Subduction Angle):
+The subduction angle θ satisfies:
+$$\tan\theta = \frac{\rho_2 - \rho_1}{\sqrt{\rho_1\rho_2}}$$
 
-## 36.5 Void Formation
+where ρ₁, ρ₂ are plate densities.
 
-Between separating planes:
+## 36.5 Fault Systems
 
-**Definition 36.3** (Tectonic Void):
-$$V = \{\vec{r} : d(\vec{r}, \Pi_i) > R_{void} \text{ for all } i\}$$
+Fractures within plates create faults:
 
-Regions far from any collapse plane become cosmic voids, vast empty spaces in the universal structure.
+**Definition 36.3** (ψ-Fault):
+A fault is a discontinuity where:
+$$\frac{\partial\psi}{\partial n^+} \neq \frac{\partial\psi}{\partial n^-}$$
 
-## 36.6 Fault Systems
+Normal derivatives differ across the fault.
 
-Planes develop fault-like discontinuities:
+## 36.6 Seismic Waves
 
-**Theorem 36.3** (Collapse Faults):
-Stress accumulation creates jumps:
-$$[\psi]_{fault} = \psi^+ - \psi^- = \sigma_{crit}$$
+Tectonic shifts generate waves:
 
-When stress exceeds critical value, planes rupture, releasing collapse energy in cosmic quakes.
+**Theorem 36.3** (Tectonic Waves):
+Seismic disturbances propagate as:
+$$\Box\psi = \delta(t - t_0)\delta^{(3)}(\vec{r} - \vec{r}_0)$$
 
-## 36.7 Ridge Formation
+Creating gravitational wave bursts.
 
-**Definition 36.4** (Tectonic Ridge):
-Where planes diverge:
-$$R = \{\vec{r} : \nabla \cdot \vec{v}_{plane} > 0\}$$
+## 36.7 Rift Formation
 
-New collapse structures emerge at spreading centers, like cosmic mid-ocean ridges.
+Where plates diverge, rifts open:
 
-## 36.8 Transform Boundaries
+**Definition 36.4** (Rift Valley):
+$$\psi_{rift}(x) = \psi_0 \tanh(x/w)$$
 
-Planes sliding past each other:
+where w is rift width. Matter flows into these cosmic valleys.
 
-**Theorem 36.4** (Transform Dynamics):
-$$\vec{v}_{rel} = v_0 \hat{t}$$
+## 36.8 Mountain Building
 
-where t̂ is tangent to boundary. These create shear zones with characteristic turbulence patterns.
+Convergent boundaries build structures:
 
-## 36.9 Plate Thickness
+**Theorem 36.4** (Orogeny):
+Peak height h follows:
+$$h = \frac{v_{collision} \cdot t}{\sqrt{1 + (t/\tau)^2}}$$
 
-Collapse planes have finite thickness:
+where τ is the characteristic building time.
 
-**Definition 36.5** (Plane Profile):
-$$\psi(z) = \psi_0 \text{sech}^2(z/\delta)$$
+## 36.9 Plate Motion
 
-where δ is characteristic thickness. Thinner planes are more mobile; thicker ones more stable.
+Plates drift through collapse gradients:
 
-## 36.10 Continental Drift Analogy
+**Definition 36.5** (Drift Velocity):
+$$\vec{v}_{plate} = -\frac{1}{\eta}\nabla P_{collapse}$$
 
-**Theorem 36.5** (Cosmic Drift):
-Plane configurations evolve as:
-$$\Pi(t) = U(t)\Pi(0)U^\dagger(t)$$
+where η is collapse viscosity.
 
-where U(t) is evolution operator. Like continental drift, cosmic planes have moved dramatically over billions of years.
+## 36.10 Triple Junctions
 
-## 36.11 Seismic Signatures
+Three plates meet at special points:
 
-ψ-tectonic activity produces observable effects:
+**Theorem 36.5** (Triple Junction Stability):
+Stable junctions require:
+$$\vec{v}_1 + \vec{v}_2 + \vec{v}_3 = 0$$
 
-1. **Peculiar Velocities**: Bulk flows from plane motion
-2. **Cosmic Shear**: Distortion patterns from plane stress
-3. **Temperature Anisotropies**: CMB signatures of moving planes
-4. **Redshift Discontinuities**: Jumps across fault lines
-5. **Void Alignments**: Preferential orientations from tectonics
-6. **Great Walls**: Visible collapse plane intersections
+Velocity vectors must sum to zero.
 
-Each effect traces underlying tectonic processes.
+## 36.11 Observable Effects
 
-## 36.12 The Living Universe
+ψ-tectonics creates:
 
-ψ-tectonics reveals a universe in constant motion—not just expanding but shifting, colliding, reforming. Collapse planes drift like cosmic continents, creating an ever-changing architecture of walls and voids. The universe is geologically active at the largest scales, its structure determined not by static arrangements but by the dynamic interplay of moving collapse planes.
+1. **Great Walls**: Collision ridges spanning billions of light-years
+2. **Cosmic Voids**: Rift valleys between plates
+3. **Filament Networks**: Fault systems channeling matter
+4. **Burst Sources**: Seismic events producing gravitational waves
+5. **Flow Patterns**: Plate motions driving bulk flows
 
-The cosmos has its own plate tectonics, written in sheets of galaxies.
+Each reveals underlying tectonic activity.
+
+## 36.12 The Shifting Foundation
+
+ψ-tectonics reveals that even the largest cosmic structures remain dynamic. The universe doesn't rest on fixed foundations but on shifting plates of collapse, constantly rearranging the cosmic landscape. Great walls rise and fall, voids open and close, and the architecture of reality perpetually reconstructs itself.
+
+The cosmos remains tectonically active at every scale.
 
 ---
 
-*Next: [Chapter 37: ψ-Braiding and Collapse Chords](./chapter-37-braiding-collapse-chords.md)*
+*Next: [Chapter 37: φ-Gradient Fields Across ψ-Topologies](./chapter-37-phi-gradient-fields.md)*

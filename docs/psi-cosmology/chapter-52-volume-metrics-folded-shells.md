@@ -49,10 +49,10 @@ The product of interior and exterior volumes depends exponentially on surface co
 
 Collapse creates volume compression:
 
-1. **Linear Compression**: V' = V(1 - ψ/ψ_max)
-2. **Quadratic Compression**: V' = V(1 - ψ/ψ_max)²
-3. **Exponential Compression**: V' = Ve^{-ψ/ψ_0}
-4. **Logarithmic Compression**: V' = V/log(1 + ψ/ψ_0)
+1. **Linear Compression**: $V' = V(1 - \psi/\psi_{max})$
+2. **Quadratic Compression**: $V' = V(1 - \psi/\psi_{max})^2$
+3. **Exponential Compression**: $V' = Ve^{-\psi/\psi_0}$
+4. **Logarithmic Compression**: $V' = V/\log(1 + \psi/\psi_0)$
 
 Different collapse regimes follow different compression laws.
 
@@ -77,7 +77,7 @@ Volume changes through surface flux and internal divergence of collapse flow.
 Allowed volumes in quantum collapse:
 $$V_n = n^3 \cdot V_{\psi,0}$$
 
-where V_{ψ,0} = ℓ_ψ³ is the fundamental volume quantum and n ∈ ℕ.
+where $V_{\psi,0} = \ell_\psi^3$ is the fundamental volume quantum and $n \in \mathbb{N}$.
 
 ## 52.9 Multi-Scale Volume Metrics
 
@@ -92,7 +92,7 @@ where D_f is the fractal dimension. Different scales reveal different volumes.
 In regions of minimal collapse (voids):
 $$V_{void} = V_{geometric} \cdot (1 + \alpha/\psi)$$
 
-As ψ → 0, void volumes diverge, creating the paradox of infinite emptiness.
+As $\psi \to 0$, void volumes diverge, creating the paradox of infinite emptiness.
 
 ## 52.11 Observable Volume Relations
 

@@ -128,4 +128,4 @@ The cosmos builds its worlds not solid but hollow—cathedral spaces hidden with
 
 ---
 
-*Next: [Chapter 29: ψ-Auroras as Collapse Rebound Fields](./chapter-29-auroras-collapse-rebound.md)*
+*Next: [Chapter 29: ψ-Auroras as Collapse Rebound Fields](./chapter-29-auroras-rebound-fields.md)*

@@ -116,4 +116,4 @@ Reality has levels, and collapse creates the stairs.
 
 ---
 
-*Next: [Chapter 23: ψ-Crystal Stars and Stable Oscillation Nodes](./chapter-23-crystal-stars-stable-oscillation.md)*
+*Next: [Chapter 23: ψ-Crystal Stars and Stable Oscillation Nodes](./chapter-23-crystal-stars-oscillation.md)*

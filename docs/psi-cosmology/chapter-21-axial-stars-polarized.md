@@ -118,4 +118,4 @@ Every pulsar pulse whispers: the cosmos has handedness.
 
 ---
 
-*Next: [Chapter 22: ψ-Shell Stars and Layered Collapse Surfaces](./chapter-22-shell-stars-layered-collapse.md)*
+*Next: [Chapter 22: ψ-Shell Stars and Layered Collapse Surfaces](./chapter-22-shell-stars-layered-surfaces.md)*

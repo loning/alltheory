@@ -116,4 +116,4 @@ The cosmos flows along invisible rivers, and galaxies are merely ports along the
 
 ---
 
-*Next: [Chapter 40: ψ-Flow Maps of Intra-Cluster Collapse Tension](./chapter-40-flow-maps-tension.md)*
+*Next: [Chapter 40: ψ-Flow Maps of Intra-Cluster Collapse Tension](./chapter-40-flow-maps-cluster-tension.md)*

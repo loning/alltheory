@@ -41,7 +41,7 @@ High collapse density exponentially suppresses effective distance.
 Maximum distance for causal connection:
 $$d_{causal} = ct_{collapse}$$
 
-where t_{collapse} is the characteristic collapse time. Beyond this, regions are causally disconnected.
+where $t_{collapse}$ is the characteristic collapse time. Beyond this, regions are causally disconnected.
 
 ## 54.5 Quantum Distance Cutoff
 

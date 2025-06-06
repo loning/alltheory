@@ -128,4 +128,4 @@ Planets wear their dynamics as jewelry—rings of light encoding the mathematics
 
 ---
 
-*Next: [Chapter 32: ψ-Moons as Collapse Echo Nodes](./chapter-32-moons-collapse-echo-nodes.md)*
+*Next: [Chapter 32: ψ-Moons as Collapse Echo Nodes](./chapter-32-moons-echo-nodes.md)*

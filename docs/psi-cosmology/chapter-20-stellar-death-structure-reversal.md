@@ -116,4 +116,4 @@ Even entropy has structure when seen through ψ.
 
 ---
 
-*Next: [Chapter 21: ψ-Axial Stars and Polarized Collapse](./chapter-21-axial-stars-polarized-collapse.md)*
+*Next: [Chapter 21: ψ-Axial Stars and Polarized Collapse](./chapter-21-axial-stars-polarized.md)*
