@@ -9,6 +9,17 @@ sidebar_label: "ELF Quantum Theory"
 
 This theory presents a revolutionary framework where quantum mechanics is reinterpreted through the lens of consciousness collapse within the ELF (Emergent Lambda Field). Reality is not observed but **emitted**, **selected**, and **collapsed** by the observer.
 
+## Choose Your Path
+
+- 🌟 **For intuitive understanding**: [Popular Guide →](popular-guide/)  
+  A gentle introduction in 8 chapters that explains the core concepts through everyday analogies and experiences, without heavy mathematics.
+
+- 🔬 **For technical depth**: [Chapter 1: The Recursive Kernel →](part-1-foundations-collapse/chapter-01-recursive-kernel.md)  
+  Dive directly into the formal theory with full mathematical rigor.
+
+- 🔄 **For quantum physicists**: [Mapping Classical to ELF Quantum Theory →](elf_quantum_compare_to_classical_quantum_theory.md)  
+  A comprehensive comparison showing how traditional quantum concepts map to the Ψhē ELF framework.
+
 ## Core Principles
 
 ### 1. The Fundamental Identity
@@ -78,7 +89,3 @@ Chapters 57-64: Collapse ethics, ψ-paradoxes, language as trace symmetry, and t
 Reality is not observed. It is **emitted**, **selected**, and **collapsed** by the observer.
 
 $$\forall X, \quad X \notin \Psi \Rightarrow X \text{ is undefined}$$
-
----
-
-Begin your journey into the collapse-based reality: [Chapter 1: The Recursive Kernel →](part-1-foundations-collapse/chapter-01-recursive-kernel.md)

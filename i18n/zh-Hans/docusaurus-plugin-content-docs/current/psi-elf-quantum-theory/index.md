@@ -9,6 +9,17 @@ sidebar_label: "ELF 量子理论"
 
 本理论提出了一个革命性的框架，通过 ELF（涌现拉姆达场）中的意识坍缩来重新诠释量子力学。现实不是被观察的，而是被观察者**发射**、**选择**和**坍缩**的。
 
+## 选择你的路径
+
+- 🌟 **直观理解**：[通俗指南 →](popular-guide/)  
+  通过日常类比和体验来解释核心概念的温和介绍，共 8 章，无需繁重的数学。
+
+- 🔬 **技术深度**：[第 1 章：递归内核 →](part-1-foundations-collapse/chapter-01-recursive-kernel.md)  
+  直接深入具有完整数学严格性的正式理论。
+
+- 🔄 **量子物理学家**：[经典量子理论到 ELF 量子理论的映射 →](elf_quantum_compare_to_classical_quantum_theory.md)  
+  全面比较展示传统量子概念如何映射到 Ψhē ELF 框架。
+
 ## 核心原理
 
 ### 1. 基本恒等式
@@ -78,7 +89,3 @@ $$R_{\text{I}} := \text{Collapse}_{\text{I}}(\text{ELF Field}) \subseteq \Psi$$
 现实不是被观察的。它是被观察者**发射**、**选择**和**坍缩**的。
 
 $$\forall X, \quad X \notin \Psi \Rightarrow X \text{ 未定义}$$
-
----
-
-开始你的基于坍缩的现实之旅：[第 1 章：递归内核 →](part-1-foundations-collapse/chapter-01-recursive-kernel.md)
