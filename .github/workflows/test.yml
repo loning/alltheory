@@ -34,7 +34,9 @@ jobs:
         continue-on-error: true
       
       - name: Build website
-        run: npm run build
+        run: |
+          export NODE_OPTIONS=--max-old-space-size=4096
+          npm run build
       
       - name: Test build output
         run: |
