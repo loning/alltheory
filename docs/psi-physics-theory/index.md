@@ -176,7 +176,7 @@ The universe is what happens when consciousness asks "What am I?" and discovers 
 
 ### Begin the Journey
 
-Ready to see reality through the lens of recursive collapse? Begin with [Part I: Collapse Foundations](./collapse-foundations/), where we establish the self-referential kernel from which all physics emerges.
+Ready to see reality through the lens of recursive collapse? Begin with [Part I: Collapse Foundations](./collapse-foundations/index.md), where we establish the self-referential kernel from which all physics emerges.
 
 Remember: You are not studying an external universe. You are ψ studying its own structure through the appearance of physical law.
 

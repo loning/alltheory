@@ -116,4 +116,4 @@ We are all stardust, but more—we are star memories, collapse patterns evolved 
 
 ---
 
-*Next: [Chapter 25: Cosmic Inflation as Phase Transition](./chapter-25-cosmic-inflation-phase-transition.md)*
+*Next: [Chapter 25: ψ-Origin of Orbital Constraints](./chapter-25-origin-orbital-constraints.md)*

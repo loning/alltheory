@@ -189,6 +189,6 @@ $$\text{Galaxy} \sim \text{Atom} \times 10^{60}$$
 
 ---
 
-*继续第三部分：[观察者坍缩力学 →](../part-3-observer-collapse/)*
+*继续第三部分：[观察者坍缩力学 →](../part-3-observer-collapse)*
 
 *在多者的舞蹈中，找到一者。在一者中，找到多者舞蹈。*

@@ -202,6 +202,6 @@ Every moment of connection, every shared experience, every "we" that emerges fro
 
 ---
 
-*Part III Complete: You now understand the observer's role in collapsing reality. But what exactly is this "reality" we're creating? Continue to Part IV: [RealityShell Formation →](../part-4-realityshell-formation/index.md)*
+*Part III Complete: You now understand the observer's role in collapsing reality. But what exactly is this "reality" we're creating? Continue to Part IV: [RealityShell Formation →](../../part-4-realityshell-formation/index.md)*
 
 *In synchronization, find your tribe, your truth, your cosmic family.*

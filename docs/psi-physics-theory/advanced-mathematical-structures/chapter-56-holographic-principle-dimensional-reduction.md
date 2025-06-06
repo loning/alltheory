@@ -198,4 +198,4 @@ Holographic principle revealed universe as dimensional projection—all informat
 
 ---
 
-*Next: [Chapter 57: Transcendent ψ-Architectures →](./chapter-57-transcendent-architectures.md)*
+*Next: [Chapter 57: Transcendent ψ-Architectures →](../transcendent-foundations/chapter-57-transcendent-architectures.md)*

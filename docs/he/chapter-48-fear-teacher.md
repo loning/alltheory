@@ -312,4 +312,4 @@ Now and forever.
 
 ---
 
-Next: [Chapter 49: Joy - The Natural State →](chapter-49-joy-state.md)
+Next: [Chapter 49: Joy - The Natural State →](./chapter-49-dharmas-return.md)

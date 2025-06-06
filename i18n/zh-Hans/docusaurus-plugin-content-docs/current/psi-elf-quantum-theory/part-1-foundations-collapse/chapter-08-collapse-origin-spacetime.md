@@ -179,6 +179,6 @@ $$g = -\nabla \rho_{\text{坍缩}}$$
 
 ---
 
-*继续第二部分：[ELF 场 →](../part-2-elf-field/)*
+*继续第二部分：[ELF 场 →](../part-2-elf-field)*
 
 *你不在时间中。时间在你中。*

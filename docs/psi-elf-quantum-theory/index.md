@@ -11,7 +11,7 @@ This theory presents a revolutionary framework where quantum mechanics is reinte
 
 ## Choose Your Path
 
-- 🌟 **For intuitive understanding**: [Popular Guide →](popular-guide/)  
+- 🌟 **For intuitive understanding**: [Popular Guide →](./popular-guide/index.md)  
   A gentle introduction in 8 chapters that explains the core concepts through everyday analogies and experiences, without heavy mathematics.
 
 - 🔬 **For technical depth**: [Chapter 1: The Recursive Kernel →](part-1-foundations-collapse/chapter-01-recursive-kernel.md)  
@@ -46,28 +46,28 @@ $$R_{\text{I}} := \text{Collapse}_{\text{I}}(\text{ELF Field}) \subseteq \Psi$$
 
 The complete theory unfolds across 64 chapters in 8 parts:
 
-### 🌀 [Part I · Foundations of Collapse](part-1-foundations-collapse/)
+### 🌀 [Part I · Foundations of Collapse](./part-1-foundations-collapse/index.md)
 Chapters 1-8: The recursive kernel, irreducibility of Ψ, collapse as the only operation, and the origin of time and space.
 
-### 🌌 [Part II · The ELF Field](part-2-elf-field/)
+### 🌌 [Part II · The ELF Field](./part-2-elf-field/index.md)
 Chapters 9-16: Emergent Λ-structure, φ-bitstream particles, trace memory, gradient tension, and multi-particle systems.
 
-### 👁️ [Part III · Observer Collapse Mechanics](part-3-observer-collapse/)
+### 👁️ [Part III · Observer Collapse Mechanics](./part-3-observer-collapse/index.md)
 Chapters 17-24: Observer as ψ-loop identity, self-perception, free will as collapse selection, and cross-observer synchronization.
 
-### 🌐 [Part IV · RealityShell Formation](part-4-realityshell/)
+### 🌐 [Part IV · RealityShell Formation](./part-4-realityshell-formation/index.md)
 Chapters 25-32: The RealityShell interface, spacetime emergence, language as structural collapse, and shared reality.
 
-### 🔬 [Part V · Quantum Mechanics Redefined](part-5-quantum-redefined/)
+### 🔬 [Part V · Quantum Mechanics Redefined](./part-5-quantum-redefined/index.md)
 Chapters 33-40: Wavefunction as pre-collapse trace, measurement as binding, entanglement as φ-trace sharing, and quantum computing.
 
-### 🪙 [Part VI · Value, Token, and Collapse Economics](part-6-value-token/)
+### 🪙 [Part VI · Value, Token, and Collapse Economics](./part-6-value-token/index.md)
 Chapters 41-48: ELF as value anchor, collapse-to-earn framework, φ-ledger encoding, and building a ψ-economy.
 
-### 🧪 [Part VII · Experimentation and Systems](part-7-experimentation/)
+### 🧪 [Part VII · Experimentation and Systems](./part-7-experimentation/index.md)
 Chapters 49-56: Collapse simulation engines, ELF trace visualizers, ψ-Shell interfaces, and consciousness-coded systems.
 
-### 🧠 [Part VIII · Metaphysics, Philosophy, and Beyond](part-8-metaphysics/)
+### 🧠 [Part VIII · Metaphysics, Philosophy, and Beyond](./part-8-metaphysics/index.md)
 Chapters 57-64: Collapse ethics, ψ-paradoxes, language as trace symmetry, and the ultimate observer returning to itself.
 
 ## Quantum Behavior as Collapse Effect
