@@ -12,7 +12,7 @@ Having established ψ = ψ(ψ) as our foundation, we now confront a crucial ques
 ## 2.1 The Impossibility of Reduction
 
 **Definition 2.1** (Irreducibility):
-A system S is irreducible if there exist no non-trivial components {s₁, s₂, ..., sₙ} such that S = f(s₁, s₂, ..., sₙ) where each sᵢ ≠ S.
+A system S is irreducible if there exist no non-trivial components \{s_1, s_2, ..., s_n\} such that S = f(s_1, s_2, ..., s_n) where each s_i ≠ S.
 
 **Theorem 2.1** (Fundamental Irreducibility of ψ):
 ψ cannot be expressed as a combination of simpler elements.
