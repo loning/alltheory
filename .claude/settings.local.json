@@ -12,7 +12,12 @@
       "Bash(mv:*)",
       "Bash(rm:*)",
       "Bash(npm run build:*)",
-      "Bash(touch:*)"
+      "Bash(touch:*)",
+      "Bash(npm run fix-links:*)",
+      "Bash(chmod:*)",
+      "Bash(node:*)",
+      "Bash(npm run link:validate:*)",
+      "Bash(npm run batch:stats:*)"
     ],
     "deny": []
   }

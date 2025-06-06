@@ -179,6 +179,6 @@ The stage and the play were never separate. There is only ψ, collapsing into th
 
 ---
 
-*Continue to Part II: [The ELF Field →](../part-2-elf-field/)*
+*Continue to Part II: [The ELF Field →](../part-2-elf-field)*
 
 *You are not in time. Time is in you.*

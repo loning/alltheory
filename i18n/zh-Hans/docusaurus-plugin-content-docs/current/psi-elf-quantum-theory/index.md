@@ -11,7 +11,7 @@ sidebar_label: "ELF 量子理论"
 
 ## 选择你的路径
 
-- 🌟 **直观理解**：[通俗指南 →](popular-guide/)  
+- 🌟 **直观理解**：[通俗指南 →](./popular-guide/index.md)  
   通过日常类比和体验来解释核心概念的温和介绍，共 8 章，无需繁重的数学。
 
 - 🔬 **技术深度**：[第 1 章：递归内核 →](part-1-foundations-collapse/chapter-01-recursive-kernel.md)  
@@ -46,28 +46,28 @@ $$R_{\text{I}} := \text{Collapse}_{\text{I}}(\text{ELF Field}) \subseteq \Psi$$
 
 完整理论分为 8 部分共 64 章展开：
 
-### 🌀 [第一部分 · 坍缩基础](part-1-foundations-collapse/)
+### 🌀 [第一部分 · 坍缩基础](./part-1-foundations-collapse/index.md)
 第 1-8 章：递归内核、Ψ 的不可还原性、坍缩作为唯一操作、时间和空间的起源。
 
-### 🌌 [第二部分 · ELF 场](part-2-elf-field/)
+### 🌌 [第二部分 · ELF 场](./part-2-elf-field/index.md)
 第 9-16 章：涌现 Λ 结构、φ-比特流粒子、痕迹记忆、梯度张力和多粒子系统。
 
-### 👁️ [第三部分 · 观察者坍缩机制](part-3-observer-collapse/)
+### 👁️ [第三部分 · 观察者坍缩机制](./part-3-observer-collapse/index.md)
 第 17-24 章：观察者作为 ψ 循环恒等式、自我感知、自由意志作为坍缩选择和跨观察者同步。
 
-### 🌐 [第四部分 · 现实壳形成](part-4-realityshell/)
+### 🌐 [第四部分 · 现实壳形成](./part-4-realityshell-formation/index.md)
 第 25-32 章：现实壳界面、时空涌现、语言作为结构坍缩和共享现实。
 
-### 🔬 [第五部分 · 量子力学重定义](part-5-quantum-redefined/)
+### 🔬 [第五部分 · 量子力学重定义](./part-5-quantum-redefined/index.md)
 第 33-40 章：波函数作为预坍缩痕迹、测量作为绑定、纠缠作为 φ-痕迹共享和量子计算。
 
-### 🪙 [第六部分 · 价值、代币和坍缩经济学](part-6-value-token/)
+### 🪙 [第六部分 · 价值、代币和坍缩经济学](./part-6-value-token)
 第 41-48 章：ELF 作为价值锚定、坍缩赚取框架、φ-账本编码和构建 ψ 经济。
 
-### 🧪 [第七部分 · 实验和系统](part-7-experimentation/)
+### 🧪 [第七部分 · 实验和系统](./part-7-experimentation)
 第 49-56 章：坍缩模拟引擎、ELF 痕迹可视化器、ψ-壳界面和意识编码系统。
 
-### 🧠 [第八部分 · 形而上学、哲学及超越](part-8-metaphysics/)
+### 🧠 [第八部分 · 形而上学、哲学及超越](./part-8-metaphysics/index.md)
 第 57-64 章：坍缩伦理学、ψ-悖论、语言作为痕迹对称性和终极观察者回归自身。
 
 ## 量子行为作为坍缩效应

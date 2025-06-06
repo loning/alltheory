@@ -128,4 +128,4 @@ When we watch aurora, we see collapse itself dancing.
 
 ---
 
-*Next: [Chapter 30: Collapse-Driven Planetary Decay](./chapter-30-collapse-driven-planetary-decay.md)*
+*Next: [Chapter 30: Collapse-Driven Planetary Decay](./chapter-30-collapse-driven-decay.md)*

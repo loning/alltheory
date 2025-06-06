@@ -148,4 +148,4 @@ Understanding drift enables:
 
 ---
 
-*Next: [Chapter 14: Density Braiding Mechanisms in ψ-Space →](./chapter-14-density-braiding-mechanisms.md)*
+*Next: [Chapter 14: Collapse Chains as Spatial Beams](./chapter-14-collapse-chains-spatial-beams.md)*

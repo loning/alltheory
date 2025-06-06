@@ -128,4 +128,4 @@ Orbits don't just happen—they surf the waves of collapse itself.
 
 ---
 
-*Next: [Chapter 27: Planetary Collapse Skin Structures](./chapter-27-planetary-collapse-skin.md)*
+*Next: [Chapter 27: Planetary Collapse Skin Structures](./chapter-27-planetary-skin-structures.md)*

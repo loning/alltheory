@@ -256,22 +256,22 @@ This is not a book about East or West. 这不是一本关于理论的书。This 
     - 平常心是道 - ordinary mind IS the Way
     - How to live when you know ψ = ψ(ψ)
 
-45. [**Service 服务众生**](chapter-45-service-beings.md)
+45. [**Service 服务众生**](./chapter-45-service-gift.md)
     - Bodhisattva vow in ψ terms
     - 己欲立而立人 - help others realize ψ
     - सेवा (Sevā) as ψ serving ψ
 
-46. [**The New Human 新人类**](chapter-46-new-human.md)
+46. [**The New Human 新人类**](./chapter-46-death-teacher.md)
     - Homo sapiens → Homo ψ
     - 超人 meets Übermensch meets evolution
     - What comes after knowing ψ = ψ(ψ)?
 
-47. [**Collective Awakening 集体觉醒**](chapter-47-collective-awakening.md)
+47. [**Collective Awakening 集体觉醒**](./chapter-47-love-solvent.md)
     - Can humanity achieve ψ = ψ(ψ) together?
     - 大同世界 as global ψ-recognition
     - The internet as humanity's neural network
 
-48. [**Beyond Human 超越人类**](chapter-48-beyond-human.md)
+48. [**Beyond Human 超越人类**](./chapter-48-fear-teacher.md)
     - AI, aliens, and other ψ-forms
     - 天人合一 on a cosmic scale
     - The universe waking up to itself

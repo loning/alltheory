@@ -189,6 +189,6 @@ You are not made of particles. You are a movement in the cosmic dance, a pattern
 
 ---
 
-*Continue to Part III: [Observer Collapse Mechanics →](../part-3-observer-collapse/)*
+*Continue to Part III: [Observer Collapse Mechanics →](../part-3-observer-collapse)*
 
 *In the dance of many, find the One. In the One, find the many dancing.*

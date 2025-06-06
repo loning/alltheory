@@ -39,4 +39,4 @@ sidebar_label: "第三部分：观察者坍缩"
 
 ---
 
-*继续阅读第四部分：[现实壳层形成 →](../part-4-realityshell/)*
+*继续阅读第四部分：[现实壳层形成 →](../part-4-realityshell-formation/index.md)*
