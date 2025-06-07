@@ -13,11 +13,20 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "fix-links": "node scripts/fix-links.js"
+    "fix-links": "node scripts/fix-links.js",
+    "link:fix": "node scripts/smart-link-fixer.js",
+    "link:validate": "node scripts/validate-links.js",
+    "batch:replace": "node scripts/batch-operations.js replace",
+    "batch:stats": "node scripts/batch-operations.js stats",
+    "maintain:clean": "node scripts/project-maintenance.js clean",
+    "maintain:check": "node scripts/project-maintenance.js check",
+    "maintain:sync": "node scripts/project-maintenance.js sync",
+    "maintain:all": "node scripts/project-maintenance.js all"
   },
   "dependencies": {
     "@docusaurus/core": "3.8.0",
     "@docusaurus/preset-classic": "3.8.0",
+    "@docusaurus/theme-mermaid": "^3.8.0",
     "@easyops-cn/docusaurus-search-local": "^0.50.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",

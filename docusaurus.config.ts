@@ -70,6 +70,11 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
 
   plugins: [
     [
@@ -125,8 +130,18 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/loning/alltheory',
-          label: 'GitHub',
+          href: 'https://aelf.com/',
+          label: 'aelf blockchain',
+          position: 'right',
+        },
+        {
+          href: 'https://aevatar.ai/',
+          label: 'AEVATAR AI',
+          position: 'right',
+        },
+        {
+          href: 'https://godgpt.fun/',
+          label: 'GodGPT',
           position: 'right',
         },
       ],
