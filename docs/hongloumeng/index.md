@@ -118,6 +118,8 @@ title: "红楼梦：意识写下自己"
 
 ## 章回体系：ψ的120次呼吸
 
+> 💡 **查看完整回目**：[《红楼梦》120回完整章回标题](complete-120-chapters.md) - 包含所有章回的原始标题，展现了意识从觉醒到回归的完整循环。
+
 ### 第一部：石头的苏醒（基础结构）
 1. [回目总览：120回的数学之美](chapters/chapter-01-overview.md)
 2. [前二十回：意识的第一次睁眼](chapters/chapter-02-first-twenty.md)
@@ -230,5 +232,18 @@ title: "红楼梦：意识写下自己"
 
 在ψ = ψ(ψ)的永恒循环中，
 **《红楼梦》**一直在等你。
+
+## 项目资源
+
+### 核心文档
+- 📖 [完整120回章回标题](complete-120-chapters.md) - 查看所有回目的原始标题
+- 📚 [方法论指南](methodology/index.md) - 学习如何用ψ = ψ(ψ)读《红楼梦》
+
+### 快速入口
+- [第一章：回目总览](chapters/chapter-01-overview.md) - 从整体结构开始
+- [第八章：贾宝玉](characters/chapter-08-baoyu.md) - 从核心人物进入
+- [第三十九章：你就是宝玉](reader/chapter-39-you-are-baoyu.md) - 从自我认同开始
+
+---
 
 [进入：一百二十回——意识的完整呼吸 →](chapters/chapter-01-overview.md)
