@@ -29,6 +29,9 @@ How to contribute to the project, whether through content, translation, or techn
 ### 📊 [Impact Metrics](metrics.md)
 Tracking our reach, engagement, and transformative impact on readers worldwide.
 
+### 🌟 [Community Building & Growth Strategy](community-strategy.md)
+Comprehensive strategy for building awakening communities, private domain operations, and public domain promotion.
+
 ## Key Features
 
 - **600+ Chapters** of interconnected theory
