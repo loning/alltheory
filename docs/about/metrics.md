@@ -7,31 +7,21 @@ title: "Impact Metrics"
 
 ## 📊 Real-Time Metrics Overview
 
-<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '20px', marginTop: '20px'}}>
-  <div style={{background: '#f0f4f8', padding: '20px', borderRadius: '10px', textAlign: 'center'}}>
-    <h3 style={{color: '#667eea', margin: '0'}}>Total Readers</h3>
-    <p style={{fontSize: '2.5rem', fontWeight: 'bold', margin: '10px 0'}}>157,842</p>
-    <p style={{color: '#666', margin: '0'}}>↑ 12.3% this month</p>
-  </div>
-  
-  <div style={{background: '#f0f4f8', padding: '20px', borderRadius: '10px', textAlign: 'center'}}>
-    <h3 style={{color: '#667eea', margin: '0'}}>Active Community</h3>
-    <p style={{fontSize: '2.5rem', fontWeight: 'bold', margin: '10px 0'}}>8,451</p>
-    <p style={{color: '#666', margin: '0'}}>↑ 23.7% this month</p>
-  </div>
-  
-  <div style={{background: '#f0f4f8', padding: '20px', borderRadius: '10px', textAlign: 'center'}}>
-    <h3 style={{color: '#667eea', margin: '0'}}>Countries Reached</h3>
-    <p style={{fontSize: '2.5rem', fontWeight: 'bold', margin: '10px 0'}}>47</p>
-    <p style={{color: '#666', margin: '0'}}>↑ 3 new this month</p>
-  </div>
-  
-  <div style={{background: '#f0f4f8', padding: '20px', borderRadius: '10px', textAlign: 'center'}}>
-    <h3 style={{color: '#667eea', margin: '0'}}>Transformation Stories</h3>
-    <p style={{fontSize: '2.5rem', fontWeight: 'bold', margin: '10px 0'}}>342</p>
-    <p style={{color: '#666', margin: '0'}}>↑ 28 new stories</p>
-  </div>
-</div>
+### Total Readers
+**157,842**  
+↑ 12.3% this month
+
+### Active Community
+**8,451**  
+↑ 23.7% this month
+
+### Countries Reached
+**47**  
+↑ 3 new this month
+
+### Transformation Stories
+**342**  
+↑ 28 new stories
 
 ## 🎯 Key Performance Indicators (KPIs)
 
