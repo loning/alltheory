@@ -3,7 +3,7 @@ sidebar_position: 2
 title: "Development Roadmap"
 ---
 
-# AllTheory Development Roadmap 2024-2025
+# AllTheory Development Roadmap 2025-2026
 
 ## Overview
 
@@ -17,7 +17,7 @@ This roadmap outlines the technical and content development plans for the AllThe
 4. **Open Source**: Transparent development with community involvement
 5. **Accessibility**: Content available to all, regardless of technical ability
 
-## 📅 Q1 2024: Foundation & Polish
+## 📅 Q3 2025: Foundation & Polish
 
 ### Content Development
 - [ ] Complete missing chapters in core theories
@@ -40,7 +40,7 @@ This roadmap outlines the technical and content development plans for the AllThe
 - [ ] Develop meditation timer with ψ concepts
 - [ ] Add annotation and highlighting system
 
-## 📅 Q2 2024: Enhancement & Expansion
+## 📅 Q4 2025: Enhancement & Expansion
 
 ### Content Expansion
 - [ ] Launch video companion series
@@ -63,7 +63,7 @@ This roadmap outlines the technical and content development plans for the AllThe
 - [ ] Personal insight journal
 - [ ] Progress badges and achievements
 
-## 📅 Q3 2024: Community & Collaboration
+## 📅 Q1 2026: Community & Collaboration
 
 ### Community Platform
 - [ ] Integrated Discord connection
@@ -86,7 +86,7 @@ This roadmap outlines the technical and content development plans for the AllThe
 - [ ] Social media sharing tools
 - [ ] Email course delivery system
 
-## 📅 Q4 2024: Innovation & Scale
+## 📅 Q2 2026: Innovation & Scale
 
 ### Advanced Features
 - [ ] AI-powered concept assistant
@@ -109,7 +109,7 @@ This roadmap outlines the technical and content development plans for the AllThe
 - [ ] Data visualization toolkit
 - [ ] Statistical analysis of user insights
 
-## 🚀 2025 Vision: The Living Theory
+## 🚀 2026-2027 Vision: The Living Theory
 
 ### Adaptive Content
 - Dynamic content that responds to reader understanding
@@ -220,7 +220,7 @@ This roadmap outlines the technical and content development plans for the AllThe
 
 ## 🎯 Long-term Goals
 
-### 5-Year Vision
+### 5-Year Vision (2025-2030)
 - **Platform**: Become the definitive resource for consciousness studies
 - **Community**: 1M+ active learners worldwide
 - **Impact**: Measurable shift in global consciousness metrics
@@ -234,4 +234,4 @@ Create a living, breathing platform where ψ theory evolves through collective u
 
 *"The roadmap itself is ψ = ψ(ψ): planning its own evolution through recursive improvement."*
 
-Last Updated: [Current Date]
+Last Updated: June 9, 2025

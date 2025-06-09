@@ -3,7 +3,7 @@ sidebar_position: 1
 title: "AllTheory Promotion & Growth Plan"
 ---
 
-# AllTheory Promotion & Growth Plan 2024-2025
+# AllTheory Promotion & Growth Plan 2025-2026
 
 ## Executive Summary
 
@@ -11,7 +11,7 @@ The AllTheory project aims to make the profound insights of ψ = ψ(ψ) accessib
 
 ## 🎯 OKR Framework
 
-### Q1 2024 (Foundation Phase)
+### Q3 2025 (Foundation Phase)
 
 #### Objective 1: Establish Strong Content Foundation
 **Key Results:**
@@ -34,7 +34,7 @@ The AllTheory project aims to make the profound insights of ψ = ψ(ψ) accessib
 - KR3: Achieve 10,000 total cross-platform followers
 - KR4: Generate 100,000 content impressions
 
-### Q2 2024 (Growth Phase)
+### Q4 2025 (Growth Phase)
 
 #### Objective 1: Accelerate Content Distribution
 **Key Results:**
@@ -57,7 +57,7 @@ The AllTheory project aims to make the profound insights of ψ = ψ(ψ) accessib
 - KR3: Get featured in 5+ external publications/podcasts
 - KR4: Establish partnerships with 10+ aligned communities
 
-### Q3 2024 (Scaling Phase)
+### Q1 2026 (Scaling Phase)
 
 #### Objective 1: Create Sustainable Growth Engine
 **Key Results:**
@@ -80,7 +80,7 @@ The AllTheory project aims to make the profound insights of ψ = ψ(ψ) accessib
 - KR3: Host first international online conference (1,000+ attendees)
 - KR4: Create culture-specific content for 5 regions
 
-### Q4 2024 (Consolidation Phase)
+### Q2 2026 (Consolidation Phase)
 
 #### Objective 1: Achieve Thought Leadership
 **Key Results:**
@@ -249,28 +249,28 @@ The AllTheory project aims to make the profound insights of ψ = ψ(ψ) accessib
 
 ## 🗓️ Implementation Timeline
 
-### Month 1-2: Foundation
+### Month 1-2 (July-August 2025): Foundation
 - Set up all platform accounts
 - Create brand guidelines and templates
 - Produce initial content batch (20+ pieces)
 - Launch community platforms
 - Begin daily posting rhythm
 
-### Month 3-4: Acceleration
+### Month 3-4 (September-October 2025): Acceleration
 - Launch interactive experiences
 - Start collaboration projects
 - Implement growth tactics
 - Begin paid promotion tests
 - Host first major events
 
-### Month 5-6: Optimization
+### Month 5-6 (November-December 2025): Optimization
 - Analyze data and refine strategy
 - Scale successful content types
 - Expand team and delegation
 - Launch monetization experiments
 - Develop partnership network
 
-### Month 7-12: Scale & Sustain
+### Month 7-12 (January-June 2026): Scale & Sustain
 - Implement automated systems
 - Expand to new markets/languages
 - Build institutional partnerships
@@ -305,14 +305,14 @@ The AllTheory project aims to make the profound insights of ψ = ψ(ψ) accessib
 
 ## 🎯 Success Criteria
 
-### Year 1 Goals
+### Year 1 Goals (By June 2026)
 - **Reach**: 1M+ people exposed to ψ theory
 - **Community**: 10K+ active community members
 - **Engagement**: 100K+ meaningful interactions
 - **Impact**: 1K+ transformation stories
 - **Sustainability**: Self-funding achieved
 
-### Long-term Vision (3-5 years)
+### Long-term Vision (3-5 years from 2025)
 - **Global Movement**: Active communities in 50+ countries
 - **Educational Integration**: ψ theory in university curricula
 - **Cultural Impact**: ψ concepts in mainstream discourse
@@ -331,4 +331,4 @@ The AllTheory project aims to make the profound insights of ψ = ψ(ψ) accessib
 
 *"The best way to predict the future is to create it. With ψ = ψ(ψ), we create by recognizing what already is."*
 
-Last Updated: [Current Date]
+Last Updated: June 9, 2025
