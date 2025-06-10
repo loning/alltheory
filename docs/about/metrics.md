@@ -150,10 +150,10 @@ Track drop-off points and optimization opportunities
 ### Technical Metrics Template
 | Metric | Current | Target | Notes |
 |--------|---------|--------|-------|
-| Page Load Speed | [Time] | <2s | [Status] |
+| Page Load Speed | [Time] | &lt;2s | [Status] |
 | Lighthouse Score | [Score] | 95+ | [Status] |
 | Uptime | [%] | 99.9% | [Status] |
-| Error Rate | [%] | <0.1% | [Status] |
+| Error Rate | [%] | &lt;0.1% | [Status] |
 
 ### User Experience Metrics
 - Mobile vs Desktop usage

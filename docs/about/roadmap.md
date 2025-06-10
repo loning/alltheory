@@ -150,8 +150,8 @@ This roadmap outlines the technical and content development plans for the AllThe
 ## 📊 Success Metrics
 
 ### Performance Targets
-- Page load time: <2s globally
-- Search response: <100ms
+- Page load time: &lt;2s globally
+- Search response: &lt;100ms
 - Uptime: 99.9%
 - Mobile score: 95+
 
