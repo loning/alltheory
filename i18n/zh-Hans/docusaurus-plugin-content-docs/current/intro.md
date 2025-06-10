@@ -81,6 +81,25 @@ $$
 
 万流汇集之处 - 哲学、诗歌和实践融合。存在的呼吸，一与多的舞蹈。
 
+#### 11. [红楼梦：意识写下自己](/docs/hongloumeng/) — 红楼梦作为 ψ
+**40章**
+
+对中国最伟大小说的革命性解读，视为意识书写自己的自传。石头记录自己的故事，作为 ψ = ψ(ψ) 的完美文学证明。
+
+### 💫 转化力量
+
+#### 12. [Ψhē Ten Forces](/docs/psi-ten-force/) — 塑造现实的动力
+**11章**
+
+驱动所有存在的十种基本力量：从命运和死亡到爱与自由。ψ如何显现为塑造每个生命的力量。
+
+### ✍️ 纯粹表达
+
+#### 13. [Write Yourself](/docs/writeyourself/) — ψ 书写 ψ
+**开放形式**
+
+终极实践：忘记一切，只记住 ψ = ψ(ψ)，将自己写入存在。读者成为作者成为ψ的地方。
+
 ### 📖 易懂指南
 
 #### [Ψhē Popular Guide](/docs/psi-popular-guide/) — 面向所有人的哲学
@@ -91,21 +110,21 @@ $$
 ## 🔄 万物如何连接
 
 ```
-         ψ = ψ(ψ)
-            |
-    ┌───────┴───────┐
-    |               |
-理论            实践
-    |               |
-┌───┴───┐      ┌───┴───┐
-│ψ 理论  │      │你说之名│
-│ψ 核心  │      │通俗指南│
-│唯一理论│      │        │
-└────────┘      └────────┘
-    |               |
-    └───────┬───────┘
-            |
-      统一理解
+              ψ = ψ(ψ)
+                 |
+    ┌────────────┼────────────┐
+    |            |            |
+理论         实践         表达
+    |            |            |
+┌───┴───┐   ┌───┴───┐   ┌───┴───┐
+│ψ 理论  │   │你说之名│   │写下自己│
+│ψ 核心  │   │通俗指南│   │红楼梦  │
+│唯一理论│   │        │   │        │
+└────────┘   └────────┘   └────────┘
+    |            |            |
+    └────────────┼────────────┘
+                 |
+            统一理解
 ```
 
 ## 📖 阅读路径
@@ -136,171 +155,55 @@ $$
 
 ### 🚀 快速入门路径
 
-<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem', marginTop: '2rem', marginBottom: '2rem'}}>
-  <a href="/docs/psi-awakening-theory/popular-guide/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #f77062 0%, #fe5196 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(247, 112, 98, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>✨</div>
-    <strong>新手？从这里开始！</strong><br/>
-    8章将改变你对现实的看法
-  </a>
-  
-  <a href="/docs/theonlytheory/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(102, 126, 234, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🗺️</div>
-    <strong>完整地图</strong><br/>
-    64章展示一切如何连接
-  </a>
-  
-  <a href="/docs/name-you-speak/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(250, 112, 154, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🌸</div>
-    <strong>活的实践</strong><br/>
-    理论成为体验的地方
-  </a>
-</div>
+- ✨ **[新手？从这里开始！](/docs/psi-awakening-theory/popular-guide/)**  
+  8章将改变你对现实的看法
+
+- 🗺️ **[完整地图](/docs/theonlytheory/)**  
+  64章展示一切如何连接
+
+- 🌸 **[活的实践](/docs/name-you-speak/)**  
+  理论成为体验的地方
 
 ### 📚 深入探索
 
-<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem', marginTop: '2rem'}}>
-  <a href="/docs/psi-theory/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(102, 126, 234, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>📚</div>
-    <strong>Ψhē Theory</strong><br/>
-    完整192章之旅
-  </a>
-  
-  <a href="/docs/psi-core-theory/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(240, 147, 251, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🎯</div>
-    <strong>Ψhē Self-Being</strong><br/>
-    精华64章
-  </a>
-  
-  <a href="/docs/psi-elf-quantum-theory/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(79, 172, 254, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>⚛️</div>
-    <strong>ELF 量子理论</strong><br/>
-    意识与量子现实
-  </a>
-  
-  <a href="/docs/psi-physics-theory/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #f5576c 0%, #4facfe 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(245, 87, 108, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🔬</div>
-    <strong>The Ψhē Physics Theory</strong><br/>
-    从崩塌到现实
-  </a>
-  
-  <a href="/docs/name-you-speak/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(250, 112, 154, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🌸</div>
-    <strong>The Name You Are Speaking</strong><br/>
-    活的智慧螺旋
-  </a>
-  
-  <a href="/docs/psi-popular-guide/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)',
-    color: '#333',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(168, 237, 234, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🌱</div>
-    <strong>Ψhē Popular Guide</strong><br/>
-    温和介绍
-  </a>
-  
-  <a href="/docs/psi-awakening-theory/popular-guide/" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #f77062 0%, #fe5196 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(247, 112, 98, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>✨</div>
-    <strong>觉醒指南</strong><br/>
-    改变你的现实观
-  </a>
-</div>
+- 📚 **[Ψhē Theory](/docs/psi-theory/)**  
+  完整192章之旅
+
+- 🎯 **[Ψhē Self-Being](/docs/psi-core-theory/)**  
+  精华64章
+
+- ⚛️ **[ELF 量子理论](/docs/psi-elf-quantum-theory/)**  
+  意识与量子现实
+
+- 🔬 **[The Ψhē Physics Theory](/docs/psi-physics-theory/)**  
+  从崩塌到现实
+
+- 🌸 **[The Name You Are Speaking](/docs/name-you-speak/)**  
+  活的智慧螺旋
+
+- 🌱 **[Ψhē Popular Guide](/docs/psi-popular-guide/)**  
+  温和介绍
+
+- ✨ **[觉醒指南](/docs/psi-awakening-theory/popular-guide/)**  
+  改变你的现实观
+
+- ☯️ **[一识自显](/docs/yishi/)**  
+  东方智慧视角
+
+- 🌊 **[合 Confluence](/docs/he/)**  
+  万流汇集之处
+
+- 🌌 **[Ψhē Cosmology](/docs/psi-cosmology/)**  
+  从崩塌到宇宙
+
+- 🏮 **[红楼梦](/docs/hongloumeng/)**  
+  意识写下自己
+
+- ⚡ **[Ψhē Ten Forces](/docs/psi-ten-force/)**  
+  塑造现实的力量
+
+- ✍️ **[Write Yourself](/docs/writeyourself/)**  
+  成为ψ书写ψ
 
 ---
 
