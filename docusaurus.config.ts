@@ -61,7 +61,19 @@ const config: Config = {
           editUrl:
             'https://github.com/loning/alltheory/tree/main/',
           remarkPlugins: [remarkMath],
-          rehypePlugins: [[rehypeKatex, { strict: false }]],
+          rehypePlugins: [
+        [
+          rehypeKatex, 
+          { 
+            strict: false,
+            throwOnError: false,
+            trust: (context) => {
+              // 允许所有希腊字母和数学符号
+              return true;
+            }
+          }
+        ]
+      ],
         },
         blog: false,
         theme: {
@@ -77,6 +89,7 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
 
   plugins: [
+    './plugins/katex-warning-suppressor',
     './plugins/docusaurus-plugin-swc-loader',
     /*
     [
@@ -113,9 +126,6 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/psi-social-card.jpg',
-    katex: {
-      strict: false, // ← 关闭严格模式
-    },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
