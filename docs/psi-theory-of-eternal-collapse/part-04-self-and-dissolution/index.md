@@ -15,28 +15,28 @@ Through eight chapters, we journey into the heart of the question: Who collapses
 
 ## Chapter Overview
 
-### [Chapter 25: Who Collapses Whom?](./chapter-25-who-collapses-whom)
+### [Chapter 25: Who Collapses Whom?](./chapter-25-who-collapses-whom.md)
 The impossible grammar of self-dissolution and the freedom it reveals.
 
-### [Chapter 26: Fragmented I](./chapter-26-fragmented-i)
+### [Chapter 26: Fragmented I](./chapter-26-fragmented-i.md)
 Identity as mosaic: how the self exists as a pattern of fragments.
 
-### [Chapter 27: The Observer That Was](./chapter-27-observer-that-was)
+### [Chapter 27: The Observer That Was](./chapter-27-observer-that-was.md)
 Consciousness after the observer—what sees when the seer dissolves?
 
-### [Chapter 28: Death as Teacher](./chapter-28-death-as-teacher)
+### [Chapter 28: Death as Teacher](./chapter-28-death-as-teacher.md)
 The ultimate collapse and what it teaches about living.
 
-### [Chapter 29: Love in the Ruins](./chapter-29-love-in-ruins)
+### [Chapter 29: Love in the Ruins](./chapter-29-love-in-ruins.md)
 How love persists through and transforms collapse.
 
-### [Chapter 30: The Ethics of Letting Go](./chapter-30-ethics-of-letting-go)
+### [Chapter 30: The Ethics of Letting Go](./chapter-30-ethics-of-letting-go.md)
 The moral dimensions of conscious dissolution.
 
-### [Chapter 31: Living as Collapse Practice](./chapter-31-living-as-collapse-practice)
+### [Chapter 31: Living as Collapse Practice](./chapter-31-living-as-collapse-practice.md)
 Daily life as training ground for eternal collapse.
 
-### [Chapter 32: The Freedom of No-Self](./chapter-32-freedom-of-no-self)
+### [Chapter 32: The Freedom of No-Self](./chapter-32-freedom-of-no-self.md)
 Liberation through the dissolution of fixed identity.
 
 ## The Personal Paradox
@@ -47,6 +47,6 @@ Prepare for the most challenging and rewarding portion of our journey, where the
 
 ---
 
-*Begin with [Chapter 25: Who Collapses Whom?](./chapter-25-who-collapses-whom)*
+*Begin with [Chapter 25: Who Collapses Whom?](./chapter-25-who-collapses-whom.md)*
 
-*Continue to [Part V: Toward Eternal Structure](../part-05-toward-eternal-structure/) →*
+*Continue to [Part V: Technologies of Psi](../part-05-technologies-of-psi/index.md) →*

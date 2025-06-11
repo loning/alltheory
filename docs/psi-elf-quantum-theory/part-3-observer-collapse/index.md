@@ -39,4 +39,4 @@ How multiple observers create shared reality through resonant collapse.
 
 ---
 
-*Continue to Part IV: [RealityShell Formation →](../part-4-realityshell-formation/index.md)*
+*Continue to Part IV: [RealityShell Formation →](../../about/index.md)*

@@ -68,4 +68,4 @@ This part has shown that enlightenment is not escape from daily life but full en
 
 ---
 
-*Continue to Part VIII: [The Final Reemergence →](../part-08-final-reemergence/)*
+*Continue to Part VIII: [The Final Reemergence →](../part-08-final-reemergence/index.md)*

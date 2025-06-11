@@ -14,28 +14,28 @@ This part explores the mathematical structures underlying collapse and decay. We
 
 ## Chapters
 
-### [Chapter 41: Fractals of Dissolution](./chapter-41-fractals-of-dissolution)
+### [Chapter 41: Fractals of Dissolution](./chapter-41-fractals-of-dissolution.md)
 Self-similar patterns in collapse across scales.
 
-### [Chapter 42: The Topology of Tears](./chapter-42-topology-of-tears)
+### [Chapter 42: The Topology of Tears](./chapter-42-topology-of-tears.md)
 How systems break along mathematical lines.
 
-### [Chapter 43: Entropy Aesthetics](./chapter-43-entropy-aesthetics)
+### [Chapter 43: Entropy Aesthetics](./chapter-43-entropy-aesthetics.md)
 The beauty inherent in increasing disorder.
 
-### [Chapter 44: Catastrophe Theory Applied](./chapter-44-catastrophe-theory-applied)
+### [Chapter 44: Catastrophe Theory Applied](./chapter-44-catastrophe-theory-applied.md)
 Mathematical models of sudden collapse.
 
-### [Chapter 45: The Calculus of Crumbling](./chapter-45-calculus-of-crumbling)
+### [Chapter 45: The Calculus of Crumbling](./chapter-45-calculus-of-crumbling.md)
 Differential equations of decay.
 
-### [Chapter 46: Phase Space Collapse](./chapter-46-phase-space-collapse)
+### [Chapter 46: Phase Space Collapse](./chapter-46-phase-space-collapse.md)
 How possibility spaces shrink and expand.
 
-### [Chapter 47: Symmetry Breaking](./chapter-47-symmetry-breaking)
+### [Chapter 47: Symmetry Breaking](./chapter-47-symmetry-breaking.md)
 The mathematics of lost perfection.
 
-### [Chapter 48: The Algebra of Absence](./chapter-48-algebra-of-absence)
+### [Chapter 48: The Algebra of Absence](./chapter-48-algebra-of-absence.md)
 Mathematical operations on void and emptiness.
 
 ## Key Concepts

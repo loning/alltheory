@@ -311,4 +311,4 @@ In this paradox lies the human condition and the cosmic opportunity. We are free
 
 ---
 
-*Continue to [Part II: Echoes in the Ruins](../../part-02-echoes-in-ruins/) — Where we learn to read the patterns that survive collapse.*
+*Continue to [Part II: Echoes in the Ruins](../../part-02-echoes-in-ruins/index.md) — Where we learn to read the patterns that survive collapse.*

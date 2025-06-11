@@ -13,28 +13,28 @@ Having explored what survives collapse, we now turn to the active process of rec
 
 ## Chapter Overview
 
-### [Chapter 17: φ-History and ψ-Memory](./chapter-17-phi-history-psi-memory)
+### [Chapter 17: φ-History and ψ-Memory](./chapter-17-phi-history-psi-memory.md)
 The dual tracks of collapsed information: structural history and functional memory.
 
-### [Chapter 18: Rebuilding Without a Seed](./chapter-18-rebuilding-without-seed)
+### [Chapter 18: Rebuilding Without a Seed](./chapter-18-rebuilding-without-seed.md)
 How systems reconstruct from pure pattern when no original template remains.
 
-### [Chapter 19: Entanglement Loops](./chapter-19-entanglement-loops)
+### [Chapter 19: Entanglement Loops](./chapter-19-entanglement-loops.md)
 The quantum mechanics of reconstruction through collapsed correlations.
 
-### [Chapter 20: Collapse as Involuntary Design](./chapter-20-collapse-as-involuntary-design)
+### [Chapter 20: Collapse as Involuntary Design](./chapter-20-collapse-as-involuntary-design.md)
 How the pattern of falling apart becomes the blueprint for coming together.
 
-### [Chapter 21: Simulating Lost Structures](./chapter-21-simulating-lost-structures)
+### [Chapter 21: Simulating Lost Structures](./chapter-21-simulating-lost-structures.md)
 Technical methods for reconstructing collapsed systems through simulation.
 
-### [Chapter 22: Architectures of Broken Forms](./chapter-22-architectures-broken-forms)
+### [Chapter 22: Architectures of Broken Forms](./chapter-22-architectures-broken-forms.md)
 Building with fragments: how incompleteness becomes structural advantage.
 
-### [Chapter 23: Collapse-Based Resurrection](./chapter-23-collapse-based-resurrection)
+### [Chapter 23: Collapse-Based Resurrection](./chapter-23-collapse-based-resurrection.md)
 The formal protocols for systematic reconstruction from dissolution patterns.
 
-### [Chapter 24: Memory as Mirror](./chapter-24-memory-as-mirror)
+### [Chapter 24: Memory as Mirror](./chapter-24-memory-as-mirror.md)
 How remembered collapse reflects future reconstruction possibilities.
 
 ## Key Concepts Introduced
@@ -50,4 +50,4 @@ This part provides the technical heart of eternal collapse theory—the precise 
 
 ---
 
-*Continue to [Part IV: Self and Dissolution](../part-04-self-and-dissolution/) →*
+*Continue to [Part IV: Self and Dissolution](../part-04-self-and-dissolution/index.md) →*

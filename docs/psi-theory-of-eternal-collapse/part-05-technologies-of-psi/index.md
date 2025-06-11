@@ -14,28 +14,28 @@ This part translates the philosophical and mathematical insights of eternal coll
 
 ## Chapters
 
-### [Chapter 33: Designing for Collapse](./chapter-33-designing-for-collapse)
+### [Chapter 33: Designing for Collapse](./chapter-33-designing-for-collapse.md)
 The principles of creating systems that gracefully fail and transform.
 
-### [Chapter 34: ψ-Interfaces](./chapter-34-psi-interfaces)
+### [Chapter 34: ψ-Interfaces](./chapter-34-psi-interfaces.md)
 User interfaces that acknowledge and facilitate conscious dissolution.
 
-### [Chapter 35: Liquid Organizations](./chapter-35-liquid-organizations)
+### [Chapter 35: Liquid Organizations](./chapter-35-liquid-organizations.md)
 Organizational structures that flow between states of order and chaos.
 
-### [Chapter 36: The Economics of Dissolution](./chapter-36-economics-of-dissolution)
+### [Chapter 36: The Economics of Dissolution](./chapter-36-economics-of-dissolution.md)
 Economic models based on cycles of creation and destruction.
 
-### [Chapter 37: Educational ψ-Systems](./chapter-37-educational-psi-systems)
+### [Chapter 37: Educational ψ-Systems](./chapter-37-educational-psi-systems.md)
 Learning environments designed for continuous unlearning and relearning.
 
-### [Chapter 38: Cities That Breathe](./chapter-38-cities-that-breathe)
+### [Chapter 38: Cities That Breathe](./chapter-38-cities-that-breathe.md)
 Urban planning that incorporates cycles of growth and decay.
 
-### [Chapter 39: Digital Decay Protocols](./chapter-39-digital-decay-protocols)
+### [Chapter 39: Digital Decay Protocols](./chapter-39-digital-decay-protocols.md)
 Algorithms and systems that age, forget, and regenerate.
 
-### [Chapter 40: The Medicine of Collapse](./chapter-40-medicine-of-collapse)
+### [Chapter 40: The Medicine of Collapse](./chapter-40-medicine-of-collapse.md)
 Healthcare approaches that work with natural cycles of breakdown and healing.
 
 ## Key Concepts
