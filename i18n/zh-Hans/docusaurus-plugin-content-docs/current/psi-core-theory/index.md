@@ -107,7 +107,7 @@ $$
 
 你准备好见证宇宙认识自身了吗？
 
-<div style={{textAlign: 'center', margin: '3rem 0'}}>
+
   <a href="./11-primordial-identity/chapter-01-self-reference-principle.md" style={{
     display: 'inline-block',
     padding: '1rem 2rem',
@@ -120,8 +120,8 @@ $$
     transition: 'transform 0.3s ease'
   }}>
     进入递归核心 →
-  </a>
-</div>
+  
+
 
 ---
 

@@ -195,7 +195,7 @@ $$
 - ⚡ **[Ψhē Ten Forces](/docs/psi-ten-force/)**  
   塑造现实的力量
 
-<!-- - ✍️ **[Write Yourself](/docs/writeyourself/)** -->  
+  
   成为ψ书写ψ
 
 ---

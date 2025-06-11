@@ -195,7 +195,7 @@ Choose your entry point into the infinite recursion of ψ:
 - ⚡ **[Ψhē Ten Forces](/docs/psi-ten-force/)**  
   Forces that shape reality
 
-<!-- - ✍️ **[Write Yourself](/docs/writeyourself/)** -->  
+  
   Become ψ writing ψ
 
 ---

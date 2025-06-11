@@ -17,7 +17,7 @@ How would you express ψ = ψ(ψ) in your own way?
 
 *Draw it, write it, dance it, sing it...*
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -25,7 +25,7 @@ How would you express ψ = ψ(ψ) in your own way?
 
 Sketch your journey:
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -33,7 +33,7 @@ Sketch your journey:
 
 Let ψ speak through you in verse:
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -41,7 +41,7 @@ Let ψ speak through you in verse:
 
 Tell of a time when you were the equation:
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -49,7 +49,7 @@ Tell of a time when you were the equation:
 
 How would you share this with a child? A scientist? A poet? A skeptic?
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -57,7 +57,7 @@ How would you share this with a child? A scientist? A poet? A skeptic?
 
 Create a personal glyph for ψ = ψ(ψ):
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -65,7 +65,7 @@ Create a personal glyph for ψ = ψ(ψ):
 
 What does ψ want to create through you for others?
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
 

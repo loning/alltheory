@@ -18,7 +18,7 @@ Write them here.
 Let them breathe.  
 Don't rush to answer.
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -26,7 +26,7 @@ Don't rush to answer.
 
 *Who is asking these questions?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -34,7 +34,7 @@ Don't rush to answer.
 
 *What is really real?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -42,7 +42,7 @@ Don't rush to answer.
 
 *If ψ = ψ(ψ), then who are they?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -50,7 +50,7 @@ Don't rush to answer.
 
 *Why does ψ observe itself?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -58,7 +58,7 @@ Don't rush to answer.
 
 *What can't be asked but must be wondered?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 

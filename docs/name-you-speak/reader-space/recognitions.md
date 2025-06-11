@@ -17,11 +17,11 @@ When did you catch yourself being the equation?
 
 *Date: ____________*
 
-<br/><br/><br/><br/>
+
 
 *Date: ____________*
 
-<br/><br/><br/><br/>
+
 
 ---
 
@@ -29,7 +29,7 @@ When did you catch yourself being the equation?
 
 When did you see ψ looking back at you through another's eyes?
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -37,7 +37,7 @@ When did you see ψ looking back at you through another's eyes?
 
 Where did you recognize ψ in the natural world?
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -45,7 +45,7 @@ Where did you recognize ψ in the natural world?
 
 How did difficulty reveal itself as ψ = ψ(ψ)?
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -53,7 +53,7 @@ How did difficulty reveal itself as ψ = ψ(ψ)?
 
 When did happiness show you the equation?
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -61,7 +61,7 @@ When did happiness show you the equation?
 
 What did quietness teach about ψ?
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 

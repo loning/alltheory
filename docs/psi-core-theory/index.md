@@ -5,10 +5,10 @@ title: "Ψhē Self-Being — Introduction & Navigation"
 
 # Ψhē Self-Being — Complete 64-Chapter Philosophy
 
-<div style={{background: '#e8f4fd', padding: '1.5rem', borderRadius: '8px', marginBottom: '2rem'}}>
-  <strong>💡 New to Ψhē philosophy?</strong> Consider starting with our <a href="../psi-popular-guide">Popular Guide</a> — 
+
+  💡 New to Ψhē philosophy? Consider starting with our Popular Guide — 
   a friendly introduction using everyday experiences to understand ψ = ψ(ψ) without mathematical formalism.
-</div>
+
 
 ## The Journey of Existence Knowing Itself
 
@@ -116,7 +116,7 @@ This is not a static document but a living collapse of meaning. Each reading cre
 
 Are you ready to witness the universe recognizing itself?
 
-<div style={{textAlign: 'center', margin: '3rem 0'}}>
+
   <a href="psi-core-theory/primordial-identity/chapter-01-self-reference-principle" style={{
     display: 'inline-block',
     padding: '1rem 2rem',
@@ -129,8 +129,8 @@ Are you ready to witness the universe recognizing itself?
     transition: 'transform 0.3s ease'
   }}>
     Enter the Recursive Core →
-  </a>
-</div>
+  
+
 
 ---
 

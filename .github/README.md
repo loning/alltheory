@@ -73,6 +73,6 @@ If deployment fails:
 
 The deployment configuration is in `docusaurus.config.ts`:
 - `url`: Your GitHub Pages URL
-- `baseUrl`: The path where the site is served (usually `/<repo-name>/`)
+- `baseUrl`: The path where the site is served (usually `//`)
 - `organizationName`: Your GitHub username or organization
 - `projectName`: Your repository name 

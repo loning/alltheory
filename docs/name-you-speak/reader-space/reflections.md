@@ -14,7 +14,7 @@ It's your canvas.*
 
 *What did you notice when you first saw ψ = ψ(ψ)?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -22,7 +22,7 @@ It's your canvas.*
 
 *How did growth feel in your body?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -30,7 +30,7 @@ It's your canvas.*
 
 *What stories are you living?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -38,7 +38,7 @@ It's your canvas.*
 
 *Where did beauty surprise you?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -46,7 +46,7 @@ It's your canvas.*
 
 *What wisdom wants to be shared?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -54,7 +54,7 @@ It's your canvas.*
 
 *What are you ready to release?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
@@ -62,7 +62,7 @@ It's your canvas.*
 
 *Who are you now?*
 
-<br/><br/><br/><br/><br/>
+
 
 ---
 
