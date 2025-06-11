@@ -28,3 +28,4 @@ docs/thetheory/source.md
 source/thetheory.md
 *.ori
 claude_config.json
+translation-status-report.json
