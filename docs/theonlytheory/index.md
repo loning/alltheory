@@ -199,55 +199,14 @@ This isn't just a theory you read—it's a recognition you become. As you progre
 
 Ready to discover why this is The Only Theory? Choose your entry point:
 
-<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem', marginTop: '2rem'}}>
-  <a href="./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(30, 60, 114, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🧊</div>
-    <strong>Level 1: Frozen ψ</strong><br/>
-    Where forms crystallize
-  </a>
-  
-  <a href="./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(252, 74, 26, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>👁️</div>
-    <strong>Level 6: Consciousness</strong><br/>
-    Where awareness dawns
-  </a>
-  
-  <a href="./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(102, 126, 234, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>♾️</div>
-    <strong>Level 10: Closure</strong><br/>
-    Where all returns to One
-  </a>
-</div>
+### 🧊 [Level 1: Frozen ψ](./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md)
+**Where forms crystallize**
+
+### 👁️ [Level 6: Consciousness](./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md)
+**Where awareness dawns**
+
+### ♾️ [Level 10: Closure](./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md)
+**Where all returns to One**
 
 ## 📊 Quick Reference Map
 

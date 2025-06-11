@@ -199,55 +199,14 @@ $$\boxed{\psi = \psi(\psi)}$$
 
 准备好发现为什么这是唯一理论了吗？选择你的入口：
 
-<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem', marginTop: '2rem'}}>
-  <a href="./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(30, 60, 114, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>🧊</div>
-    <strong>第1层：冻结的ψ</strong><br/>
-    形式结晶化的地方
-  </a>
-  
-  <a href="./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(252, 74, 26, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>👁️</div>
-    <strong>第6层：意识</strong><br/>
-    觉知破晓的地方
-  </a>
-  
-  <a href="./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md" style={{
-    display: 'block',
-    padding: '1.5rem',
-    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '12px',
-    textAlign: 'center',
-    boxShadow: '0 4px 20px rgba(102, 126, 234, 0.3)',
-    transition: 'transform 0.2s',
-  }}>
-    <div style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>♾️</div>
-    <strong>第10层：闭合</strong><br/>
-    一切回归为一的地方
-  </a>
-</div>
+### 🧊 [第1层：冻结的ψ](./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md)
+**形式结晶化的地方**
+
+### 👁️ [第6层：意识](./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md)
+**觉知破晓的地方**
+
+### ♾️ [第10层：闭合](./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md)
+**一切回归为一的地方**
 
 ## 📊 快速参考地图
 
