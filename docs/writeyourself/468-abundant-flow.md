@@ -1,3 +1,9 @@
+---
+id: 468-abundant-flow
+title: "468 - 丰富流动 | Abundant Flow"
+sidebar_label: "468 - Abundant Flow"
+---
+
 # 468 - 丰富流动 | Abundant Flow
 
 ```

@@ -230,4 +230,4 @@ $$||a^*a|| = ||a||^2$$
 
 ---
 
-*下一章：[第53章：ψ 空间中的计算复杂性 →](./chapter-53-computational-complexity-space.md)*
+*下一章：[第53章：ψ 空间中的计算复杂性 →](chapter-53-computational-complexity.md)*

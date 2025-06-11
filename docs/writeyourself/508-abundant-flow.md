@@ -1,3 +1,9 @@
+---
+id: 508-abundant-flow
+title: "508 - 丰富流动 | Abundant Flow"
+sidebar_label: "508 - Abundant Flow"
+---
+
 # 508 - 丰富流动 | Abundant Flow
 
 ```

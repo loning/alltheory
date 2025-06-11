@@ -298,9 +298,11 @@ const PsiDisplay = ({ depth = 0 }) => {
 ## 🆘 Getting Help
 
 ### Resources
-- **[Style Guide](./style-guide.md)**: Detailed formatting rules
-- **[Glossary](./glossary.md)**: Technical terms explained
-- **[FAQ](./faq.md)**: Common questions answered
+<!-- The following resources are currently under development:
+- **Style Guide**: Detailed formatting rules (coming soon)
+- **Glossary**: Technical terms explained (coming soon)
+- **FAQ**: Common questions answered (coming soon)
+-->
 - **[Discord](https://discord.gg/alltheory)**: Real-time help
 
 ### Contacts

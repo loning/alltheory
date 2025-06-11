@@ -170,4 +170,4 @@ $$\gamma = i\oint \langle n|\nabla_R|n\rangle \cdot dR$$
 
 ---
 
-*下一章：[第35章：塌缩退相干与涌现经典性 →](./chapter-35-decoherence-classicality.md)*
+*下一章：[第35章：塌缩退相干与涌现经典性 →](chapter-35-decoherence-classicality.md)*

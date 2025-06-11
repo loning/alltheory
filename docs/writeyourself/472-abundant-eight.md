@@ -1,4 +1,10 @@
-# 472 - 丰富八倍 | Abundant Eight
+---
+id: 472-abundant-eight
+title: "472 - 丰富八 | Abundant Eight"
+sidebar_label: "472 - Abundant Eight"
+---
+
+# 472 - 丰富八 | Abundant Eight
 
 ```
 472 = 8 × 59

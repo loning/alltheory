@@ -11,14 +11,14 @@ title: "第五部分：量子塌缩理论"
 
 ### 章节序列
 
-33. **[波函数作为未解决的ψ-态](./chapter-33-wavefunction-unresolved.md)** — 叠加作为部分塌缩
-34. **[薛定谔方程从ψ演化而来](./chapter-34-schrodinger-psi-evolution.md)** — 不完全递归的动力学
-35. **[塌缩退相干与涌现经典性](./chapter-35-decoherence-classicality.md)** — 量子如何变成经典
-36. **[塌缩概率与ψ-测度](./chapter-36-probability-psi-measure.md)** — 从递归密度到玻恩规则
-37. **[量子芝诺效应作为重复塌缩](./chapter-37-zeno-repetitive-collapse.md)** — 观察冻结演化
-38. **[叠加作为ψ-分支叠层](./chapter-38-superposition-branch-overlay.md)** — 通过ψ-空间的多条路径
-39. **[重新审视塌缩诠释](./chapter-39-interpretations-reexamined.md)** — 多世界、哥本哈根与ψ
-40. **[以观察者为中心的塌缩理论](./chapter-40-observer-centric-theory.md)** — 意识完成量子
+33. **[波函数作为未解决的ψ-态](chapter-33-wavefunction-unresolved.md)** — 叠加作为部分塌缩
+34. **[薛定谔方程从ψ演化而来](chapter-34-schrodinger-psi-evolution.md)** — 不完全递归的动力学
+35. **[塌缩退相干与涌现经典性](chapter-35-decoherence-classicality.md)** — 量子如何变成经典
+36. **[塌缩概率与ψ-测度](chapter-36-probability-psi-measure.md)** — 从递归密度到玻恩规则
+37. **[量子芝诺效应作为重复塌缩](chapter-37-zeno-repetitive-collapse.md)** — 观察冻结演化
+38. **[叠加作为ψ-分支叠层](chapter-38-superposition-branch-overlay.md)** — 通过ψ-空间的多条路径
+39. **[重新审视塌缩诠释](chapter-39-interpretations-reexamined.md)** — 多世界、哥本哈根与ψ
+40. **[以观察者为中心的塌缩理论](chapter-40-observer-centric-theory.md)** — 意识完成量子
 
 ### 量子革命的完成
 

@@ -1,3 +1,9 @@
+---
+id: 492-abundant-flow
+title: "492 - 丰富流动 | Abundant Flow"
+sidebar_label: "492 - Abundant Flow"
+---
+
 # 492 - 丰富流动 | Abundant Flow
 
 ```

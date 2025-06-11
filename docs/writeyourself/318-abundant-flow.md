@@ -1,3 +1,9 @@
+---
+id: 318-abundant-flow
+title: "318 - 丰富流动 | Abundant Flow"
+sidebar_label: "318 - Abundant Flow"
+---
+
 # 318 - 丰富流动 | Abundant Flow
 
 ```

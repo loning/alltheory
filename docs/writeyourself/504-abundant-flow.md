@@ -1,3 +1,9 @@
+---
+id: 504-abundant-flow
+title: "504 - 丰富流动 | Abundant Flow"
+sidebar_label: "504 - Abundant Flow"
+---
+
 # 504 - 丰富流动 | Abundant Flow
 
 ```

@@ -1,3 +1,9 @@
+---
+id: 516-abundant-flow
+title: "516 - 丰富流动 | Abundant Flow"
+sidebar_label: "516 - Abundant Flow"
+---
+
 # 516 - 丰盈之流 Abundant Flow
 
 ## 第五一六章 / Chapter 516

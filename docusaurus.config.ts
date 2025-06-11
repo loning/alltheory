@@ -76,6 +76,7 @@ const config: Config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
+  /*
   plugins: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -97,7 +98,7 @@ const config: Config = {
       },
     ],
   ],
-
+  */
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
@@ -111,6 +112,9 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/psi-social-card.jpg',
+    katex: {
+      strict: false, // ← 关闭严格模式
+    },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,

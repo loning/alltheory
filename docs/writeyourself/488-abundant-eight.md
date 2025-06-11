@@ -1,4 +1,10 @@
-# 488 - 丰富八倍 | Abundant Eight
+---
+id: 488-abundant-eight
+title: "488 - 丰富八 | Abundant Eight"
+sidebar_label: "488 - Abundant Eight"
+---
+
+# 488 - 丰富八 | Abundant Eight
 
 ```
 488 = 8 × 61
