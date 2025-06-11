@@ -1,0 +1,9 @@
+{
+  "label": "Ψhē 物理学",
+  "position": 20,
+  "description": "自指涉的物理现实 — 从粒子到宇宙意识",
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
+}

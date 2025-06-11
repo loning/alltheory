@@ -1,0 +1,10 @@
+{
+  "label": "ψhē十力",
+  "position": 7,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "psi-ten-force/index"
+  }
+}
