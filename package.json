@@ -21,7 +21,9 @@
     "maintain:clean": "node scripts/project-maintenance.js clean",
     "maintain:check": "node scripts/project-maintenance.js check",
     "maintain:sync": "node scripts/project-maintenance.js sync",
-    "maintain:all": "node scripts/project-maintenance.js all"
+    "maintain:all": "node scripts/project-maintenance.js all",
+    "translate:status": "node scripts/translation-status-analyzer.js",
+    "translate:quick": "node scripts/translation-status-quick.js"
   },
   "dependencies": {
     "@docusaurus/core": "3.8.0",
