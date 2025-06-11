@@ -68,4 +68,4 @@ sidebar_position: 7
 
 ---
 
-*继续阅读第八部分：[最终再现 →](../part-08-final-reemergence/)*
+*继续阅读第八部分：[最终再现 →](../part-08-final-reemergence/index.md)*

@@ -391,4 +391,4 @@ In embracing relationship entropy, we discover that impermanence makes love more
 
 ---
 
-*Next: [Chapter 52: Creative Destruction Practices](./chapter-52-creative-destruction-practices) — Using collapse as a tool for artistic breakthrough.*
+*Next: [Chapter 52: Collapse Languages](./chapter-52-collapse-languages.md) — Using collapse as a tool for artistic breakthrough.*

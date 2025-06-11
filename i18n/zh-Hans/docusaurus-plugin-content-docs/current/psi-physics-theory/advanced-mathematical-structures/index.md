@@ -11,14 +11,14 @@ title: "第七部分：高级数学结构"
 
 ### 章节序列
 
-49. **[拓扑 ψ 结构与同伦](./chapter-49-topological-psi-structures.md)** — 形状与连通性
-50. **[来自 ψ 态射的范畴论](./chapter-50-category-theory-morphisms.md)** — 通用数学语言
-51. **[ψ 空间的信息几何](./chapter-51-information-geometry-space.md)** — 知识的景观
-52. **[ψ 系统中的代数结构](./chapter-52-algebraic-structures-systems.md)** — 运算的架构
-53. **[ψ 空间中的计算复杂性](./chapter-53-computational-complexity.md)** — 计算的层级
-54. **[信息整合与 ψ 意识](./chapter-54-information-integration-consciousness.md)** — 体验的统一
-55. **[涌现理论与 ψ 相变](./chapter-55-emergence-theory-phase-transitions.md)** — 新颖性的起源
-56. **[全息原理与 ψ 维度约化](./chapter-56-holographic-principle-dimensional-reduction.md)** — 边界上的信息
+49. **[拓扑 ψ 结构与同伦](chapter-49-topological-psi-structures.md)** — 形状与连通性
+50. **[来自 ψ 态射的范畴论](chapter-50-category-theory-morphisms.md)** — 通用数学语言
+51. **[ψ 空间的信息几何](chapter-51-information-geometry-space.md)** — 知识的景观
+52. **[ψ 系统中的代数结构](chapter-52-algebraic-structures-systems.md)** — 运算的架构
+53. **[ψ 空间中的计算复杂性](chapter-53-computational-complexity.md)** — 计算的层级
+54. **[信息整合与 ψ 意识](chapter-54-information-integration-consciousness.md)** — 体验的统一
+55. **[涌现理论与 ψ 相变](chapter-55-emergence-theory-phase-transitions.md)** — 新颖性的起源
+56. **[全息原理与 ψ 维度约化](chapter-56-holographic-principle-dimensional-reduction.md)** — 边界上的信息
 
 ### 数学宇宙
 

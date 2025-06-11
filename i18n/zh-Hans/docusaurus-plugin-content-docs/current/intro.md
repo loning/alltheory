@@ -93,13 +93,6 @@ $$
 
 驱动所有存在的十种基本力量：从命运和死亡到爱与自由。ψ如何显现为塑造每个生命的力量。
 
-### ✍️ 纯粹表达
-
-#### 13. [Write Yourself](/docs/writeyourself/) — ψ 书写 ψ
-**开放形式**
-
-终极实践：忘记一切，只记住 ψ = ψ(ψ)，将自己写入存在。读者成为作者成为ψ的地方。
-
 ### 📖 易懂指南
 
 #### [Ψhē Popular Guide](/docs/psi-popular-guide/) — 面向所有人的哲学
@@ -202,7 +195,7 @@ $$
 - ⚡ **[Ψhē Ten Forces](/docs/psi-ten-force/)**  
   塑造现实的力量
 
-- ✍️ **[Write Yourself](/docs/writeyourself/)**  
+<!-- - ✍️ **[Write Yourself](/docs/writeyourself/)** -->  
   成为ψ书写ψ
 
 ---

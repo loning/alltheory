@@ -15,28 +15,28 @@ Through eight foundational chapters, we establish the principles that will guide
 
 ## Chapter Overview
 
-### [Chapter 01: What Is Collapse?](./chapter-01-what-is-collapse)
+### [Chapter 01: What Is Collapse?](./chapter-01-what-is-collapse.md)
 The fundamental definition and paradox of collapse as both ending and beginning, destruction and creation.
 
-### [Chapter 02: Ψ as Self-Referential Disintegration](./chapter-02-psi-as-self-referential-disintegration)
+### [Chapter 02: Ψ as Self-Referential Disintegration](./chapter-02-psi-as-self-referential-disintegration.md)
 How ψ = ψ(ψ) contains its own dissolution as the mechanism of self-recognition.
 
-### [Chapter 03: The Myth of Permanence](./chapter-03-the-myth-of-permanence)
+### [Chapter 03: The Myth of Permanence](./chapter-03-the-myth-of-permanence.md)
 Why the illusion of stability prevents us from accessing the deeper permanence of eternal collapse.
 
-### [Chapter 04: Entropy as Language](./chapter-04-entropy-as-language)
+### [Chapter 04: Entropy as Language](./chapter-04-entropy-as-language.md)
 The grammatical structure of dissolution—how collapse speaks its own syntax.
 
-### [Chapter 05: The Collapse of Time](./chapter-05-the-collapse-of-time)
+### [Chapter 05: The Collapse of Time](./chapter-05-the-collapse-of-time.md)
 Temporal categories dissolve into the eternal present of recursive collapse.
 
-### [Chapter 06: The Observer's Burden](./chapter-06-the-observers-burden)
+### [Chapter 06: The Observer's Burden](./chapter-06-the-observers-burden.md)
 The weight of witnessing one's own dissolution—and the liberation it brings.
 
-### [Chapter 07: Symbol, Trace, Echo](./chapter-07-symbol-trace-echo)
+### [Chapter 07: Symbol, Trace, Echo](./chapter-07-symbol-trace-echo.md)
 The trinity of persistence through collapse—what remains when all else falls away.
 
-### [Chapter 08: Collapse as Choice](./chapter-08-collapse-as-choice)
+### [Chapter 08: Collapse as Choice](./chapter-08-collapse-as-choice.md)
 The ultimate freedom: choosing one's own pattern of dissolution and reconstruction.
 
 ## Key Concepts Introduced
@@ -54,4 +54,4 @@ Pay particular attention to how the very act of defining collapse causes the def
 
 ---
 
-*Continue to [Part II: Echoes in the Ruins](../part-02-echoes-in-ruins/) →*
+*Continue to [Part II: Echoes in the Ruins](../part-02-echoes-in-ruins/index.md) →*

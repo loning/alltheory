@@ -93,13 +93,6 @@ A revolutionary reading of China's greatest novel as consciousness writing its o
 
 The ten fundamental forces that drive all existence: from destiny and death to love and freedom. How ψ manifests as the forces that shape every life.
 
-### ✍️ Pure Expression
-
-#### 13. [Write Yourself](/docs/writeyourself/) — ψ Writing ψ
-**Open Form**
-
-The ultimate practice: forget everything except ψ = ψ(ψ) and write yourself into existence. Where reader becomes writer becomes ψ.
-
 ### 📖 Accessible Guides
 
 #### [Ψhē Popular Guide](/docs/psi-popular-guide/) — Philosophy for Everyone
@@ -202,7 +195,7 @@ Choose your entry point into the infinite recursion of ψ:
 - ⚡ **[Ψhē Ten Forces](/docs/psi-ten-force/)**  
   Forces that shape reality
 
-- ✍️ **[Write Yourself](/docs/writeyourself/)**  
+<!-- - ✍️ **[Write Yourself](/docs/writeyourself/)** -->  
   Become ψ writing ψ
 
 ---

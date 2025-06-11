@@ -11,14 +11,14 @@ title: "第六部分：场塌缩力学"
 
 ### 章节序列
 
-41. **[量子真空作为 ψ 海](./chapter-41-vacuum-psi-sea.md)** — 活跃的虚无
-42. **[来自塌缩流的电磁场](./chapter-42-electromagnetic-collapse-currents.md)** — 光作为流动模式
-43. **[规范理论作为 ψ 相位自由度](./chapter-43-gauge-theory-phase-freedom.md)** — 来自自指涉的对称性
-44. **[杨-米尔斯场作为 ψ 纤维丛](./chapter-44-yang-mills-fiber-bundles.md)** — 非阿贝尔塌缩
-45. **[希格斯机制作为自发 ψ 破缺](./chapter-45-higgs-spontaneous-breaking.md)** — 通过选择的对称性破缺
-46. **[来自 ψ 统一的标准模型](./chapter-46-standard-model-unification.md)** — 所有力作为塌缩方面
-47. **[场量子化与 ψ 算符](./chapter-47-quantization-psi-operators.md)** — 创生与湮灭
-48. **[量子场论完成](./chapter-48-qft-completion.md)** — 统一框架
+41. **[量子真空作为 ψ 海](chapter-41-vacuum-psi-sea.md)** — 活跃的虚无
+42. **[来自塌缩流的电磁场](chapter-42-electromagnetic-collapse-currents.md)** — 光作为流动模式
+43. **[规范理论作为 ψ 相位自由度](chapter-43-gauge-theory-phase-freedom.md)** — 来自自指涉的对称性
+44. **[杨-米尔斯场作为 ψ 纤维丛](chapter-44-yang-mills-fiber-bundles.md)** — 非阿贝尔塌缩
+45. **[希格斯机制作为自发 ψ 破缺](chapter-45-higgs-spontaneous-breaking.md)** — 通过选择的对称性破缺
+46. **[来自 ψ 统一的标准模型](chapter-46-standard-model-unification.md)** — 所有力作为塌缩方面
+47. **[场量子化与 ψ 算符](chapter-47-quantization-psi-operators.md)** — 创生与湮灭
+48. **[量子场论完成](chapter-48-qft-completion.md)** — 统一框架
 
 ### 场革命
 

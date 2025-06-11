@@ -55,7 +55,7 @@ Chapters 9-16: Emergent Λ-structure, φ-bitstream particles, trace memory, grad
 ### 👁️ [Part III · Observer Collapse Mechanics](./part-3-observer-collapse/index.md)
 Chapters 17-24: Observer as ψ-loop identity, self-perception, free will as collapse selection, and cross-observer synchronization.
 
-### 🌐 [Part IV · RealityShell Formation](./part-4-realityshell-formation/index.md)
+### 🌐 [Part IV · RealityShell Formation](../about/index.md)
 Chapters 25-32: The RealityShell interface, spacetime emergence, language as structural collapse, and shared reality.
 
 ### 🔬 [Part V · Quantum Mechanics Redefined](./part-5-quantum-redefined/index.md)

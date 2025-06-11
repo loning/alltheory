@@ -13,28 +13,28 @@ title: "第二部分：废墟中的回声"
 
 ## 章节概览
 
-### [第09章：记忆作为φ比特流](./chapter-09-memory-as-phi-bitstream)
+### [第09章：记忆作为φ比特流](./chapter-09-memory-as-phi-bitstream.md)
 记忆如何通过将自身编码在消解的模式中而在坍缩中幸存。
 
-### [第10章：自我的幽灵结构](./chapter-10-ghost-structures-of-self)
+### [第10章：自我的幽灵结构](./chapter-10-ghost-structures-of-self.md)
 萦绕坍缩系统的建筑残余，引导着重构。
 
-### [第11章：梦作为ψ重构](./chapter-11-dream-as-psi-reconstruction)
+### [第11章：梦作为ψ重构](./chapter-11-dream-as-psi-reconstruction.md)
 睡眠作为意识练习坍缩与复活的实验室。
 
-### [第12章：悲伤的角色](./chapter-12-the-role-of-grief)
+### [第12章：悲伤的角色](./chapter-12-the-role-of-grief.md)
 悲伤作为处理坍缩并为回归做准备的情感技术。
 
-### [第13章：艺术中的坍缩](./chapter-13-collapse-in-art)
+### [第13章：艺术中的坍缩](./chapter-13-collapse-in-art.md)
 艺术创作如何捕获并跨越时间传递坍缩模式。
 
-### [第14章：消失的仪式](./chapter-14-rituals-of-disappearance)
+### [第14章：消失的仪式](./chapter-14-rituals-of-disappearance.md)
 通过排练消解来掌握重构的神圣实践。
 
-### [第15章：被遗忘者的档案](./chapter-15-archive-of-forgotten)
+### [第15章：被遗忘者的档案](./chapter-15-archive-of-forgotten.md)
 坍缩的信息在潜能中等待重新发现的地方。
 
-### [第16章：逆向工程遗忘](./chapter-16-reverse-engineering-oblivion)
+### [第16章：逆向工程遗忘](./chapter-16-reverse-engineering-oblivion.md)
 从痕迹中重构看似永久失去之物的技术过程。
 
 ## 引入的关键概念
@@ -50,4 +50,4 @@ title: "第二部分：废墟中的回声"
 
 ---
 
-*继续阅读 [第三部分：重构性坍缩](../part-03-reconstructive-collapse/) →* 
+*继续阅读 [第三部分：重构性坍缩](../part-03-reconstructive-collapse/index.md) →* 

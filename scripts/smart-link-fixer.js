@@ -22,14 +22,16 @@ class SmartLinkFixer {
     console.log('🔍 检测断链...\n');
     
     try {
-      execSync('npm run build', { 
+      // 使用 2>&1 将 stderr 重定向到 stdout
+      const output = execSync('npm run build 2>&1', { 
         cwd: this.projectRoot,
-        encoding: 'utf8',
-        stdio: 'pipe'
+        encoding: 'utf8'
       });
+      // 即使构建成功也检查输出中的断链信息
+      this.parseBrokenLinks(output);
     } catch (error) {
       // 构建失败时解析错误输出中的断链信息
-      const output = error.stdout || error.output?.join('') || '';
+      const output = error.stdout || error.stderr || error.output?.join('') || error.toString();
       this.parseBrokenLinks(output);
     }
   }

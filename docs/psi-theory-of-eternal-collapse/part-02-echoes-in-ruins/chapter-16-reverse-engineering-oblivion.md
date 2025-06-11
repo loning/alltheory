@@ -302,4 +302,4 @@ We are reverse engineers of the lost, archaeologists of the void, resurrectionis
 
 ---
 
-*Continue to [Part III: Reconstructive Collapse](../../part-03-reconstructive-collapse/) — Where we learn the active technologies of rebuilding from dissolution.*
+*Continue to [Part III: Reconstructive Collapse](../part-03-reconstructive-collapse/index.md) — Where we learn the active technologies of rebuilding from dissolution.*

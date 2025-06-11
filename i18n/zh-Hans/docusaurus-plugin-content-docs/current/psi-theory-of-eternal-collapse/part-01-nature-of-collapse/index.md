@@ -15,28 +15,28 @@ title: "第一部分：坍缩的本质"
 
 ## 章节概览
 
-### [第01章：什么是坍缩？](./chapter-01-what-is-collapse)
+### [第01章：什么是坍缩？](./chapter-01-what-is-collapse.md)
 坍缩作为终结与开始、毁灭与创造的基本定义和悖论。
 
-### [第02章：ψ作为自指性瓦解](./chapter-02-psi-as-self-referential-disintegration)
+### [第02章：ψ作为自指性瓦解](./chapter-02-psi-as-self-referential-disintegration.md)
 ψ = ψ(ψ)如何包含自身的消解作为自我认知的机制。
 
-### [第03章：永恒性的神话](./chapter-03-the-myth-of-permanence)
+### [第03章：永恒性的神话](./chapter-03-the-myth-of-permanence.md)
 为什么稳定性的幻觉阻止我们接触永恒坍缩的更深层永恒性。
 
-### [第04章：熵作为语言](./chapter-04-entropy-as-language)
+### [第04章：熵作为语言](./chapter-04-entropy-as-language.md)
 消解的语法结构——坍缩如何述说自己的句法。
 
-### [第05章：时间的坍缩](./chapter-05-the-collapse-of-time)
+### [第05章：时间的坍缩](./chapter-05-the-collapse-of-time.md)
 时间范畴消解进入递归坍缩的永恒当下。
 
-### [第06章：观察者的负担](./chapter-06-the-observers-burden)
+### [第06章：观察者的负担](./chapter-06-the-observers-burden.md)
 见证自身消解的重量——以及它带来的解放。
 
-### [第07章：符号、痕迹、回声](./chapter-07-symbol-trace-echo)
+### [第07章：符号、痕迹、回声](./chapter-07-symbol-trace-echo.md)
 通过坍缩而持存的三位一体——当一切都消逝时什么仍然留存。
 
-### [第08章：坍缩作为选择](./chapter-08-collapse-as-choice)
+### [第08章：坍缩作为选择](./chapter-08-collapse-as-choice.md)
 终极自由：选择自己的消解与重构模式。
 
 ## 引入的关键概念
@@ -54,4 +54,4 @@ title: "第一部分：坍缩的本质"
 
 ---
 
-*继续阅读 [第二部分：废墟中的回声](../part-02-echoes-in-ruins/) →* 
+*继续阅读 [第二部分：废墟中的回声](../part-02-echoes-in-ruins/index.md) →* 

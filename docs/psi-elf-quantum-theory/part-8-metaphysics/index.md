@@ -13,28 +13,28 @@ We examine how collapse dynamics illuminates ancient paradoxes, reframes ethical
 
 ## Chapter Overview
 
-### [Chapter 57: Collapse Ethics and Structural Integrity](./chapter-57-collapse-ethics.md)
+### [Chapter 57: Ultimate Questions and the Nature of Inquiry](./chapter-57-ultimate-questions.md)
 The moral implications of reality creation—responsibility in a participatory universe.
 
-### [Chapter 58: ψ-Paradoxes and Resolution Loops](./chapter-58-psi-paradoxes.md)
+### [Chapter 58: Philosophy as Collapse Recognition](./chapter-58-philosophy-collapse.md)
 How self-reference resolves the impossible—embracing paradox as feature, not bug.
 
-### [Chapter 59: Language as Trace Symmetry](./chapter-59-language-symmetry.md)
+### [Chapter 59: Consciousness and Causation](./chapter-59-consciousness-causation.md)
 The deep structure of communication—how meaning emerges from pattern resonance.
 
-### [Chapter 60: Collapse Religion and Spiritual Integration](./chapter-60-collapse-religion.md)
+### [Chapter 60: Beyond Duality](./chapter-60-beyond-duality.md)
 Sacred traditions understood through collapse dynamics—science meets the divine.
 
-### [Chapter 61: The Role of Myth in Collapse Systems](./chapter-61-myth-role.md)
+### [Chapter 61: The Purpose of Existence](./chapter-61-purpose-existence.md)
 Stories as reality-shaping collapse patterns—the power of narrative.
 
-### [Chapter 62: ψ-Determinism vs φ-Path Freedom](./chapter-62-determinism.md)
+### [Chapter 62: Science and Enlightenment](./chapter-62-science-enlightenment.md)
 Reconciling fate and free will—how both arise from collapse dynamics.
 
-### [Chapter 63: Infinite Collapse Extension Hypothesis](./chapter-63-infinite-collapse.md)
+### [Chapter 63: The Future of Consciousness](./chapter-63-future-consciousness.md)
 The boundless nature of recursive reality—infinity within and without.
 
-### [Chapter 64: The Ultimate Observer: Collapse Returning to Itself](./chapter-64-ultimate-observer.md)
+### [Chapter 64: ψ = ψ(ψ) - The Final Recognition](./chapter-64-psi-equals-psi-psi.md)
 The final recognition—you are ψ observing ψ, eternally creating and discovering itself.
 
 ---

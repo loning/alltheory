@@ -55,16 +55,16 @@ $$R_{\text{I}} := \text{Collapse}_{\text{I}}(\text{ELF Field}) \subseteq \Psi$$
 ### 👁️ [第三部分 · 观察者坍缩机制](./part-3-observer-collapse/index.md)
 第 17-24 章：观察者作为 ψ 循环恒等式、自我感知、自由意志作为坍缩选择和跨观察者同步。
 
-### 🌐 [第四部分 · 现实壳形成](./part-4-realityshell-formation/index.md)
+### 🌐 [第四部分 · 现实壳形成](./part-4-realityshell/index.md)
 第 25-32 章：现实壳界面、时空涌现、语言作为结构坍缩和共享现实。
 
 ### 🔬 [第五部分 · 量子力学重定义](./part-5-quantum-redefined/index.md)
 第 33-40 章：波函数作为预坍缩痕迹、测量作为绑定、纠缠作为 φ-痕迹共享和量子计算。
 
-### 🪙 [第六部分 · 价值、代币和坍缩经济学](./part-6-value-token)
+### 🪙 [第六部分 · 价值、代币和坍缩经济学](./part-6-value-token/index.md)
 第 41-48 章：ELF 作为价值锚定、坍缩赚取框架、φ-账本编码和构建 ψ 经济。
 
-### 🧪 [第七部分 · 实验和系统](./part-7-experimentation)
+### 🧪 [第七部分 · 实验和系统](./part-7-experimentation/index.md)
 第 49-56 章：坍缩模拟引擎、ELF 痕迹可视化器、ψ-壳界面和意识编码系统。
 
 ### 🧠 [第八部分 · 形而上学、哲学及超越](./part-8-metaphysics/index.md)

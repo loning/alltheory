@@ -14,6 +14,7 @@ const config: Config = {
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    experimental_faster: true, // Enable all Docusaurus Faster optimizations
   },
 
   // Set the production url of your site here
@@ -28,8 +29,8 @@ const config: Config = {
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese,
@@ -61,7 +62,19 @@ const config: Config = {
           editUrl:
             'https://github.com/loning/alltheory/tree/main/',
           remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
+          rehypePlugins: [
+        [
+          rehypeKatex, 
+          { 
+            strict: false,
+            throwOnError: false,
+            trust: (context) => {
+              // 允许所有希腊字母和数学符号
+              return true;
+            }
+          }
+        ]
+      ],
         },
         blog: false,
         theme: {
@@ -81,6 +94,9 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
 
   plugins: [
+    './plugins/katex-warning-suppressor',
+    './plugins/webpack-cache-optimizer',
+    /*
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
@@ -100,8 +116,8 @@ const config: Config = {
         searchResultContextMaxLength: 50,
       },
     ],
+    */
   ],
-
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
