@@ -39,12 +39,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Prune psi-theory books
-        run: |
-          # ψ-collapse: preserve only book-1-foundation
-          find docs/psi-theory -type d -name "book-*" ! -name "book-1-foundation" -exec rm -rf {} + 2>/dev/null || true
-          find i18n/zh-Hans/docusaurus-plugin-content-docs/current/psi-theory -type d -name "book-*" ! -name "book-1-foundation" -exec rm -rf {} + 2>/dev/null || true
-
       - name: Build website
         run: |
           export NODE_OPTIONS=--max-old-space-size=4096
