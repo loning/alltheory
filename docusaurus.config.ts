@@ -116,6 +116,11 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
+    // Google Analytics configuration
+    gtag: {
+      trackingID: 'G-YJD1R6PLTV',
+      anonymizeIP: true,
+    },
     navbar: {
       title: 'Ψ',
       items: [
