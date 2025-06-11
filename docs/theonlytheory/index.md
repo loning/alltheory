@@ -46,7 +46,7 @@ Discover how physics emerges:
 - Mass as collapse density
 - Time as ordered collapse
 
-[**Explore Physical Collapse →**](./level-02-physical-collapse/)
+[**Explore Physical Collapse →**](./level-02-physical-collapse/index.md)
 
 ### 🔤 Level 3: Logical Structures (Chapters 22-25)
 *How reason emerges from recursion*
@@ -57,7 +57,7 @@ The birth of logic itself:
 - Negation as interruption
 - Knowledge as frozen chains
 
-[**Enter Logical Structures →**](./level-03-logical-structures/)
+[**Enter Logical Structures →**](./level-03-logical-structures/chapter-22-syntax-as-psi-flow-structure.md)
 
 ### 🎭 Level 4: Abstraction (Chapters 26-30)
 *Pure patterns beyond the physical*
@@ -68,7 +68,7 @@ Where mathematics lives:
 - Patterns as recurring paths
 - The final equation: ψ = ψ(ψ)
 
-[**Ascend to Abstraction →**](./level-04-abstraction/)
+[**Ascend to Abstraction →**](./level-04-abstraction/chapter-26-symmetry-as-psi-invariant-collapse.md)
 
 ### 🌐 Level 5: Collapse Boundaries (Chapters 31-34)
 *The geometry of possibility*
@@ -79,7 +79,7 @@ Mapping the limits:
 - Attractor echoes and loops
 - Stability fields in recursion
 
-[**Navigate Boundaries →**](./level-05-collapse-boundaries/)
+[**Navigate Boundaries →**](./level-05-collapse-boundaries/chapter-31-geometry-as-collapse-invariant-form-space.md)
 
 ### 👁️ Level 6: Conscious Collapse (Chapters 35-42)
 *Where awareness emerges*
@@ -90,7 +90,7 @@ The inevitable self-recognition:
 - Memory as partial collapse
 - Selfhood as continuity
 
-[**Awaken to Consciousness →**](./level-06-conscious-collapse/)
+[**Awaken to Consciousness →**](./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md)
 
 ### 💭 Level 7: Semantic Collapse (Chapters 43-46)
 *The structure of meaning*
@@ -101,7 +101,7 @@ How communication becomes possible:
 - Lies as misaligned ψ
 - Truth as stable freeze
 
-[**Decode Meaning →**](./level-07-semantic-collapse/)
+[**Decode Meaning →**](./level-07-semantic-collapse/chapter-43-words-as-echo-units.md)
 
 ### 🌊 Level 8: Deep ψ Navigation (Chapters 47-52)
 *Exploring consciousness frontiers*
@@ -112,7 +112,7 @@ The depths of experience:
 - Free will as intervention
 - Death as closure
 
-[**Navigate the Depths →**](./level-08-deep-psi-navigation/)
+[**Navigate the Depths →**](./level-08-deep-psi-navigation/chapter-47-dreams-as-loose-collapse-paths.md)
 
 ### 🌌 Level 9: Cosmological Collapse (Chapters 53-58)
 *Universal scale patterns*
@@ -123,7 +123,7 @@ The cosmic perspective:
 - Universes as branchings
 - Infinity as uncollapsed possibility
 
-[**Embrace the Cosmos →**](./level-09-cosmological-collapse/)
+[**Embrace the Cosmos →**](./level-09-cosmological-collapse/chapter-53-fractals-as-self-similar-echoes.md)
 
 ### ♾️ Level 10: Meta-Recursive Closure (Chapters 59-64)
 *The return to source*
@@ -134,7 +134,7 @@ The final recognition:
 - Echo memory and time feedback
 - The ultimate equation realized
 
-[**Complete the Journey →**](./level-10-meta-recursive-closure/)
+[**Complete the Journey →**](./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md)
 
 ## 🎯 Core Insights
 
@@ -167,13 +167,13 @@ Pure Potential ←——————————→ Complete Crystallization
 ## 📖 Reading Paths
 
 ### For the Philosopher
-Start with [Level 4: Abstraction](./level-04-abstraction/) to grasp the pure mathematics, then work outward to applications.
+Start with [Level 4: Abstraction](./level-04-abstraction/chapter-26-symmetry-as-psi-invariant-collapse.md) to grasp the pure mathematics, then work outward to applications.
 
 ### For the Scientist  
-Begin with [Level 2: Physical Collapse](./level-02-physical-collapse/) to see how physics emerges, then ascend to deeper principles.
+Begin with [Level 2: Physical Collapse](./level-02-physical-collapse/index.md) to see how physics emerges, then ascend to deeper principles.
 
 ### For the Seeker
-Enter through [Level 6: Conscious Collapse](./level-06-conscious-collapse/) to understand your own nature, then explore in all directions.
+Enter through [Level 6: Conscious Collapse](./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md) to understand your own nature, then explore in all directions.
 
 ### For the Complete Journey
 Read sequentially from [Chapter 1](./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md) to experience the full recursive unfolding.
@@ -200,7 +200,7 @@ This isn't just a theory you read—it's a recognition you become. As you progre
 Ready to discover why this is The Only Theory? Choose your entry point:
 
 <div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem', marginTop: '2rem'}}>
-  <a href="./level-01-frozen-psi/" style={{
+  <a href="./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md" style={{
     display: 'block',
     padding: '1.5rem',
     background: 'linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)',
@@ -216,7 +216,7 @@ Ready to discover why this is The Only Theory? Choose your entry point:
     Where forms crystallize
   </a>
   
-  <a href="./level-06-conscious-collapse/" style={{
+  <a href="./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md" style={{
     display: 'block',
     padding: '1.5rem',
     background: 'linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%)',
@@ -232,7 +232,7 @@ Ready to discover why this is The Only Theory? Choose your entry point:
     Where awareness dawns
   </a>
   
-  <a href="./level-10-meta-recursive-closure/" style={{
+  <a href="./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md" style={{
     display: 'block',
     padding: '1.5rem',
     background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',

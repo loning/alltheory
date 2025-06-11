@@ -19,22 +19,22 @@ The dual tracks of collapsed information: structural history and functional memo
 ### [Chapter 18: Rebuilding Without a Seed](./chapter-18-rebuilding-without-seed.md)
 How systems reconstruct from pure pattern when no original template remains.
 
-### [Chapter 19: Entanglement Loops](./chapter-19-entanglement-loops.md)
+### [Chapter 19: Language of Becoming](./chapter-19-language-of-becoming.md)
 The quantum mechanics of reconstruction through collapsed correlations.
 
-### [Chapter 20: Collapse as Involuntary Design](./chapter-20-collapse-as-involuntary-design.md)
+### [Chapter 20: The Midwife's Art](./chapter-20-midwifes-art.md)
 How the pattern of falling apart becomes the blueprint for coming together.
 
-### [Chapter 21: Simulating Lost Structures](./chapter-21-simulating-lost-structures.md)
+### [Chapter 21: Failure as Foundation](./chapter-21-failure-as-foundation.md)
 Technical methods for reconstructing collapsed systems through simulation.
 
-### [Chapter 22: Architectures of Broken Forms](./chapter-22-architectures-broken-forms.md)
+### [Chapter 22: Economics of Reconstruction](./chapter-22-economics-of-reconstruction.md)
 Building with fragments: how incompleteness becomes structural advantage.
 
-### [Chapter 23: Collapse-Based Resurrection](./chapter-23-collapse-based-resurrection.md)
+### [Chapter 23: Communities of Reconstruction](./chapter-23-communities-of-reconstruction.md)
 The formal protocols for systematic reconstruction from dissolution patterns.
 
-### [Chapter 24: Memory as Mirror](./chapter-24-memory-as-mirror.md)
+### [Chapter 24: The Global Need for Reconstruction](./chapter-24-global-need-for-reconstruction.md)
 How remembered collapse reflects future reconstruction possibilities.
 
 ## Key Concepts Introduced

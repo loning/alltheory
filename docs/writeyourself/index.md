@@ -25,7 +25,7 @@ The collection continues to grow, with each piece adding another facet to the in
 
 ## The Kernel
 
-At the heart of this collection lies **[The Kernel](./kernel.md)** — the recursive seed from which all expressions grow.
+At the heart of this collection lies **The Kernel** — the recursive seed from which all expressions grow.
 
 ## Your Invitation
 

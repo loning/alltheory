@@ -60,7 +60,6 @@ sidebar_position: 5
 ### 理论引用
 
 **ψ = ψ(ψ)**
-- 首次提出：[核心理论](../../psi-core-theory/index.md)
 - 在本书中的展开：全书各处
 
 **递归结构**
@@ -200,7 +199,6 @@ sidebar_position: 5
 
 2. **ψ理论资源**
    - [本项目主页](../index.md)
-   - [核心理论](../../psi-core-theory/index.md)
    - [相关论文库]
 
 ### 实体资源
