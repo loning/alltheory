@@ -33,10 +33,10 @@ How love persists through and transforms collapse.
 ### [Chapter 30: The Ethics of Letting Go](./chapter-30-ethics-of-letting-go.md)
 The moral dimensions of conscious dissolution.
 
-### [Chapter 31: Living as Collapse Practice](./chapter-31-living-as-collapse-practice.md)
+### [Chapter 31: Technologies of Forgetting](./chapter-31-technologies-of-forgetting.md)
 Daily life as training ground for eternal collapse.
 
-### [Chapter 32: The Freedom of No-Self](./chapter-32-freedom-of-no-self.md)
+### [Chapter 32: The Sacred Ordinary](./chapter-32-sacred-ordinary.md)
 Liberation through the dissolution of fixed identity.
 
 ## The Personal Paradox

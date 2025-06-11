@@ -251,4 +251,4 @@ We are the reconstruction generation. Born into a time of ending, we must become
 
 ---
 
-*Continue to [Part IV: Self and Dissolution](../../part-04-self-and-dissolution/index.md) — Where the personal meets the universal in the dance of identity and collapse.*
+*Continue to [Part IV: Self and Dissolution](../part-04-self-and-dissolution/index.md) — Where the personal meets the universal in the dance of identity and collapse.*
