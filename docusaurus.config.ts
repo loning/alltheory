@@ -61,7 +61,7 @@ const config: Config = {
           editUrl:
             'https://github.com/loning/alltheory/tree/main/',
           remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
+          rehypePlugins: [[rehypeKatex, { strict: false }]],
         },
         blog: false,
         theme: {
