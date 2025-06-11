@@ -1,3 +1,4 @@
+---
 title: "Book 3: Omega Collapse"
 sidebar_position: 3
 ---
