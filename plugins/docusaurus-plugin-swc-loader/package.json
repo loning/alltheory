@@ -1,0 +1,7 @@
+{
+  "name": "docusaurus-plugin-swc-loader",
+  "version": "1.0.0",
+  "description": "Docusaurus plugin to use SWC for faster builds",
+  "main": "index.js",
+  "private": true
+} 
