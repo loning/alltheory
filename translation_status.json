@@ -1,0 +1,110 @@
+{
+  "total_translated": 9,
+  "percentage": 14.0625,
+  "status": {
+    "part-01-nature-of-collapse": {
+      "part_index": true,
+      "chapters": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    "part-02-echoes-in-ruins": {
+      "part_index": false,
+      "chapters": {
+        "9": false,
+        "10": false,
+        "11": false,
+        "12": false,
+        "13": false,
+        "14": false,
+        "15": false,
+        "16": false
+      }
+    },
+    "part-03-reconstructive-collapse": {
+      "part_index": false,
+      "chapters": {
+        "17": false,
+        "18": false,
+        "19": false,
+        "20": false,
+        "21": false,
+        "22": false,
+        "23": false,
+        "24": false
+      }
+    },
+    "part-04-self-and-dissolution": {
+      "part_index": false,
+      "chapters": {
+        "25": true,
+        "26": false,
+        "27": false,
+        "28": false,
+        "29": false,
+        "30": false,
+        "31": false,
+        "32": false
+      }
+    },
+    "part-05-toward-eternal-structure": {
+      "part_index": false,
+      "chapters": {
+        "33": false,
+        "34": false,
+        "35": false,
+        "36": false,
+        "37": false,
+        "38": false,
+        "39": false,
+        "40": false
+      }
+    },
+    "part-06-divine-disintegration": {
+      "part_index": false,
+      "chapters": {
+        "41": false,
+        "42": false,
+        "43": false,
+        "44": false,
+        "45": false,
+        "46": false,
+        "47": false,
+        "48": false
+      }
+    },
+    "part-07-eternal-structures": {
+      "part_index": false,
+      "chapters": {
+        "49": false,
+        "50": false,
+        "51": false,
+        "52": false,
+        "53": false,
+        "54": false,
+        "55": false,
+        "56": false
+      }
+    },
+    "part-08-final-reemergence": {
+      "part_index": false,
+      "chapters": {
+        "57": false,
+        "58": false,
+        "59": false,
+        "60": false,
+        "61": false,
+        "62": false,
+        "63": false,
+        "64": false
+      }
+    }
+  }
+}
