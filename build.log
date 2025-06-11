@@ -1,0 +1,43 @@
+
+> temp-docusaurus@0.0.0 build
+> docusaurus build
+
+
+[ERROR] Error: Docusaurus could not load module at path "/workspace/docusaurus.config.ts"
+Cause: Cannot find module 'prism-react-renderer'
+Require stack:
+- /workspace/docusaurus.config.ts
+    at loadFreshModule (/usr/local/lib/node_modules/@docusaurus/core/node_modules/@docusaurus/utils/lib/moduleUtils.js:36:15)
+    at loadSiteConfig (/usr/local/lib/node_modules/@docusaurus/core/lib/server/config.js:36:62)
+    ... 6 lines matching cause stack trace ...
+    at async file:///usr/local/lib/node_modules/@docusaurus/core/bin/docusaurus.mjs:44:3 {
+  [cause]: Error: Cannot find module 'prism-react-renderer'
+  Require stack:
+  - /workspace/docusaurus.config.ts
+      at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+      at Function.resolve (node:internal/modules/helpers:193:19)
+      at _resolve (/usr/local/lib/node_modules/@docusaurus/core/node_modules/jiti/dist/jiti.js:1:246378)
+      at jiti (/usr/local/lib/node_modules/@docusaurus/core/node_modules/jiti/dist/jiti.js:1:249092)
+      at /workspace/docusaurus.config.ts:1:189
+      at evalModule (/usr/local/lib/node_modules/@docusaurus/core/node_modules/jiti/dist/jiti.js:1:251913)
+      at jiti (/usr/local/lib/node_modules/@docusaurus/core/node_modules/jiti/dist/jiti.js:1:249841)
+      at loadFreshModule (/usr/local/lib/node_modules/@docusaurus/core/node_modules/@docusaurus/utils/lib/moduleUtils.js:33:16)
+      at loadSiteConfig (/usr/local/lib/node_modules/@docusaurus/core/lib/server/config.js:36:62)
+      at async Promise.all (index 1)
+      at async loadContext (/usr/local/lib/node_modules/@docusaurus/core/lib/server/site.js:39:97)
+      at async getLocalesToBuild (/usr/local/lib/node_modules/@docusaurus/core/lib/commands/build/build.js:55:21)
+      at async Command.build (/usr/local/lib/node_modules/@docusaurus/core/lib/commands/build/build.js:29:21)
+      at async Promise.all (index 0)
+      at async runCLI (/usr/local/lib/node_modules/@docusaurus/core/lib/commands/cli.js:56:5)
+      at async file:///usr/local/lib/node_modules/@docusaurus/core/bin/docusaurus.mjs:44:3 {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [ '/workspace/docusaurus.config.ts' ]
+  }
+}
+[INFO] Docusaurus version: 3.8.1
+Node version: v20.19.2
+npm notice
+npm notice New major version of npm available! 10.8.2 -> 11.4.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.4.1
+npm notice To update run: npm install -g npm@11.4.1
+npm notice
