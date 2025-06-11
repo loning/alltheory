@@ -66,7 +66,7 @@ $$S_0 = \{\psi : d(\psi, \psi) = \text{未定义}\}$$
 坍缩创造其自身描述所需的空间框架的过程：
 $$C_0 \rightarrow S_1(C_0) \rightarrow C_1 \rightarrow S_2(C_1) \rightarrow ...$$
 
-每个坍缩 C_n 创造空间结构 S_n，使更复杂的坍缩 C_{n+1} 成为可能。
+每个坍缩 $C_n$ 创造空间结构 $S_n$，使更复杂的坍缩 $C_{n+1}$ 成为可能。
 
 ## 1.7 结构累积
 
