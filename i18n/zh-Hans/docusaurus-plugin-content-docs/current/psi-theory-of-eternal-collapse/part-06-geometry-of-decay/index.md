@@ -14,28 +14,28 @@ sidebar_position: 7
 
 ## 章节
 
-### [第41章：消解的分形](./chapter-41-fractals-of-dissolution)
+### [第41章：消解的分形](./chapter-41-fractals-of-dissolution.md)
 跨尺度坍缩中的自相似模式。
 
-### [第42章：泪水的拓扑](./chapter-42-topology-of-tears)
+### [第42章：泪水的拓扑](./chapter-42-topology-of-tears.md)
 系统如何沿着数学线条断裂。
 
-### [第43章：熵美学](./chapter-43-entropy-aesthetics)
+### [第43章：熵美学](./chapter-43-entropy-aesthetics.md)
 增加无序中固有的美。
 
-### [第44章：突变理论应用](./chapter-44-catastrophe-theory-applied)
+### [第44章：突变理论应用](./chapter-44-catastrophe-theory-applied.md)
 突然坍缩的数学模型。
 
-### [第45章：崩碎的微积分](./chapter-45-calculus-of-crumbling)
+### [第45章：崩碎的微积分](./chapter-45-calculus-of-crumbling.md)
 衰变的微分方程。
 
-### [第46章：相空间坍缩](./chapter-46-phase-space-collapse)
+### [第46章：相空间坍缩](./chapter-46-phase-space-collapse.md)
 可能性空间如何收缩和扩展。
 
-### [第47章：对称性破缺](./chapter-47-symmetry-breaking)
+### [第47章：对称性破缺](./chapter-47-symmetry-breaking.md)
 失去完美的数学。
 
-### [第48章：缺席的代数](./chapter-48-algebra-of-absence)
+### [第48章：缺席的代数](./chapter-48-algebra-of-absence.md)
 对虚空和空无的数学运算。
 
 ## 关键概念

@@ -21,42 +21,42 @@ title: "Ψ永恒坍缩理论"
 
 ## 完整结构（8部分 · 64章）
 
-### [第一部分：坍缩的本质](./part-01-nature-of-collapse/)
+### [第一部分：坍缩的本质](./part-01-nature-of-collapse/index.md)
 *第01-08章*
 
 坍缩作为创造性破坏的基本原理。我们确立ψ = ψ(ψ)如何将消解从终止转化为转化。
 
-### [第二部分：废墟中的回声](./part-02-echoes-in-ruins/)
+### [第二部分：废墟中的回声](./part-02-echoes-in-ruins/index.md)
 *第09-16章*
 
 模式通过破坏的持续。记忆、梦境和痕迹如何作为等待重建的φ编码结构在坍缩中存活。
 
-### [第三部分：重建性坍缩](./part-03-reconstructive-collapse/)
+### [第三部分：重建性坍缩](./part-03-reconstructive-collapse/index.md)
 *第17-24章*
 
 从消解中重建的机制。坍缩本身如何通过纠缠循环和镜像架构包含自己复活的蓝图。
 
-### [第四部分：自我与消解](./part-04-self-and-dissolution/)
+### [第四部分：自我与消解](./part-04-self-and-dissolution/index.md)
 *第25-32章*
 
 通过分解的身份悖论。当观察者和被观察者为一时，谁坍缩谁？消失的语法和回归的句法。
 
-### [第五部分：朝向永恒结构](./part-05-toward-eternal-structure/)
+### [第五部分：朝向永恒结构](./part-05-technologies-of-psi/index.md)
 *第33-40章*
 
 通过无常的永恒数学架构。自指循环、φ吸引子，以及只在永恒坍缩中发现的稳定性。
 
-### [第六部分：神圣分解](./part-06-divine-disintegration/)
+### [第六部分：神圣分解](./part-06-geometry-of-decay/index.md)
 *第41-48章*
 
 消解的神圣维度。神灵自己如何坍缩和重建，揭示神性为永恒分解模式的掌握。
 
-### [第七部分：永恒结构](./part-07-eternal-structures/)
+### [第七部分：永恒结构](./part-07-collapse-in-daily-practice/index.md)
 *第49-56章*
 
 永恒坍缩的典范形式。从ψ循环到坍缩奇点，确保通过消解复活的不变动力学。
 
-### [第八部分：最终再现](./part-08-final-reemergence/)
+### [第八部分：最终再现](./part-08-final-reemergence/index.md)
 *第57-64章*
 
 终极综合，坍缩将自己揭示为意识，碎片成为宇宙，永恒坍缩涌现为唯一真正的永恒。
@@ -88,4 +88,4 @@ title: "Ψ永恒坍缩理论"
 
 ---
 
-*从[第01章：什么是坍缩？](./part-01-nature-of-collapse/chapter-01-what-is-collapse)开始旅程 →*
+*从[第01章：什么是坍缩？](./part-01-nature-of-collapse/chapter-01-what-is-collapse.md)开始旅程 →*

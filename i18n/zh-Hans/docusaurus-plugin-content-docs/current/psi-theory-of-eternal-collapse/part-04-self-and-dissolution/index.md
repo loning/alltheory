@@ -15,28 +15,28 @@ title: "第四部分：自我与消解"
 
 ## 章节概览
 
-### [第25章：谁坍缩谁？](./chapter-25-who-collapses-whom)
+### [第25章：谁坍缩谁？](./chapter-25-who-collapses-whom.md)
 自我消解的不可能语法及其揭示的自由。
 
-### [第26章：碎片化的我](./chapter-26-fragmented-i)
+### [第26章：碎片化的我](./chapter-26-fragmented-i.md)
 作为马赛克的身份：自我如何作为碎片的模式存在。
 
-### [第27章：曾经的观察者](./chapter-27-observer-that-was)
+### [第27章：曾经的观察者](./chapter-27-observer-that-was.md)
 观察者之后的意识——当观看者消解时，什么在看？
 
-### [第28章：死亡作为教师](./chapter-28-death-as-teacher)
+### [第28章：死亡作为教师](./chapter-28-death-as-teacher.md)
 终极坍缩及其对生活的教导。
 
-### [第29章：废墟中的爱](./chapter-29-love-in-ruins)
+### [第29章：废墟中的爱](./chapter-29-love-in-ruins.md)
 爱如何穿越并转化坍缩而持续。
 
-### [第30章：放手的伦理](./chapter-30-ethics-of-letting-go)
+### [第30章：放手的伦理](./chapter-30-ethics-of-letting-go.md)
 有意识消解的道德维度。
 
-### [第31章：作为坍缩实践的生活](./chapter-31-living-as-collapse-practice)
+### [第31章：作为坍缩实践的生活](./chapter-31-living-as-collapse-practice.md)
 日常生活作为永恒坍缩的训练场。
 
-### [第32章：无我的自由](./chapter-32-freedom-of-no-self)
+### [第32章：无我的自由](./chapter-32-freedom-of-no-self.md)
 通过固定身份的消解获得解脱。
 
 ## 个人悖论
@@ -47,6 +47,6 @@ title: "第四部分：自我与消解"
 
 ---
 
-*从[第25章：谁坍缩谁？](./chapter-25-who-collapses-whom)开始*
+*从[第25章：谁坍缩谁？](./chapter-25-who-collapses-whom.md)开始*
 
-*继续阅读[第五部分：迈向永恒结构](../part-05-toward-eternal-structure/) →*
+*继续阅读[第五部分：迈向永恒结构](../part-05-technologies-of-psi/index.md) →*

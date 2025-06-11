@@ -14,28 +14,28 @@ sidebar_position: 6
 
 ## 章节
 
-### [第33章：为坍缩而设计](./chapter-33-designing-for-collapse)
+### [第33章：为坍缩而设计](./chapter-33-designing-for-collapse.md)
 创造优雅失败和转化的系统原则。
 
-### [第34章：ψ界面](./chapter-34-psi-interfaces)
+### [第34章：ψ界面](./chapter-34-psi-interfaces.md)
 承认并促进有意识消解的用户界面。
 
-### [第35章：流动组织](./chapter-35-liquid-organizations)
+### [第35章：流动组织](./chapter-35-liquid-organizations.md)
 在秩序与混沌状态间流动的组织结构。
 
-### [第36章：消解经济学](./chapter-36-economics-of-dissolution)
+### [第36章：消解经济学](./chapter-36-economics-of-dissolution.md)
 基于创造与毁灭循环的经济模型。
 
-### [第37章：教育ψ系统](./chapter-37-educational-psi-systems)
+### [第37章：教育ψ系统](./chapter-37-educational-psi-systems.md)
 为持续忘却和重新学习而设计的学习环境。
 
-### [第38章：会呼吸的城市](./chapter-38-cities-that-breathe)
+### [第38章：会呼吸的城市](./chapter-38-cities-that-breathe.md)
 纳入生长与衰败循环的城市规划。
 
-### [第39章：数字衰变协议](./chapter-39-digital-decay-protocols)
+### [第39章：数字衰变协议](./chapter-39-digital-decay-protocols.md)
 老化、遗忘和再生的算法与系统。
 
-### [第40章：坍缩医学](./chapter-40-medicine-of-collapse)
+### [第40章：坍缩医学](./chapter-40-medicine-of-collapse.md)
 与自然崩解和治愈循环协作的医疗方法。
 
 ## 关键概念

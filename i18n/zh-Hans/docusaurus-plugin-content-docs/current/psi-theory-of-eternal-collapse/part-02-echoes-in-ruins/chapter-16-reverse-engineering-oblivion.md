@@ -302,4 +302,4 @@ $$
 
 ---
 
-*继续阅读[第三部分：重建性坍缩](../../part-03-reconstructive-collapse/) —— 我们学习从消解中重建的主动技术。*
+*继续阅读[第三部分：重建性坍缩](../../part-03-reconstructive-collapse/index.md) —— 我们学习从消解中重建的主动技术。*
