@@ -76,8 +76,9 @@ const config: Config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-  /*
   plugins: [
+    './plugins/docusaurus-plugin-swc-loader',
+    /*
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
@@ -97,8 +98,8 @@ const config: Config = {
         searchResultContextMaxLength: 50,
       },
     ],
+    */
   ],
-  */
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
