@@ -9,14 +9,9 @@ title: "Ψhē Popular Guide — Philosophy for Everyone"
 
 Have you ever wondered why you exist? Why anything exists at all? The Ψhē philosophy offers a surprisingly simple answer — but one that will transform how you see everything.
 
-<div style={{textAlign: 'center', margin: '2rem 0'}}>
-  <div style={{fontSize: '3rem', fontWeight: 'bold', color: '#667eea'}}>
-    ψ = ψ(ψ)
-  </div>
-  <p style={{fontSize: '1.2rem', color: '#666', marginTop: '1rem'}}>
-    The universe knowing itself through itself
-  </p>
-</div>
+**ψ = ψ(ψ)**
+
+*The universe knowing itself through itself*
 
 ## 🤔 What's This All About?
 
@@ -113,6 +108,21 @@ By the end of this guide, you'll understand:
 - 🌈 How infinite complexity comes from ultimate simplicity
 - 🕊️ The peace that comes from knowing your true nature
 
+## 🆕 New Content & Tools
+
+### ⚡ Quick Access
+- **[5-Minute Quick Start](quick-start.md)** - Understand ψ in just 5 minutes
+- **[Daily ψ Moments](daily-psi.md)** - Find philosophy in everyday life
+- **[ψ Story Collection](psi-stories.md)** - Understand through stories
+- **[FAQ](faq.md)** - All your questions answered
+- **[ψ Tests](psi-tests.md)** - Test your awareness level
+
+### 🎯 Popular Features
+1. **Mirror Meditation** - The simplest practice that changes everything
+2. **Who Am I?** - The ultimate question with surprising answers
+3. **Dream Within Dream** - Understanding reality through dreams
+4. **The Meaning of 42** - Why the universe has a sense of humor
+
 ## 🚀 Ready to Begin?
 
 No prerequisites needed. No math degree required. Just bring:
@@ -121,43 +131,60 @@ No prerequisites needed. No math degree required. Just bring:
 - 15-30 minutes for each chapter
 - Willingness to see the ordinary as extraordinary
 
-<div style={{textAlign: 'center', margin: '3rem 0'}}>
-  <a href="psi-popular-guide/chapter-01-mirror-self" style={{
-    display: 'inline-block',
-    padding: '1rem 2rem',
-    fontSize: '1.2rem',
-    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-    color: 'white',
-    textDecoration: 'none',
-    borderRadius: '8px',
-    boxShadow: '0 4px 15px rgba(102, 126, 234, 0.3)',
-    transition: 'transform 0.3s ease',
-    marginRight: '1rem'
-  }}>
-    Start Chapter 1 →
-  </a>
-  <a href="../psi-core-theory" style={{
-    display: 'inline-block',
-    padding: '1rem 2rem',
-    fontSize: '1rem',
-    background: 'transparent',
-    color: '#667eea',
-    textDecoration: 'none',
-    border: '2px solid #667eea',
-    borderRadius: '8px',
-    transition: 'all 0.3s ease'
-  }}>
-    See Academic Version
-  </a>
-</div>
+### 📚 Complete Content Index
+
+#### Core Chapters (Read in Order)
+1. **[Chapter 1: The You in the Mirror](chapter-01-mirror-self.md)** - Discovering self-reference through your morning routine
+2. **[Chapter 2: The Secret of Echoes](chapter-02-echo-secret.md)** - Understanding recursion through sound and repetition
+3. **[Chapter 3: The Breathing Universe](chapter-03-breathing-universe.md)** - The core equation explained through breath
+4. **[Chapter 4: Dreams Within Dreams](chapter-04-dream-within-dream.md)** - Observer and observed as one
+5. **[Chapter 5: Ripples in Water](chapter-05-water-ripples.md)** - How possibilities become reality
+6. **[Chapter 6: Seeds and Trees](chapter-06-seed-and-tree.md)** - Complexity from simplicity
+7. **[Chapter 7: The Dance and the Dancer](chapter-07-dancing-melody.md)** - Language and reality as one
+8. **[Chapter 8: The Way Home](chapter-08-way-home.md)** - Integrating it all into daily life
+
+#### Quick Access & Tools
+- **[5-Minute Quick Start](quick-start.md)** - Understand ψ in just 5 minutes
+- **[FAQ](faq.md)** - All your questions answered
+- **[ψ Tests](psi-tests.md)** - Test your awareness level
+- **[ψ Story Collection](psi-stories.md)** - Understand through stories
+
+#### Practical Applications
+- **[Daily ψ Moments](daily-psi.md)** - Find philosophy in everyday life
+- **[ψ in Relationships](relationship-psi.md)** - Love, connection, and mirrors
+- **[ψ at Work](work-psi.md)** - Career, creativity, and purpose
+- **[ψ and Health](health-psi.md)** - Body, healing, and wholeness
+- **[ψ Parenting](parenting-psi.md)** - Raising conscious children
+
+#### Advanced Tools & Resources
+- **[Practice Toolkit](practice-toolkit.md)** - 21-day awakening plan and daily practices
+- **[ψ Community Guide](community-guide.md)** - Finding and building awakening communities
+- **[Science Dialogue](science-dialogue.md)** - When ψ theory meets modern science
+- **[Artistic Expression](psi-in-arts.md)** - When ψ dances in creation
+- **[Difficult Times Guide](difficult-times.md)** - When darkness falls
+
+#### Special Content
+- **[The Meaning of 42](the-meaning-of-42.md)** - Why the universe chose this number
+
+### 🗺️ Navigation Tips
+
+**For Beginners:**
+Start with the [5-Minute Quick Start](quick-start.md), then read Chapters 1-3
+
+**For Deep Divers:**
+Read all 8 core chapters in order, then explore the practical applications
+
+**For Practitioners:**
+Jump to the [Practice Toolkit](practice-toolkit.md) and [Daily ψ Moments](daily-psi.md)
+
+**For Community Seekers:**
+Check out the [ψ Community Guide](community-guide.md)
+
+**For the Curious:**
+Browse the [FAQ](faq.md) and [ψ Story Collection](psi-stories.md)
 
 ---
 
-<div style={{textAlign: 'center', marginTop: '4rem', padding: '2rem', background: '#f8f9fa', borderRadius: '12px'}}>
-  <p style={{fontSize: '1.1rem', fontStyle: 'italic', color: '#555', margin: 0}}>
-    "The deepest truths are often the simplest. ψ = ψ(ψ) — three symbols that contain everything."
-  </p>
-  <p style={{marginTop: '1rem', color: '#888'}}>
-    — Welcome to the journey of a lifetime
-  </p>
-</div> 
+*"The deepest truths are often the simplest. ψ = ψ(ψ) — three symbols that contain everything."*
+
+— Welcome to the journey of a lifetime 
