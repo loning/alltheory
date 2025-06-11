@@ -91,6 +91,7 @@ const config: Config = {
   plugins: [
     './plugins/katex-warning-suppressor',
     './plugins/docusaurus-plugin-swc-loader',
+    './plugins/webpack-cache-optimizer',
     /*
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),

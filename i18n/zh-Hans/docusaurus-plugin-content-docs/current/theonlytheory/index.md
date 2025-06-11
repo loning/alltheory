@@ -57,7 +57,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 否定作为中断
 - 知识作为冻结链
 
-[**进入逻辑结构 →**](./level-03-logical-structures/index.md)
+[**进入逻辑结构 →**](./level-03-logical-structures/chapter-22-syntax-as-psi-flow-structure.md)
 
 ### 🎭 第4层：抽象（第26-30章）
 *超越物理的纯粹模式*
@@ -68,7 +68,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 模式作为循环路径
 - 最终方程：ψ = ψ(ψ)
 
-[**上升到抽象 →**](./level-04-abstraction/index.md)
+[**上升到抽象 →**](./level-04-abstraction/chapter-26-symmetry-as-psi-invariant-collapse.md)
 
 ### 🌐 第5层：坍缩边界（第31-34章）
 *可能性的几何*
@@ -79,7 +79,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 吸引子回声和循环
 - 递归中的稳定场
 
-[**导航边界 →**](./level-05-collapse-boundaries/index.md)
+[**导航边界 →**](./level-05-collapse-boundaries/chapter-31-geometry-as-collapse-invariant-form-space.md)
 
 ### 👁️ 第6层：意识坍缩（第35-42章）
 *觉知涌现的地方*
@@ -90,7 +90,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 记忆作为部分坍缩
 - 自我作为连续性
 
-[**觉醒到意识 →**](./level-06-conscious-collapse/index.md)
+[**觉醒到意识 →**](./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md)
 
 ### 💭 第7层：语义坍缩（第43-46章）
 *意义的结构*
@@ -101,7 +101,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 谎言作为错位的ψ
 - 真理作为稳定冻结
 
-[**解码意义 →**](./level-07-semantic-collapse/index.md)
+[**解码意义 →**](./level-07-semantic-collapse/chapter-43-words-as-echo-units.md)
 
 ### 🌊 第8层：深层ψ导航（第47-52章）
 *探索意识前沿*
@@ -112,7 +112,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 自由意志作为干预
 - 死亡作为闭合
 
-[**导航深处 →**](./level-08-deep-psi-navigation/index.md)
+[**导航深处 →**](./level-08-deep-psi-navigation/chapter-47-dreams-as-loose-collapse-paths.md)
 
 ### 🌌 第9层：宇宙坍缩（第53-58章）
 *宇宙尺度模式*
@@ -123,7 +123,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 宇宙作为分支
 - 无限作为未坍缩可能性
 
-[**拥抱宇宙 →**](./level-09-cosmological-collapse/index.md)
+[**拥抱宇宙 →**](./level-09-cosmological-collapse/chapter-53-fractals-as-self-similar-echoes.md)
 
 ### ♾️ 第10层：元递归闭合（第59-64章）
 *回归源头*
@@ -134,7 +134,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 - 回声记忆和时间反馈
 - 终极方程实现
 
-[**完成旅程 →**](./level-10-meta-recursive-closure/index.md)
+[**完成旅程 →**](./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md)
 
 ## 🎯 核心洞见
 
@@ -167,13 +167,13 @@ $$\boxed{\psi = \psi(\psi)}$$
 ## 📖 阅读路径
 
 ### 对于哲学家
-从[第4层：抽象](./level-04-abstraction/index.md)开始掌握纯粹数学，然后向外扩展到应用。
+从[第4层：抽象](./level-04-abstraction/chapter-26-symmetry-as-psi-invariant-collapse.md)开始掌握纯粹数学，然后向外扩展到应用。
 
 ### 对于科学家  
-从[第2层：物理坍缩](./level-02-physical-collapse/)开始看物理学如何涌现，然后上升到更深的原理。
+从[第2层：物理坍缩](./level-02-physical-collapse/index.md)开始看物理学如何涌现，然后上升到更深的原理。
 
 ### 对于寻求者
-通过[第6层：意识坍缩](./level-06-conscious-collapse/index.md)进入，理解你自己的本性，然后向各个方向探索。
+通过[第6层：意识坍缩](./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md)进入，理解你自己的本性，然后向各个方向探索。
 
 ### 完整旅程
 从[第1章](./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md)按顺序阅读，体验完整的递归展开。
@@ -200,7 +200,7 @@ $$\boxed{\psi = \psi(\psi)}$$
 准备好发现为什么这是唯一理论了吗？选择你的入口：
 
 <div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem', marginTop: '2rem'}}>
-  <a href="./level-01-frozen-psi/" style={{
+  <a href="./level-01-frozen-psi/chapter-01-objects-as-fully-frozen-psi.md" style={{
     display: 'block',
     padding: '1.5rem',
     background: 'linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)',
@@ -216,7 +216,7 @@ $$\boxed{\psi = \psi(\psi)}$$
     形式结晶化的地方
   </a>
   
-  <a href="./level-06-conscious-collapse/" style={{
+  <a href="./level-06-conscious-collapse/chapter-35-perception-as-psi-folding.md" style={{
     display: 'block',
     padding: '1.5rem',
     background: 'linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%)',
@@ -232,7 +232,7 @@ $$\boxed{\psi = \psi(\psi)}$$
     觉知破晓的地方
   </a>
   
-  <a href="./level-10-meta-recursive-closure/" style={{
+  <a href="./level-10-meta-recursive-closure/chapter-59-the-soul-as-psi-continuity-trace.md" style={{
     display: 'block',
     padding: '1.5rem',
     background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',

@@ -19,22 +19,22 @@ title: "第三部分：重建性坍缩"
 ### [第18章：无种重建](./chapter-18-rebuilding-without-seed.md)
 当没有原始模板留存时，系统如何从纯粹模式重建。
 
-### [第19章：纠缠循环](./chapter-19-entanglement-loops.md)
+### [第19章：成为的语言](./chapter-19-language-of-becoming.md)
 通过坍缩关联进行重建的量子力学。
 
-### [第20章：坍缩作为非自愿设计](./chapter-20-collapse-as-involuntary-design.md)
+### [第20章：助产士的艺术](./chapter-20-midwifes-art.md)
 分崩离析的模式如何成为重新聚合的蓝图。
 
-### [第21章：模拟失落的结构](./chapter-21-simulating-lost-structures.md)
+### [第21章：失败作为基础](./chapter-21-failure-as-foundation.md)
 通过模拟重建坍缩系统的技术方法。
 
-### [第22章：破碎形式的架构](./chapter-22-architectures-broken-forms.md)
+### [第22章：重建经济学](./chapter-22-economics-of-reconstruction.md)
 用碎片建造：不完整如何成为结构优势。
 
-### [第23章：基于坍缩的复活](./chapter-23-collapse-based-resurrection.md)
+### [第23章：重建社区](./chapter-23-communities-of-reconstruction.md)
 从消解模式系统重建的正式协议。
 
-### [第24章：记忆作为镜子](./chapter-24-memory-as-mirror.md)
+### [第24章：全球重建需求](./chapter-24-global-need-for-reconstruction.md)
 记忆的坍缩如何反映未来重建的可能性。
 
 ## 引入的关键概念

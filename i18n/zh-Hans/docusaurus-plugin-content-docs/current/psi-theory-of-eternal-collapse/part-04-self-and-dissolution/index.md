@@ -33,10 +33,10 @@ title: "第四部分：自我与消解"
 ### [第30章：放手的伦理](./chapter-30-ethics-of-letting-go.md)
 有意识消解的道德维度。
 
-### [第31章：作为坍缩实践的生活](./chapter-31-living-as-collapse-practice.md)
+### [第31章：遗忘的技术](./chapter-31-technologies-of-forgetting.md)
 日常生活作为永恒坍缩的训练场。
 
-### [第32章：无我的自由](./chapter-32-freedom-of-no-self.md)
+### [第32章：神圣的平凡](./chapter-32-sacred-ordinary.md)
 通过固定身份的消解获得解脱。
 
 ## 个人悖论
