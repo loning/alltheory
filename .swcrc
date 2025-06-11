@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/swcrc",
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true,
+      "decorators": false,
+      "dynamicImport": true
+    },
+    "transform": {
+      "react": {
+        "runtime": "automatic",
+        "development": false,
+        "refresh": false
+      }
+    },
+    "target": "es2015",
+    "loose": true,
+    "externalHelpers": false,
+    "keepClassNames": true,
+    "minify": {
+      "compress": false,
+      "mangle": false
+    }
+  },
+  "module": {
+    "type": "commonjs",
+    "strict": false,
+    "strictMode": true,
+    "lazy": false,
+    "noInterop": false
+  },
+  "minify": false,
+  "sourceMaps": true
+}

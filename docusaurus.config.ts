@@ -100,6 +100,52 @@ const config: Config = {
         searchResultContextMaxLength: 50,
       },
     ],
+    // ψ-location: SWC webpack configuration plugin - DISABLED
+    // See docs/swc-integration-summary.md for details on why this is disabled
+    /*
+    function swcPlugin() {
+      return {
+        name: 'swc-webpack-plugin',
+        configureWebpack(config) {
+          // φ-minimal: Only add SWC for TypeScript files, don't touch anything else
+          
+          // Add a specific rule for .ts and .tsx files only
+          const swcTsRule = {
+            test: /\.tsx?$/,
+            exclude: /node_modules/,
+            use: {
+              loader: 'swc-loader',
+              options: {
+                jsc: {
+                  parser: {
+                    syntax: 'typescript',
+                    tsx: true,
+                    decorators: false,
+                    dynamicImport: true,
+                  },
+                  transform: {
+                    react: {
+                      runtime: 'automatic',
+                    },
+                  },
+                  target: 'es2015',
+                },
+                module: {
+                  type: 'commonjs',
+                },
+                sourceMaps: true,
+              },
+            },
+          };
+          
+          // Insert at the beginning to take precedence
+          config.module.rules.unshift(swcTsRule);
+
+          return config;
+        },
+      };
+    },
+    */
   ],
 
   stylesheets: [
