@@ -67,6 +67,10 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-YJD1R6PLTV',
+          anonymizeIP: true,
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -115,11 +119,6 @@ const config: Config = {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: true,
-    },
-    // Google Analytics configuration
-    gtag: {
-      trackingID: 'G-YJD1R6PLTV',
-      anonymizeIP: true,
     },
     navbar: {
       title: 'Ψ',
