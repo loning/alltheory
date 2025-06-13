@@ -158,10 +158,10 @@ $$\langle W(C)\rangle \sim e^{-\sigma \cdot \text{面积}(C)}$$
 **AdS/CFT对应**：
 $$Z_{\text{CFT}}[J] = Z_{\text{引力}}[\phi_0 = J]$$
 
-**定理**：d维CFT ↔ (d+1)维引力
+**定理**：$d$维CFT ↔ $(d+1)$维引力
 
 **证明草图**：
-- 共形对称性SO(d,2) = AdS_{d+1}的等距
+- 共形对称性$SO(d,2) = \text{AdS}_{d+1}$的等距
 - 态-算子对应
 - RG流 = 径向演化
 
@@ -174,7 +174,7 @@ $$Z_{\text{CFT}}[J] = Z_{\text{引力}}[\phi_0 = J]$$
 
 ## 48.11 超对称代数
 
-**SUSY生成元**：{Q_α, Q̄_β̇} = 2σ^μ_αβ̇ P_μ
+**SUSY生成元**：$\{Q_\alpha, \bar{Q}_{\dot{\beta}}\} = 2\sigma^\mu_{\alpha\dot{\beta}} P_\mu$
 
 **超多重态**：相等的玻色子和费米子
 - 手征：(φ, ψ, F)
@@ -185,8 +185,8 @@ $$Z_{\text{CFT}}[J] = Z_{\text{引力}}[\phi_0 = J]$$
 **证明**：未破缺SUSY → m_玻色子 = m_费米子。未观测到。∎
 
 **破缺机制**：
-- F项：⟨F⟩ ≠ 0
-- D项：⟨D⟩ ≠ 0
+- F项：$\langle F\rangle \neq 0$
+- D项：$\langle D\rangle \neq 0$
 - 规范传递
 - 引力传递
 

@@ -187,6 +187,6 @@ $$D_n = \underbrace{\psi(\psi(\psi(...(\psi))))}_{n \text{ 次应用}}$$
 
 ---
 
-*下一章：[第二章：坍缩动力学 — 结构的诞生 →](./chapter-02-collapse-dynamics.md)*
+*下一章：[第二章：坍缩起源结构 — 结构的诞生 →](./chapter-02-collapse-origin-structure.md)*
 
 *"太初有 ψ，ψ 与 ψ 同在，ψ 就是 ψ(ψ)。"*

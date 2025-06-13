@@ -85,14 +85,14 @@ The three Pauli matrices represent fundamental twists.
 1. Spin-1/2 has 2D representation (minimal non-trivial)
 2. Three traceless Hermitian 2×2 matrices:
    
-   σ₁ = [0 1; 1 0] (x-twist)
-   σ₂ = [0 -i; i 0] (y-twist)  
-   σ₃ = [1 0; 0 -1] (z-twist)
+   $\sigma_1$ = [0 1; 1 0] (x-twist)
+   $\sigma_2$ = [0 -i; i 0] (y-twist)  
+   $\sigma_3$ = [1 0; 0 -1] (z-twist)
 
 3. Properties from topology:
-   - σᵢ² = I (double twist = identity)
-   - {σᵢ,σⱼ} = 2δᵢⱼI (anticommutation)
-   - [σᵢ,σⱼ] = 2iεᵢⱼₖσₖ (commutation)
+   - $\sigma_i^2 = I$ (double twist = identity)
+   - $\{\sigma_i,\sigma_j\} = 2\delta_{ij}I$ (anticommutation)
+   - $[\sigma_i,\sigma_j] = 2i\varepsilon_{ijk}\sigma_k$ (commutation)
 4. These encode all spin-1/2 physics ∎
 
 ## 11.6 The Dirac Belt Trick

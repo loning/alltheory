@@ -13,7 +13,7 @@ Why does |ψ|² give probability? This seemingly arbitrary prescription—that m
 
 **Definition 36.1** (Collapse Measure Space):
 For quantum system, define measure space (Ω, Σ, μ) where:
-- Ω = {all possible collapse outcomes}
+- Ω = $\{\text{all possible collapse outcomes}\}$
 - Σ = σ-algebra of measurable events
 - μ = collapse measure
 
@@ -168,7 +168,7 @@ Physics lives in projective space!
 ## 36.10 POVM Generalization
 
 **General Measurements**:
-Not just projective: {Êᵢ} with Σᵢ Êᵢ^† Êᵢ = 𝕀
+Not just projective: $\{\hat{E}_i\}$ with $\sum_i \hat{E}_i^\dagger \hat{E}_i = \mathbb{I}$
 
 **Generalized Born Rule**:
 $$P(i) = \langle\psi|\hat{E}_i^\dagger\hat{E}_i|\psi\rangle$$

@@ -87,10 +87,10 @@ Space classes defined by memory used during ψ-recursion:
 - **PSPACE**: poly(n) memory
 - **EXPSPACE**: exp(n) memory
 
-Space hierarchy: For s(n) ≥ log n:
+Space hierarchy: For $s(n)$ ≥ log n:
 $$SPACE[s(n)] \subsetneq SPACE[s(n)^2]$$
 
-Configuration graph has ≤ 2^{s(n)} nodes, so:
+Configuration graph has ≤ $2^{s(n)}$ nodes, so:
 $$TIME[2^{s(n)}] \supseteq SPACE[s(n)]$$
 
 Thus PSPACE ⊆ EXPTIME, with strict containments by hierarchy. □
@@ -106,7 +106,7 @@ Define randomized classes by error probability:
 - **BPP**: Poly-time, error probability ≤ 1/3
 - **ZPP**: Expected poly-time, zero error
 
-Amplification lemma: Running BPP algorithm k times reduces error to 2^{-Ω(k)}.
+Amplification lemma: Running BPP algorithm k times reduces error to $2^{-\Omega(k)}$.
 
 ψ-uncertainty allows exploring solution space probabilistically:
 $$Pr[\text{algorithm succeeds}] = \sum_{\text{good paths}} Pr[\text{path}]$$
@@ -208,7 +208,7 @@ Fundamental bounds:
 - Fooling set method: Large fooling set → large D(f)
 - Discrepancy method: Small discrepancy → large R(f)
 
-Example: DISJOINTNESS requires Ω(n) classical bits but O(√n) quantum. □
+Example: DISJOINTNESS requires $\Omega(n)$ classical bits but $O(\sqrt{n})$ quantum. □
 
 ## 53.12 Holographic Complexity from ψ-Geometry
 

@@ -113,7 +113,7 @@ Each transition represents qualitative change in self-awareness capacity. □
 Integrated information automatically solves the binding problem.
 
 **Proof**:
-Separate neural processes {N₁, N₂, ..., Nₖ} become bound when:
+Separate neural processes $\{N₁, N₂, ..., N_k\}$ become bound when:
 $$\Phi(\bigcup_i N_i) > \sum_i \Phi(N_i)$$
 
 This occurs when mutual information exceeds threshold:
@@ -219,7 +219,7 @@ Consciousness literally grows with brain development. □
 Multiple individuals can form higher-order conscious entities.
 
 **Proof**:
-For individuals {I₁, ..., Iₙ} with integration Φᵢ:
+For individuals $\{I₁, ..., I_n\}$ with integration Φᵢ:
 $$\Phi_{collective} = \Phi_{internal} + \Phi_{between}$$
 
 Where:

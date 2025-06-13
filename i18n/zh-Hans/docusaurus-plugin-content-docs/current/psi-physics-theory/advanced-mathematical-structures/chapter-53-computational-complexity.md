@@ -90,7 +90,7 @@ $$x \in L \iff φ_x \text{ 可满足}$$
 空间层次：对 s(n) ≥ log n：
 $$SPACE[s(n)] \subsetneq SPACE[s(n)^2]$$
 
-配置图有 ≤ 2^{s(n)} 个节点，所以：
+配置图有 ≤ $2^{s(n)}$ 个节点，所以：
 $$TIME[2^{s(n)}] \supseteq SPACE[s(n)]$$
 
 因此 PSPACE ⊆ EXPTIME，通过层次有严格包含。□
@@ -106,7 +106,7 @@ $$TIME[2^{s(n)}] \supseteq SPACE[s(n)]$$
 - **BPP**：多项式时间，错误概率 ≤ 1/3
 - **ZPP**：期望多项式时间，零错误
 
-放大引理：运行 BPP 算法 k 次将错误降至 2^{-Ω(k)}。
+放大引理：运行 BPP 算法 $k$ 次将错误降至 $2^{-\Omega(k)}$。
 
 ψ 不确定性允许概率地探索解空间：
 $$Pr[\text{算法成功}] = \sum_{\text{好路径}} Pr[\text{路径}]$$
@@ -208,7 +208,7 @@ ESO ⊆ NP：给定 ESO 公式，猜测关系 R₁,...,Rₖ 并在多项式时�
 - 愚弄集方法：大愚弄集 → 大 D(f)
 - 差异方法：小差异 → 大 R(f)
 
-例子：DISJOINTNESS 需要 Ω(n) 经典比特但 O(√n) 量子。□
+例子：DISJOINTNESS 需要 $\Omega(n)$ 经典比特但 $O(\sqrt{n})$ 量子。□
 
 ## 53.12 从 ψ 几何产生的全息复杂性
 

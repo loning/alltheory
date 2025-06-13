@@ -204,6 +204,4 @@ $$\Delta X_{压缩} \Delta P_{压缩} = \hbar/2$$
 
 ---
 
-*下一章：[第十七章：纠缠 — 连接的架构 →](./chapter-17-entanglement-architecture.md)*
-
 *"在存在的模糊中蕴藏着成为的自由。"*

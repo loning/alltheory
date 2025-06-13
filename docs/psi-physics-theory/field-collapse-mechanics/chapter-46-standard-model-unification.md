@@ -31,7 +31,7 @@ where A(R) is anomaly coefficient for representation R. For simple groups with c
 **Theorem**: Exactly 3 colors required for consistency.
 
 **Proof**: 
-- Anomaly cancellation: Tr[T^a{T^b,T^c}] = 0 requires equal numbers of triplets and antitriplets
+- Anomaly cancellation: $\text{Tr}[T^a\{T^b,T^c\}] = 0$ requires equal numbers of triplets and antitriplets
 - Each generation: 3 colors × 2 chiralities = 6 quark states
 - π₀ → 2γ decay rate: Proportional to N_c³, experiment gives N_c = 3
 - Asymptotic freedom: β < 0 requires N_c ≤ 16/2 = 8 for 6 flavors ∎

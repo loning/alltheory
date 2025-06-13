@@ -16,8 +16,8 @@ Information geometry—the differential geometry of probability spaces—emerges
 **Theorem**: Self-reference naturally induces statistical manifold structure.
 
 **Proof**: Consider ψ-states as probability distributions over possible configurations. Define:
-- M = {p_ψ | ψ satisfies ψ = ψ(ψ)}
-- Tangent space T_p M = variations δp preserving normalization
+- M = $\{p_ψ \mid ψ \text{ satisfies } ψ = ψ(ψ)\}$
+- Tangent space $T_p M$ = variations $\delta p$ preserving normalization
 
 The manifold structure arises because:
 1. ψ-recursion creates family of distributions
@@ -33,11 +33,11 @@ Thus M forms statistical manifold. ∎
 **Proof**: For ψ-distribution p(x|θ), consider sensitivity to parameter changes:
 $$\frac{\partial \log p(x|\theta)}{\partial \theta^i}$$
 
-This measures how much x carries information about θ^i. The covariance:
+This measures how much x carries information about $\theta^i$. The covariance:
 $$g_{ij}(\theta) = E_p\left[\frac{\partial \log p}{\partial \theta^i} \frac{\partial \log p}{\partial \theta^j}\right]$$
 
 defines positive definite metric because:
-1. Symmetry: g_{ij} = g_{ji}
+1. Symmetry: $g_{ij} = g_{ji}$
 2. Positive definiteness: from Cauchy-Schwarz
 3. Reparametrization covariance
 
@@ -67,7 +67,7 @@ These dual perspectives create conjugate geometries. ∎
 
 **Theorem**: ψ-constraints naturally generate exponential families.
 
-**Proof**: Given constraints E_p[T_k(x)] = μ_k, maximize entropy:
+**Proof**: Given constraints $E_p[T_k(x)] = \mu_k$, maximize entropy:
 $$H[p] = -\int p(x)\log p(x)dx$$
 
 Using Lagrange multipliers:
@@ -81,19 +81,19 @@ $$p(x|\theta) = \exp\left(\sum_k \theta^k T_k(x) - \psi(\theta)\right)$$
 
 where ψ(θ) = log ∫exp(θ·T(x))dx ensures normalization. This is exponential family form. ∎
 
-## 51.5 KL Divergence as Natural Distance
+## 51.5 Kullback-Leibler Divergence as Natural Distance
 
 **Theorem**: Kullback-Leibler divergence measures ψ-information loss.
 
 **Proof**: For ψ-distributions p,q:
-$$D_{KL}(p||q) = \int p(x)\log\frac{p(x)}{q(x)}dx$$
+$$D_{\text{KL}}(p||q) = \int p(x)\log\frac{p(x)}{q(x)}dx$$
 
 This measures expected log-likelihood ratio. Properties:
-1. D_{KL}(p||q) ≥ 0 (Gibbs inequality)
-2. D_{KL}(p||q) = 0 iff p = q a.e.
+1. $D_{\text{KL}}(p||q) \geq 0$ (Gibbs inequality)
+2. $D_{\text{KL}}(p||q) = 0$ iff $p = q$ a.e.
 3. Invariant under sufficient statistics
 
-KL divergence is unique (up to scale) satisfying:
+Kullback-Leibler divergence is unique (up to scale) satisfying:
 - Additivity for independent systems
 - Invariance under bijections
 - Continuity
@@ -107,7 +107,7 @@ Thus natural information distance for ψ-patterns. ∎
 **Proof**: For unbiased estimator T̂(X) of θ:
 $$E[T̂] = θ$$
 
-Define score s = ∂log p/∂θ. Then:
+Define score $s = \partial\log p/\partial\theta$. Then:
 $$1 = \frac{\partial}{\partial\theta}E[T̂] = E[T̂ · s]$$
 
 By Cauchy-Schwarz:
@@ -128,13 +128,13 @@ $$\tilde{\nabla}f = G^{-1}\nabla f$$
 **Proof**: Consider optimization on manifold M with metric g. The steepest ascent direction maximizes:
 $$\max_{||v||_g=1} df(v) = \max_{||v||_g=1} \langle\nabla f, v\rangle$$
 
-Using Lagrange multiplier for constraint g(v,v) = 1:
+Using Lagrange multiplier for constraint $g(v,v) = 1$:
 $$\nabla f - \lambda g(v,·) = 0$$
 
-Thus v ∝ G^{-1}∇f, giving natural gradient. This is invariant under reparametrization:
+Thus $v \propto G^{-1}\nabla f$, giving natural gradient. This is invariant under reparametrization:
 $$\tilde{\nabla}_{\theta'}f = J^{-T}G_\theta J^{-1}J^T\nabla_\theta f = \tilde{\nabla}_\theta f$$
 
-where J = ∂θ'/∂θ. ∎
+where $J = \partial\theta'/\partial\theta$. ∎
 
 ## 51.8 Wasserstein Geometry from Optimal Transport
 
@@ -184,10 +184,10 @@ measures dissipation in quasi-static process. ∎
 
 **Theorem**: Optimal learning follows information geodesics.
 
-**Proof**: Learning updates distribution p_t. Minimize integrated cost:
+**Proof**: Learning updates distribution $p_t$. Minimize integrated cost:
 $$\int_0^T L(p_t, \dot{p}_t)dt$$
 
-For L = ½g(\dot{p},\dot{p}), Euler-Lagrange gives geodesic equation:
+For $L = \frac{1}{2}g(\dot{p},\dot{p})$, Euler-Lagrange gives geodesic equation:
 $$\ddot{p}^k + \Gamma_{ij}^k\dot{p}^i\dot{p}^j = 0$$
 
 This is natural dynamics preserving information geometry. For gradient flow:
@@ -241,7 +241,7 @@ Information geometry emerges from ψ = ψ(ψ) as the natural mathematical struct
 1. **Fisher metric**: Sensitivity of ψ-patterns to parameters
 2. **Dual connections**: Encoding/decoding ψ-information  
 3. **Exponential families**: Maximum entropy ψ-distributions
-4. **KL divergence**: ψ-information loss measure
+4. **Kullback-Leibler divergence**: ψ-information loss measure
 5. **Natural gradient**: Coordinate-free ψ-learning
 6. **Geodesics**: Optimal ψ-evolution paths
 

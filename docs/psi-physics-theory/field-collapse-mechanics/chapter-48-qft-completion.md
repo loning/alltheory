@@ -161,7 +161,7 @@ $$Z_{\text{CFT}}[J] = Z_{\text{gravity}}[\phi_0 = J]$$
 **Theorem**: d-dimensional CFT ↔ (d+1)-dimensional gravity
 
 **Proof Sketch**: 
-- Conformal symmetry SO(d,2) = isometry of AdS_{d+1}
+- Conformal symmetry $SO(d,2)$ = isometry of $AdS_{d+1}$
 - State-operator correspondence
 - RG flow = radial evolution
 
@@ -174,7 +174,7 @@ Details require string theory. ∎
 
 ## 48.11 Supersymmetry Algebra
 
-**SUSY Generators**: {Q_α, Q̄_β̇} = 2σ^μ_αβ̇ P_μ
+**SUSY Generators**: $\{Q_\alpha, \bar{Q}_{\dot{\beta}}\} = 2\sigma^\mu_{\alpha\dot{\beta}} P_\mu$
 
 **Supermultiplets**: Equal bosons and fermions
 - Chiral: (φ, ψ, F)

@@ -43,7 +43,7 @@ where G is gauge group, π: E → M is projection.
 2. Fiber F_x: Internal ψ-space at x
 3. Structure group G: Transformations preserving ψ-physics
 
-The total space E = ∪_{x∈M} F_x with local trivializations gives principal G-bundle. ∎
+The total space E = $\cup_{x \in M} F_x$ with local trivializations gives principal G-bundle. ∎
 
 **Transition Functions**: Between overlapping charts:
 $$g_{αβ}: U_α \cap U_β \rightarrow G$$
@@ -192,7 +192,7 @@ But $\langle\bar{q}_Lq_R + \bar{q}_Rq_L\rangle \neq 0$ not invariant unless U_L 
 **Setup**: SU(2) gauge theory with adjoint Higgs:
 $$\mathcal{L} = -\frac{1}{4}F^2 + |D_\mu\phi|^2 - V(\phi)$$
 
-**Vacuum**: ⟨φ^a⟩ = vδ^{a3} breaks SU(2) → U(1)
+**Vacuum**: $\langle\phi^a\rangle = v\delta^{a3}$ breaks SU(2) → U(1)
 
 **Monopole Solution**:
 $$\phi^a = \frac{x^a}{r}h(vr), \quad A_i^a = \epsilon_{aij}\frac{x^j}{gr^2}[1-K(vr)]$$

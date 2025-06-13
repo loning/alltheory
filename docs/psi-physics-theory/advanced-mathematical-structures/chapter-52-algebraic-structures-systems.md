@@ -63,7 +63,7 @@ Therefore, (Ψ, ★) forms a group whenever ψ-operations are reversible. □
 Continuous ψ-transformations generate Lie groups with associated Lie algebras.
 
 **Proof**:
-Let G = {g(t) | g: ℝ → Ψ smooth, g(0) = e}. Continuity of ψ = ψ(ψ) requires:
+Let G = $\{g(t) \mid g: ℝ → Ψ \text{ smooth}, g(0) = e\}$. Continuity of ψ = ψ(ψ) requires:
 $$\frac{d}{dt}g(t) = X(g(t))$$
 
 where X is tangent vector. The space of all X forms Lie algebra g with bracket:
@@ -231,7 +231,7 @@ Spectral triple (A,H,D):
 - H = Hilbert space of ψ-states  
 - D = Dirac operator encoding metric
 
-Distance: d(φ,ψ) = sup{|⟨φ|[D,a]|ψ⟩| : ||[D,a]|| ≤ 1}
+Distance: d(φ,ψ) = sup$\{|⟨φ|[D,a]|ψ⟩| : ||[D,a]|| ≤ 1\}$
 
 This recovers geometry from pure algebra. □
 

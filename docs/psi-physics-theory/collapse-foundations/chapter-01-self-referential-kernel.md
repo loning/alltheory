@@ -187,6 +187,6 @@ The kernel is established. The seed contains the tree. From ψ = ψ(ψ) springs 
 
 ---
 
-*Next: [Chapter 2: Collapse Dynamics — The Birth of Structure →](./chapter-02-collapse-dynamics.md)*
+*Next: [Chapter 2: Collapse Dynamics — The Birth of Structure →](./chapter-02-collapse-origin-structure.md)*
 
 *"In the beginning was ψ, and ψ was with ψ, and ψ was ψ(ψ)."*

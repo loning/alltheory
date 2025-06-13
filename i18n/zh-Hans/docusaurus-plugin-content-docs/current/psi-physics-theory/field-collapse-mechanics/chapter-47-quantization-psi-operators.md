@@ -30,7 +30,7 @@ $$\pi(x,t) \rightarrow \hat{\pi}(x,t)$$
 ## 47.2 推导创生/湮灭算子
 
 **模式展开**：对于自由场：
-$$\hat{\phi}(x,t) = \int \frac{d^3k}{(2\pi)^3\sqrt{2\omega_k}}\left[a_k e^{-ik\cdot x} + a_k^\dagger e^{ik\cdot x}\right]$$
+$$\hat{\phi}(x,t) = \int \frac{d^3k}{(2\pi)^3\sqrt{2\omega_k}}\left[a_k e^{-ik \cdot x} + a_k^\dagger e^{ik \cdot x}\right]$$
 
 **定理**：算子a_k, a_k†必然满足：
 $$[a_k, a_{k'}^\dagger] = (2\pi)^3\delta^3(k-k')$$
@@ -39,9 +39,9 @@ $$[a_k, a_{k'}^\dagger] = (2\pi)^3\delta^3(k-k')$$
 $$[\hat{\phi}(x,t), \hat{\pi}(y,t)] = i\delta^3(x-y)$$
 
 代入模式展开：
-$$\hat{\pi} = \partial_t\hat{\phi} = -i\int \frac{d^3k}{(2\pi)^3}\sqrt{\frac{\omega_k}{2}}\left[a_k e^{-ik\cdot x} - a_k^\dagger e^{ik\cdot x}\right]$$
+$$\hat{\pi} = \partial_t\hat{\phi} = -i\int \frac{d^3k}{(2\pi)^3}\sqrt{\frac{\omega_k}{2}}\left[a_k e^{-ik \cdot x} - a_k^\dagger e^{ik \cdot x}\right]$$
 
-计算对易子并使用e^{ik·x}的正交性给出结果。∎
+计算对易子并使用$e^{ik \cdot x}$的正交性给出结果。∎
 
 ## 47.3 福克空间构造
 
@@ -54,7 +54,7 @@ $$|k_1, k_2, ..., k_n\rangle = a_{k_1}^\dagger a_{k_2}^\dagger \cdots a_{k_n}^\d
 **定理**：福克空间是可变粒子数的唯一希尔伯特空间。
 
 **证明**：要求：
-1. 粒子数算子N̂ = ∫d³k a_k†a_k
+1. 粒子数算子$\hat{N} = \int d^3k \, a_k^\dagger a_k$
 2. 具有确定n的态
 3. 庞加莱群的幺正表示
 
@@ -92,7 +92,7 @@ $$(\square + m^2)\hat{\phi} = 0$$
 **证明**：正则量子化保持运动方程：
 $$[\hat{\phi}(x), \hat{H}] = i\partial_t\hat{\phi}(x)$$
 
-使用H = ∫d³x [½π² + ½(∇φ)² + ½m²φ²]重现克莱因-戈登。∎
+使用$H = \int d^3x [\frac{1}{2}\pi^2 + \frac{1}{2}(\nabla\phi)^2 + \frac{1}{2}m^2\phi^2]$重现克莱因-戈登。∎
 
 ## 47.6 传播子和格林函数
 
@@ -181,7 +181,7 @@ $$\{\psi_\alpha(x), \psi_\beta^\dagger(y)\} = \delta_{\alpha\beta}\delta^3(x-y)$
 **证明**：泡利不相容原理需要：
 $$(a_k^\dagger)^2|0\rangle = 0$$
 
-这意味着{a_k†, a_k†} = 0，强制反对易。∎
+这意味着$\{a_k^\dagger, a_k^\dagger\} = 0$，强制反对易。∎
 
 **格拉斯曼路径积分**：
 $$Z = \int \mathcal{D}\bar{\psi}\mathcal{D}\psi \, e^{i\int d^4x \bar{\psi}(i\not{\partial} - m)\psi}$$
@@ -221,7 +221,7 @@ $$e^{iS_{有效}[\phi_{低}]} = \int \mathcal{D}\phi_{高} \, e^{iS[\phi_{低}, 
 
 **定理**：低能物理独立于UV细节。
 
-**证明**：更高维算子被E/Λ的幂次压制。对于E << Λ，只有相关和边缘算子重要。∎
+**证明**：更高维算子被E/Λ的幂次压制。对于$E \ll \Lambda$，只有相关和边缘算子重要。∎
 
 ## 47.15 结论：现实的代数
 

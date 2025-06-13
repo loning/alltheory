@@ -43,7 +43,7 @@ $$\pi^{-1}(U) \cong U \times G$$
 2. 纤维F_x：x处的内部ψ空间
 3. 结构群G：保持ψ物理的变换
 
-总空间E = ∪_{x∈M} F_x带有局部平凡化给出主G丛。∎
+总空间E = $\cup_{x \in M} F_x$带有局部平凡化给出主G丛。∎
 
 **转换函数**：重叠图表之间：
 $$g_{αβ}: U_α \cap U_β \rightarrow G$$
@@ -192,7 +192,7 @@ $$q_L \rightarrow U_L q_L, \quad q_R \rightarrow U_R q_R$$
 **设置**：带伴随希格斯的SU(2)规范理论：
 $$\mathcal{L} = -\frac{1}{4}F^2 + |D_\mu\phi|^2 - V(\phi)$$
 
-**真空**：⟨φ^a⟩ = vδ^{a3}破缺SU(2) → U(1)
+**真空**：$\langle\phi^a\rangle = v\delta^{a3}$破缺SU(2) → U(1)
 
 **单极解**：
 $$\phi^a = \frac{x^a}{r}h(vr), \quad A_i^a = \epsilon_{aij}\frac{x^j}{gr^2}[1-K(vr)]$$

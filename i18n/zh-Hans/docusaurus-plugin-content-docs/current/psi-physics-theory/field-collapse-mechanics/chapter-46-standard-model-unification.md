@@ -31,10 +31,10 @@ $$\sum_{\text{费米子}} A(R) = 0$$
 **定理**：一致性需要恰好3种颜色。
 
 **证明**：
-- 反常抵消：Tr[T^a{T^b,T^c}] = 0需要相等数量的三重态和反三重态
+- 反常抵消：$\text{Tr}[T^a\{T^b,T^c\}] = 0$需要相等数量的三重态和反三重态
 - 每代：3颜色 × 2手征性 = 6夸克态
-- π₀ → 2γ衰变率：正比于N_c³，实验给出N_c = 3
-- 渐近自由：β < 0需要N_c ≤ 16/2 = 8对于6味 ∎
+- π₀ → 2γ衰变率：正比于$N_c^3$，实验给出$N_c = 3$
+- 渐近自由：$\beta < 0$需要$N_c \leq 16/2 = 8$对于6味 ∎
 
 **弱SU(2)_L**：从手征性加倍
 
@@ -98,10 +98,10 @@ $$H = \begin{pmatrix} \phi^+ \\ \phi^0 \end{pmatrix} : (1,2)_{1/2}$$
 **定理**：最小希格斯是单二重态。
 
 **证明**：
-- 需要SU(2)_L破缺：⟨H⟩ ≠ 0
-- 保持U(1)_em：Q|⟨H⟩| = 0
+- 需要SU(2)_L破缺：$\langle H\rangle \neq 0$
+- 保持U(1)_em：$Q|\langle H\rangle| = 0$
 - 需要Y = 1/2二重态
-- 更高表示 → ρ = m_W²/(m_Z²cos²θ_W) ≠ 1 ∎
+- 更高表示 → $\rho = m_W^2/(m_Z^2\cos^2\theta_W) \neq 1$ ∎
 
 **真空结构**：
 $$\langle H \rangle = \begin{pmatrix} 0 \\ v/\sqrt{2} \end{pmatrix}$$
@@ -110,13 +110,13 @@ $$\langle H \rangle = \begin{pmatrix} 0 \\ v/\sqrt{2} \end{pmatrix}$$
 
 ## 46.6 规范玻色子质量
 
-**质量矩阵**：从|D_μH|²
+**质量矩阵**：从$|D_\mu H|^2$
 $$\mathcal{M}² = \frac{v²}{4}\begin{pmatrix} g² & 0 & 0 & -gg' \\ 0 & g² & 0 & 0 \\ 0 & 0 & g² & -gg' \\ -gg' & 0 & -gg' & g'² \end{pmatrix}$$
 
 **对角化**：
-- W^±质量：m_W = gv/2
-- Z质量：m_Z = v√(g²+g'²)/2
-- 光子：m_γ = 0
+- W^±质量：$m_W = gv/2$
+- Z质量：$m_Z = v\sqrt{g^2+g'^2}/2$
+- 光子：$m_\gamma = 0$
 
 **温伯格角**：
 $$\sin²\theta_W = \frac{g'²}{g²+g'²} \approx 0.231$$

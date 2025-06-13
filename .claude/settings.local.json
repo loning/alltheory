@@ -23,7 +23,10 @@
       "Bash(cat:*)",
       "Bash(echo:*)",
       "Bash(*)",
-      "Bash(rg:*)"
+      "Bash(rg:*)",
+      "Bash(perl:*)",
+      "Bash(cp:*)",
+      "Bash(npm start:*)"
     ],
     "deny": []
   }

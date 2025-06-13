@@ -143,7 +143,7 @@ $$\hat{H}_{\text{相互作用}} = \sum_k g_k \hat{S}_k \otimes \hat{E}_k$$
 
 环境连续"测量"S_k。
 
-**指针态**：{Ŝ_k}的本征态存活。
+**指针态**：$\{\hat{S}_k\}$的本征态存活。
 
 **优选**：自然芝诺效应选择经典基：
 $$|\psi\rangle \to \sum_i |s_i\rangle\langle s_i|\psi\rangle$$
@@ -180,7 +180,7 @@ $$\hat{U}_{\text{芝诺}} = \exp(-i\hat{P}\hat{H}\hat{P}t/\hbar)$$
 
 ## 37.11 Bang-Bang退耦
 
-**脉冲序列**：在时间{tᵢ}应用π脉冲：
+**脉冲序列**：在时间$\{t_i\}$应用π脉冲：
 $$\hat{U}_{\text{BB}} = \prod_i e^{-i\hat{H}\Delta t_i/\hbar}\hat{X}$$
 
 **平均哈密顿量理论**：

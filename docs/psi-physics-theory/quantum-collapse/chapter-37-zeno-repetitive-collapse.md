@@ -143,7 +143,7 @@ $$\hat{H}_{\text{int}} = \sum_k g_k \hat{S}_k \otimes \hat{E}_k$$
 
 Environment continuously "measures" S_k.
 
-**Pointer States**: Eigenstates of {Ŝ_k} survive.
+**Pointer States**: Eigenstates of $\{\hat{S}_k\}$ survive.
 
 **Einselection**: Natural Zeno effect selects classical basis:
 $$|\psi\rangle \to \sum_i |s_i\rangle\langle s_i|\psi\rangle$$
@@ -180,7 +180,7 @@ Active protection through watching!
 
 ## 37.11 Bang-Bang Decoupling
 
-**Pulse Sequence**: Apply π pulses at times {tᵢ}:
+**Pulse Sequence**: Apply π pulses at times $\{t_i\}$:
 $$\hat{U}_{\text{BB}} = \prod_i e^{-i\hat{H}\Delta t_i/\hbar}\hat{X}$$
 
 **Average Hamiltonian Theory**:

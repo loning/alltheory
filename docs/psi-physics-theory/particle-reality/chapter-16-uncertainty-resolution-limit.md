@@ -204,6 +204,6 @@ Having found reality's resolution limit, we now discover how this fundamental bl
 
 ---
 
-*Next: [Chapter 17: Entanglement — The Architecture of Connection →](./chapter-17-entanglement-architecture.md)*
+*Next: [Return to Part II Index →](./index.md)*
 
 *"In the blur of being lies the freedom to become."*

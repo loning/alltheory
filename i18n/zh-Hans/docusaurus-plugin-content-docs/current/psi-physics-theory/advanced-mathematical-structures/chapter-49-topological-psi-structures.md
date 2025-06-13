@@ -72,13 +72,13 @@ $$\cdots \rightarrow \pi_n(F) \rightarrow \pi_n(E) \rightarrow \pi_n(B) \rightar
 **德拉姆复形**：在Ψ上定义微分形式：
 $$\Omega^0(\Psi) \xrightarrow{d} \Omega^1(\Psi) \xrightarrow{d} \Omega^2(\Psi) \xrightarrow{d} \cdots$$
 
-**定理**：H^k_{dR}(Ψ)分类守恒ψ流。
+**定理**：$H^k_{\text{dR}}(\Psi)$分类守恒ψ流。
 
 **证明**：k形式ω是闭的如果dω = 0（守恒）。它是恰当的如果ω = dα（平凡守恒）。上同调：
-$$H^k_{dR}(\Psi) = \frac{\ker(d: \Omega^k \rightarrow \Omega^{k+1})}{\text{im}(d: \Omega^{k-1} \rightarrow \Omega^k)}$$
+$$H^k_{\text{dR}}(\Psi) = \frac{\ker(d: \Omega^k \rightarrow \Omega^{k+1})}{\text{im}(d: \Omega^{k-1} \rightarrow \Omega^k)}$$
 
 代表非平凡守恒量。由德拉姆定理：
-$$H^k_{dR}(\Psi) \cong H^k(\Psi; \mathbb{R})$$ ∎
+$$H^k_{\text{dR}}(\Psi) \cong H^k(\Psi; \mathbb{R})$$ ∎
 
 ## 49.6 从丛结构的示性类
 
@@ -110,7 +110,7 @@ $$c(P) = \det\left(I + \frac{iF}{2\pi}\right) = 1 + c_1 + c_2 + \cdots$$ ∎
 
 **定理**：莫尔斯不等式将临界点与拓扑联系。
 
-**证明**：设mₖ = #{指标为k的临界点}。则：
+**证明**：设$m_k = \#\{$指标为$k$的临界点$\}$。则：
 $$m_k - m_{k-1} + \cdots \pm m_0 \geq b_k - b_{k-1} + \cdots \pm b_0$$
 
 其中bₖ = rank(Hₖ(Ψ))。当f是完美莫尔斯函数时等号成立。临界点对应平衡ψ配置，流线对应演化路径。∎

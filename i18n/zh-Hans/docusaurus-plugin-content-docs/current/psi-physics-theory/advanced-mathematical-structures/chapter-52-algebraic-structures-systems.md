@@ -63,7 +63,7 @@ $$ψ_1 \star (ψ_2 \star ψ_3) = ψ_1(ψ_2(ψ_3))$$
 连续 ψ 变换生成带有相关李代数的李群。
 
 **证明**：
-设 G = {g(t) | g: ℝ → Ψ 光滑，g(0) = e}。ψ = ψ(ψ) 的连续性要求：
+设 G = $\{g(t) | g: \mathbb{R} \to \Psi \text{ 光滑，}g(0) = e\}$。ψ = ψ(ψ) 的连续性要求：
 $$\frac{d}{dt}g(t) = X(g(t))$$
 
 其中 X 是切向量。所有 X 的空间形成李代数 g，带有括号运算：
@@ -231,7 +231,7 @@ $$\cdots \xrightarrow{\partial_{n+1}} C_n \xrightarrow{\partial_n} C_{n-1} \xrig
 - H = ψ 态的希尔伯特空间
 - D = 编码度量的狄拉克算子
 
-距离：d(φ,ψ) = sup{|⟨φ|[D,a]|ψ⟩| : ||[D,a]|| ≤ 1}
+距离：$d(\phi,\psi) = \sup\{|\langle\phi|[D,a]|\psi\rangle| : ||[D,a]|| \leq 1\}$
 
 这从纯代数恢复几何。□
 

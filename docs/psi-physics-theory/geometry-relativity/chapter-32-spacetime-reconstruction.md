@@ -31,8 +31,8 @@ From nothing but self-reference, something emerges!
 $$\mathcal{G} = (V, E, w)$$
 
 where:
-- V = {all possible collapse states ψᵢ}
-- E = {directed edges (ψᵢ, ψⱼ) representing collapse transitions}
+- V = $\{\text{all possible collapse states } ψ_i\}$
+- E = $\{\text{directed edges } (ψ_i, ψ_j) \text{ representing collapse transitions}\}$
 - w: E → ℝ⁺ assigns transition amplitudes
 
 **Theorem 32.2** (Graph Connectivity):

@@ -16,7 +16,7 @@ Category theory—the mathematics of mathematical structure itself—emerges nec
 **Theorem**: Self-referential recursion naturally forms a category.
 
 **Proof**: Define:
-- Objects: Ob(ψ) = {stable ψ-configurations}
+- Objects: Ob(ψ) = $\{\text{stable ψ-configurations}\}$
 - Morphisms: For ψ₁, ψ₂ ∈ Ob(ψ), 
   $$\text{Hom}(\psi_1, \psi_2) = \{f: \psi_1 \rightarrow \psi_2 \mid f \text{ preserves } \psi = \psi(\psi)\}$$
 - Composition: For f: ψ₁ → ψ₂ and g: ψ₂ → ψ₃,
@@ -38,9 +38,9 @@ Thus ψ-recursion forms category ψ-Cat. ∎
 **Theorem**: ψ-transformations between categories are functors.
 
 **Proof**: Let T: ψ-Cat₁ → ψ-Cat₂ be ψ-preserving. Must show:
-1. T(id_A) = id_{T(A)}: Since T preserves ψ-structure,
+1. $T(id_A) = id_{T(A)}$: Since T preserves ψ-structure,
    $$T(\text{id}_A)(\psi) = T(\psi) = \text{id}_{T(A)}(T(\psi))$$
-2. T(g∘f) = T(g)∘T(f): By ψ-preservation,
+2. $T(g∘f) = T(g)∘T(f)$: By ψ-preservation,
    $$T((g \circ f)(\psi)) = T(g(f(\psi))) = T(g)(T(f)(\psi)) = (T(g) \circ T(f))(\psi)$$
 
 Therefore T is a functor. ∎
@@ -94,9 +94,9 @@ Construction:
 Colimits dual: minimal ψ-extension containing all diagram objects. ∎
 
 **Key Examples**:
-- Product: lim{A ← • → B} = A × B
-- Pullback: lim{A → C ← B}
-- Equalizer: lim{A ⟹ B}
+- Product: lim$\{A ← • → B\}$ = A × B
+- Pullback: lim$\{A → C ← B\}$
+- Equalizer: lim$\{A ⟹ B\}$
 
 ## 50.6 Adjunctions from Optimal Correspondence
 
@@ -142,8 +142,8 @@ These precisely capture ψ = ψ(ψ) at categorical level. ∎
 
 **Proof**: For ψ-Cat:
 1. Finite limits exist (shared ψ-structure)
-2. Power object P(ψ) = {sub-ψ-patterns}
-3. Ω = {true, false} classifies ψ-properties
+2. Power object P(ψ) = \{sub-ψ-patterns\}
+3. Ω = \{true, false\} classifies ψ-properties
 
 Truth morphism t: 1 → Ω picks out "true". For any mono m: A ↪ B, unique χ_m making pullback square. This gives internal logic of ψ-patterns. ∎
 

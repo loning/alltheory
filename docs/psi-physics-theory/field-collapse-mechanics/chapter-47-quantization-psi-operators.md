@@ -41,7 +41,7 @@ $$[\hat{\phi}(x,t), \hat{\pi}(y,t)] = i\delta^3(x-y)$$
 Substitute mode expansions:
 $$\hat{\pi} = \partial_t\hat{\phi} = -i\int \frac{d^3k}{(2\pi)^3}\sqrt{\frac{\omega_k}{2}}\left[a_k e^{-ik\cdot x} - a_k^\dagger e^{ik\cdot x}\right]$$
 
-Computing commutator and using orthogonality of e^{ik·x} gives result. ∎
+Computing commutator and using orthogonality of $e^{ik \cdot x}$ gives result. ∎
 
 ## 47.3 The Fock Space Construction
 
@@ -181,7 +181,7 @@ $$\{\psi_\alpha(x), \psi_\beta^\dagger(y)\} = \delta_{\alpha\beta}\delta^3(x-y)$
 **Proof**: Pauli exclusion principle requires:
 $$(a_k^\dagger)^2|0\rangle = 0$$
 
-This implies {a_k†, a_k†} = 0, forcing anticommutation. ∎
+This implies $\{a_k^\dagger, a_k^\dagger\} = 0$, forcing anticommutation. ∎
 
 **Grassmann Path Integral**:
 $$Z = \int \mathcal{D}\bar{\psi}\mathcal{D}\psi \, e^{i\int d^4x \bar{\psi}(i\not{\partial} - m)\psi}$$
@@ -221,7 +221,7 @@ $$e^{iS_{eff}[\phi_{low}]} = \int \mathcal{D}\phi_{high} \, e^{iS[\phi_{low}, \p
 
 **Theorem**: Low-energy physics independent of UV details.
 
-**Proof**: Higher dimension operators suppressed by powers of E/Λ. For E << Λ, only relevant and marginal operators matter. ∎
+**Proof**: Higher dimension operators suppressed by powers of E/Λ. For E $\ll$ Λ, only relevant and marginal operators matter. ∎
 
 ## 47.15 Conclusion: The Algebra of Reality
 

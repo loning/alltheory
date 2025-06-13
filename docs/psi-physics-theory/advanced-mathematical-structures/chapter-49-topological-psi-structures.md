@@ -72,13 +72,13 @@ for fibration F → E → B. ∎
 **de Rham Complex**: Define differential forms on Ψ:
 $$\Omega^0(\Psi) \xrightarrow{d} \Omega^1(\Psi) \xrightarrow{d} \Omega^2(\Psi) \xrightarrow{d} \cdots$$
 
-**Theorem**: H^k_{dR}(Ψ) classifies conserved ψ-currents.
+**Theorem**: $H^k_{\text{dR}}$(Ψ) classifies conserved ψ-currents.
 
 **Proof**: A k-form ω is closed if dω = 0 (conservation). It's exact if ω = dα (trivial conservation). Cohomology:
-$$H^k_{dR}(\Psi) = \frac{\ker(d: \Omega^k \rightarrow \Omega^{k+1})}{\text{im}(d: \Omega^{k-1} \rightarrow \Omega^k)}$$
+$$H^k_{\text{dR}}(\Psi) = \frac{\ker(d: \Omega^k \rightarrow \Omega^{k+1})}{\text{im}(d: \Omega^{k-1} \rightarrow \Omega^k)}$$
 
 represents non-trivial conserved quantities. By de Rham theorem:
-$$H^k_{dR}(\Psi) \cong H^k(\Psi; \mathbb{R})$$ ∎
+$$H^k_{\text{dR}}(\Psi) \cong H^k(\Psi; \mathbb{R})$$ ∎
 
 ## 49.6 Characteristic Classes from Bundle Structure
 
@@ -110,7 +110,7 @@ Stability guaranteed by topological conservation. Example: SO(3) → SO(2) gives
 
 **Theorem**: Morse inequalities relate critical points to topology.
 
-**Proof**: Let mₖ = #{critical points of index k}. Then:
+**Proof**: Let mₖ = $\#\{\text{critical points of index k}\}$. Then:
 $$m_k - m_{k-1} + \cdots \pm m_0 \geq b_k - b_{k-1} + \cdots \pm b_0$$
 
 where bₖ = rank(Hₖ(Ψ)). Equality when f is perfect Morse function. Critical points correspond to equilibrium ψ-configurations, flow lines to evolution paths. ∎
