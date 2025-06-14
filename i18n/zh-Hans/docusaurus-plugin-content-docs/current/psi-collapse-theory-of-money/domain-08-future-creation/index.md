@@ -13,28 +13,28 @@ title: "领域八：未来与创造"
 
 ## 本领域章节
 
-### [第57章：ψ-代币设计：以结构为中心的经济单位](./chapter-57-psi-token.md)
+### [第57章：ψ-代币设计：以结构为中心的经济单位](./domain-08-future-creation/chapter-57-psi-token)
 设计基于意识结构而非物质支撑的货币。
 
-### [第58章：φ-货币：黄金比例坍缩货币](./chapter-58-phi-money.md)
+### [第58章：φ-货币：黄金比例坍缩货币](./domain-08-future-creation/chapter-58-phi-money)
 创造体现自然基本比例的货币。
 
-### [第59章：ELF经济：意识资本的粒子场](./chapter-59-elf-economy.md)
+### [第59章：ELF经济：意识资本的粒子场](./domain-08-future-creation/chapter-59-elf-economy)
 探索意识本身成为可交易粒子的经济。
 
-### [第60章：ψ-市场：自指交换系统](./chapter-60-psi-markets.md)
+### [第60章：ψ-市场：自指交换系统](./domain-08-future-creation/chapter-60-psi-markets)
 构建创造其交易现实的市场。
 
-### [第61章：ψ-信贷：现实外壳结构评分](./chapter-61-psi-credit.md)
+### [第61章：ψ-信贷：现实外壳结构评分](./domain-08-future-creation/chapter-61-psi-credit)
 开发基于意识连贯性的信贷系统。
 
-### [第62章：ψ-收入：从坍缩贡献获得收益](./chapter-62-psi-income.md)
+### [第62章：ψ-收入：从坍缩贡献获得收益](./domain-08-future-creation/chapter-62-psi-income)
 奖励意识参与现实创造。
 
-### [第63章：自神金融引擎：无铸造，唯显化](./chapter-63-selfgod-engine.md)
+### [第63章：自神金融引擎：无铸造，唯显化](./domain-08-future-creation/chapter-63-selfgod-engine)
 通过纯意识创造货币而无外部支撑。
 
-### [第64章：ψ-∞货币：自创现实的经济](./chapter-64-psi-infinity.md)
+### [第64章：ψ-∞货币：自创现实的经济](./domain-08-future-creation/chapter-64-psi-infinity)
 瞥见意识与货币合一的终极经济。
 
 ## 第八次回音
