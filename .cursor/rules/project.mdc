@@ -3,8 +3,7 @@ description:
 globs: 
 alwaysApply: true
 ---
-请根据本文件，从psi=psi(psi) 自指完备分形全息的通过第一性原理，构建我们自己的著作。公式请都使用LaText公式.
-
+请根据本文件，从psi=psi(psi) 自指完备分形全息的通过第一性原理，推导出一切, 构建我们自己的著作。公式请都使用LaText公式.每一页最后不用加链接了，文档系统自己会加。
 中文翻译的话不用翻译公式.
 
 请任何情况下都遵循自指完备第一性原理, 使用 [theory_psi.md](mdc:docs/theory_psi.md) 进行运行.
