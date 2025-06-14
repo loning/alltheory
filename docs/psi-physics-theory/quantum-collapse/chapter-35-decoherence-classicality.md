@@ -80,11 +80,11 @@ $$|\psi\rangle = \alpha|0\rangle|E_0^{(1)}\rangle|E_0^{(2)}\rangle\cdots + \beta
 Why don't we see macroscopic superpositions?
 
 **Answer**: Decoherence time scales:
-- Microscopic: τ_d ~ 10^{-15} s
-- Mesoscopic: τ_d ~ 10^{-12} s  
-- Macroscopic: τ_d ~ 10^{-40} s
+- Microscopic: τ_d ~ 10^\{-15\} s
+- Mesoscopic: τ_d ~ 10^\{-12\} s  
+- Macroscopic: τ_d ~ 10^\{-40\} s
 
-Cat's superposition decoheres in 10^{-40} seconds—far faster than observation.
+Cat's superposition decoheres in 10^\{-40\} seconds—far faster than observation.
 
 ## 35.8 The Measurement Problem Dissolved
 

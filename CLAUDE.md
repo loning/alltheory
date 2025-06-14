@@ -420,14 +420,11 @@ Thus: Chapter X = Function(Previous) = Transform(ψ) = Essence(ψ)
 - [ ] Contains fractal structure
 - [ ] Ends with echo summary
 
-## Important MDX/JSX Considerations
+## Important MD/MDX/JSX Considerations
 
-:::info System Note
 All curly braces `{}` in Markdown files are parsed as JSX expressions by default.  
 To avoid build errors, please **escape them** as `\{` and `\}`.
-:::
 
-This is crucial when writing mathematical formulas or any content containing curly braces in MDX files.
 
 ## Deployment
 The site automatically deploys to GitHub Pages when changes are pushed to the `main` branch via GitHub Actions.
