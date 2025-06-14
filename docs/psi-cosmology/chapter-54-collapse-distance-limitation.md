@@ -64,12 +64,12 @@ These represent absolute distance limitations.
 ## 54.7 Scale-Dependent Limits
 
 **Definition 54.3** (Hierarchical Distance Bounds):
-- Quantum scale: d < 10^{-35} m
-- Atomic scale: 10^{-35} < d < 10^{-10} m
-- Molecular scale: 10^{-10} < d < 10^{-6} m
-- Macroscopic: 10^{-6} < d < 10^{6} m
-- Astronomical: 10^{6} < d < 10^{26} m
-- Cosmological: d > 10^{26} m
+- Quantum scale: d < 10^\{-35\} m
+- Atomic scale: 10^\{-35\} < d < 10^\{-10\} m
+- Molecular scale: 10^\{-10\} < d < 10^\{-6\} m
+- Macroscopic: 10^\{-6\} < d < 10^\{6\} m
+- Astronomical: 10^\{6\} < d < 10^\{26\} m
+- Cosmological: d > 10^\{26\} m
 
 Each scale has characteristic distance limitations.
 

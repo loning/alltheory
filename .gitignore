@@ -1,6 +1,3 @@
-# Cursor rules
-.cursor/rules/project.mdc
-
 # Dependencies
 /node_modules
 
