@@ -125,10 +125,21 @@ $$\frac{d\rho}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho] + \sum_k \gamma_k\mathcal{L
 where Lindblad superoperators:
 $$\mathcal{L}_k[\rho] = \hat{L}_k\rho\hat{L}_k^\dagger - \frac{1}{2}\{\hat{L}_k^\dagger\hat{L}_k, \rho\}$$
 
-**Position Decoherence**:
-$$\hat{L}_k = \sqrt{\gamma}(\hat{x} - \langle\hat{x}\rangle)$$
+**Result**: Many observers can access same classical information without disturbing system.
 
-Leads to exponential suppression of position superpositions.
+**ψ-Meaning**: Successful collapse patterns replicate throughout environment, becoming "classical facts."
+
+## 35.7 Macroscopic Superpositions
+
+**Schrödinger's Cat Revisited**:
+Why don't we see macroscopic superpositions?
+
+**Answer**: Decoherence time scales:
+- Microscopic: τ_d ~ 10^\{-15\} s
+- Mesoscopic: τ_d ~ 10^\{-12\} s  
+- Macroscopic: τ_d ~ 10^\{-40\} s
+
+Cat's superposition decoheres in 10^\{-40\} seconds—far faster than observation.
 
 ## 35.8 The Measurement Problem
 
