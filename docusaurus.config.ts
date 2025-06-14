@@ -67,7 +67,7 @@ const config: Config = {
           rehypeKatex, 
           { 
             strict: false,
-            throwOnError: false,
+            throwOnError: true,
             trust: (context) => {
               // 允许所有希腊字母和数学符号
               return true;
