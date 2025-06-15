@@ -29,7 +29,7 @@ jobs:
     env:
       ACTIONS_RUNNER_DEBUG: true
       ACTIONS_STEP_DEBUG: true
-      NODE_OPTIONS: "--max-old-space-size=8192"
+      NODE_OPTIONS: "--max-old-space-size=7000"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
