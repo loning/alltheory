@@ -54,9 +54,28 @@ jobs:
           node scripts/pre-build-collapse.js
           echo "Pre-build collapse completed"
 
+      - name: Clean memory before build
+        run: |
+          echo "=== Memory status before cleanup ==="
+          free -h
+          echo "=== Cleaning memory ==="
+          # Clear page cache, dentries and inodes
+          sudo sh -c "echo 3 > /proc/sys/vm/drop_caches" || true
+          # Force garbage collection
+          sudo sh -c "sync && echo 1 > /proc/sys/vm/drop_caches" || true
+          echo "=== Memory status after cleanup ==="
+          free -h
+
       - name: Build website
         timeout-minutes: 300  # ψ-location: 5 hour timeout for build step
-        run: npm run build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=7168"  # 7GB in MB
+        run: |
+          echo "=== Build environment ==="
+          echo "NODE_OPTIONS: $NODE_OPTIONS"
+          free -h
+          echo "=== Starting build ==="
+          npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
