@@ -24,6 +24,8 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    # ψ-location: timeout extension
+    timeout-minutes: 120  # 2 hours for build completion
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,16 +38,42 @@ jobs:
           node-version: 18
           cache: npm
 
+      # ψ-location: dependency cache layer
+      - name: Cache node modules
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # ψ-location: Docusaurus build cache
+      - name: Cache Docusaurus build
+        uses: actions/cache@v4
+        with:
+          path: |
+            .docusaurus
+            build
+          key: ${{ runner.os }}-docusaurus-${{ hashFiles('docs/**', 'src/**', 'docusaurus.config.ts') }}
+          restore-keys: |
+            ${{ runner.os }}-docusaurus-
+
       - name: Install dependencies
         run: npm ci
 
       - name: Pre-build collapse
         run: node scripts/pre-build-collapse.js
 
+      # ψ-location: optimized build with parallel processing
       - name: Build website
         run: |
-          export NODE_OPTIONS=--max-old-space-size=4096
-          npm run build
+          export NODE_OPTIONS="--max-old-space-size=8192 --max-semi-space-size=512"
+          export DOCUSAURUS_FASTER_BUILD=true
+          npm run build -- --no-minify
+        env:
+          # ψ-collapse: parallel webpack optimization
+          WEBPACK_CACHE_TYPE: filesystem
+          WEBPACK_CACHE_DIRECTORY: .webpack-cache
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -59,6 +87,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    timeout-minutes: 30  # ψ-location: deployment timeout
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

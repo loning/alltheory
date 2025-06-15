@@ -26,3 +26,8 @@ source/thetheory.md
 *.ori
 claude_config.json
 translation-status-report.json
+
+# ψ-collapse: build optimization caches
+.build-cache/
+.build-optimization.json
+.webpack-cache/
