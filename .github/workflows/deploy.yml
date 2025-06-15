@@ -21,11 +21,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
-  build:
+  # Build English version
+  build-en:
     runs-on: ubuntu-latest
-    # ψ-location: extended timeout for multi-language build
-    timeout-minutes: 360  # 6 hours - GitHub Actions maximum
+    # ψ-location: timeout for English build
+    timeout-minutes: 180  # 3 hours
     env:
       ACTIONS_RUNNER_DEBUG: true
       ACTIONS_STEP_DEBUG: true
@@ -62,20 +62,20 @@ jobs:
           node scripts/pre-build-collapse.js
           echo "Pre-build collapse completed"
 
-      - name: Build website
-        timeout-minutes: 300  # ψ-location: 5 hour timeout for build step specifically
+      - name: Build English website
+        timeout-minutes: 150  # ψ-location: 2.5 hour timeout for English build
         run: |
-          echo "Starting build process at $(date)"
+          echo "Starting English build process at $(date)"
           echo "NODE_OPTIONS: $NODE_OPTIONS"
           echo "Memory before build: $(free -h | grep Mem)"
           
           # Run build with progress monitoring
-          npm run build &
+          npm run build:en &
           BUILD_PID=$!
           
           # Monitor build progress
           while kill -0 $BUILD_PID 2>/dev/null; do
-            echo "Build still running at $(date)..."
+            echo "English build still running at $(date)..."
             echo "Memory usage: $(free -h | grep Mem)"
             sleep 30
           done
@@ -83,10 +83,129 @@ jobs:
           wait $BUILD_PID
           BUILD_EXIT_CODE=$?
           
-          echo "Build completed at $(date) with exit code: $BUILD_EXIT_CODE"
+          echo "English build completed at $(date) with exit code: $BUILD_EXIT_CODE"
           exit $BUILD_EXIT_CODE
 
-      - name: Upload artifact
+      - name: Upload English artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-en
+          path: ./build
+          retention-days: 1
+
+  # Build Chinese version
+  build-zh:
+    runs-on: ubuntu-latest
+    # ψ-location: timeout for Chinese build
+    timeout-minutes: 180  # 3 hours
+    env:
+      ACTIONS_RUNNER_DEBUG: true
+      ACTIONS_STEP_DEBUG: true
+      NODE_OPTIONS: "--max-old-space-size=7000"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+
+      - name: System info
+        run: |
+          echo "=== System Information ==="
+          echo "CPU cores: $(nproc)"
+          echo "Memory: $(free -h)"
+          echo "Disk space: $(df -h)"
+          echo "========================="
+
+      - name: Install dependencies
+        run: |
+          echo "Starting npm install..."
+          npm ci --verbose
+          echo "npm install completed"
+
+      - name: Pre-build collapse
+        run: |
+          echo "Starting pre-build collapse..."
+          node scripts/pre-build-collapse.js
+          echo "Pre-build collapse completed"
+
+      - name: Build Chinese website
+        timeout-minutes: 150  # ψ-location: 2.5 hour timeout for Chinese build
+        run: |
+          echo "Starting Chinese build process at $(date)"
+          echo "NODE_OPTIONS: $NODE_OPTIONS"
+          echo "Memory before build: $(free -h | grep Mem)"
+          
+          # Run build with progress monitoring
+          npm run build:zh &
+          BUILD_PID=$!
+          
+          # Monitor build progress
+          while kill -0 $BUILD_PID 2>/dev/null; do
+            echo "Chinese build still running at $(date)..."
+            echo "Memory usage: $(free -h | grep Mem)"
+            sleep 30
+          done
+          
+          wait $BUILD_PID
+          BUILD_EXIT_CODE=$?
+          
+          echo "Chinese build completed at $(date) with exit code: $BUILD_EXIT_CODE"
+          exit $BUILD_EXIT_CODE
+
+      - name: Upload Chinese artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-zh
+          path: ./build
+          retention-days: 1
+
+  # Merge builds
+  merge-builds:
+    runs-on: ubuntu-latest
+    needs: [build-en, build-zh]
+    # ψ-location: merge timeout
+    timeout-minutes: 30
+    steps:
+      - name: Download English build
+        uses: actions/download-artifact@v4
+        with:
+          name: build-en
+          path: ./build-en
+
+      - name: Download Chinese build
+        uses: actions/download-artifact@v4
+        with:
+          name: build-zh
+          path: ./build-zh
+
+      - name: Merge builds
+        run: |
+          echo "Starting merge of English and Chinese builds..."
+          
+          # Create final build directory
+          mkdir -p build
+          
+          # Copy English build as base
+          cp -r build-en/* build/
+          
+          # Copy Chinese build (zh-Hans directory)
+          cp -r build-zh/zh-Hans build/
+          
+          # Verify merge
+          echo "=== Build structure ==="
+          ls -la build/
+          echo "=== Chinese directory ==="
+          ls -la build/zh-Hans/ || echo "zh-Hans directory not found"
+          
+          echo "Merge completed successfully"
+
+      - name: Upload merged artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./build
@@ -97,7 +216,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: merge-builds
     timeout-minutes: 30  # ψ-location: deployment timeout
     env:
       ACTIONS_RUNNER_DEBUG: true

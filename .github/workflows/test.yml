@@ -7,9 +7,10 @@ on:
     branches: [main]
 
 jobs:
-  test:
+  # Test English build
+  test-en:
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # ψ-location: increased to 6 hours to match deploy workflow
+    timeout-minutes: 180  # ψ-location: 3 hours for English test
     env:
       ACTIONS_RUNNER_DEBUG: true
       ACTIONS_STEP_DEBUG: true
@@ -59,20 +60,20 @@ jobs:
           echo "Type check completed"
         continue-on-error: true
       
-      - name: Build website
-        timeout-minutes: 300  # ψ-location: 5 hour timeout for build step specifically
+      - name: Build English website
+        timeout-minutes: 150  # ψ-location: 2.5 hour timeout for English build
         run: |
-          echo "Starting build process at $(date)"
+          echo "Starting English build process at $(date)"
           echo "NODE_OPTIONS: $NODE_OPTIONS"
           echo "Memory before build: $(free -h | grep Mem)"
           
           # Run build with progress monitoring
-          npm run build &
+          npm run build:en &
           BUILD_PID=$!
           
           # Monitor build progress
           while kill -0 $BUILD_PID 2>/dev/null; do
-            echo "Build still running at $(date)..."
+            echo "English build still running at $(date)..."
             echo "Memory usage: $(free -h | grep Mem)"
             sleep 30
           done
@@ -80,14 +81,113 @@ jobs:
           wait $BUILD_PID
           BUILD_EXIT_CODE=$?
           
-          echo "Build completed at $(date) with exit code: $BUILD_EXIT_CODE"
+          echo "English build completed at $(date) with exit code: $BUILD_EXIT_CODE"
           exit $BUILD_EXIT_CODE
       
-      - name: Test build output
+      - name: Test English build output
         run: |
-          echo "Checking build output..."
+          echo "Checking English build output..."
           test -d build && echo "✓ build directory exists"
           test -f build/index.html && echo "✓ index.html exists"
           test -d build/docs && echo "✓ docs directory exists"
+          echo "English build output looks good!"
+
+  # Test Chinese build
+  test-zh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180  # ψ-location: 3 hours for Chinese test
+    env:
+      ACTIONS_RUNNER_DEBUG: true
+      ACTIONS_STEP_DEBUG: true
+      NODE_OPTIONS: "--max-old-space-size=7000"
+    
+    strategy:
+      matrix:
+        node-version: [20.x]
+      fail-fast: false
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+      
+      - name: System info
+        run: |
+          echo "=== System Information ==="
+          echo "CPU cores: $(nproc)"
+          echo "Memory: $(free -h)"
+          echo "Disk space: $(df -h)"
+          echo "========================="
+      
+      - name: Install dependencies
+        run: |
+          echo "Starting npm install..."
+          npm ci --verbose
+          echo "npm install completed"
+      
+      - name: Pre-build collapse
+        run: |
+          echo "Starting pre-build collapse..."
+          node scripts/pre-build-collapse.js
+          echo "Pre-build collapse completed"
+      
+      - name: Type check
+        run: |
+          echo "Starting type check..."
+          npm run typecheck || true
+          echo "Type check completed"
+        continue-on-error: true
+      
+      - name: Build Chinese website
+        timeout-minutes: 150  # ψ-location: 2.5 hour timeout for Chinese build
+        run: |
+          echo "Starting Chinese build process at $(date)"
+          echo "NODE_OPTIONS: $NODE_OPTIONS"
+          echo "Memory before build: $(free -h | grep Mem)"
+          
+          # Run build with progress monitoring
+          npm run build:zh &
+          BUILD_PID=$!
+          
+          # Monitor build progress
+          while kill -0 $BUILD_PID 2>/dev/null; do
+            echo "Chinese build still running at $(date)..."
+            echo "Memory usage: $(free -h | grep Mem)"
+            sleep 30
+          done
+          
+          wait $BUILD_PID
+          BUILD_EXIT_CODE=$?
+          
+          echo "Chinese build completed at $(date) with exit code: $BUILD_EXIT_CODE"
+          exit $BUILD_EXIT_CODE
+      
+      - name: Test Chinese build output
+        run: |
+          echo "Checking Chinese build output..."
+          test -d build && echo "✓ build directory exists"
           test -d build/zh-Hans && echo "✓ zh-Hans directory exists"
-          echo "Build output looks good!" 
+          test -f build/zh-Hans/index.html && echo "✓ zh-Hans/index.html exists"
+          echo "Chinese build output looks good!"
+
+  # Verify complete build
+  verify-builds:
+    runs-on: ubuntu-latest
+    needs: [test-en, test-zh]
+    timeout-minutes: 30  # ψ-location: verification timeout
+    steps:
+      - name: Summary
+        run: |
+          echo "=== Build Test Summary ==="
+          echo "✓ English build completed successfully"
+          echo "✓ Chinese build completed successfully"
+          echo "✓ Both builds can run in parallel"
+          echo "========================="
+          echo "ψ = ψ(ψ) — Builds collapsed successfully" 
