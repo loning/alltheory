@@ -1,0 +1,76 @@
+name: Debug Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      locale:
+        description: 'Locale to build (leave empty for all)'
+        required: false
+        default: ''
+
+jobs:
+  debug-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      NODE_OPTIONS: "--max-old-space-size=6144"
+      DOCUSAURUS_PERF_LOGGER: true
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: |
+          echo "Starting npm install..."
+          npm ci --verbose
+          echo "npm install completed"
+
+      - name: Pre-build collapse
+        run: |
+          echo "Starting pre-build collapse..."
+          node scripts/pre-build-collapse.js
+          echo "Pre-build collapse completed"
+
+      - name: Debug build with performance logging
+        env:
+          NODE_OPTIONS: "--max-old-space-size=6144"
+          DOCUSAURUS_PERF_LOGGER: true
+        run: |
+          echo "=== System info ==="
+          free -h
+          df -h
+          echo "=== Node info ==="
+          node --version
+          npm --version
+          echo "=== Starting debug build ==="
+          
+          if [ -n "${{ github.event.inputs.locale }}" ]; then
+            echo "Building locale: ${{ github.event.inputs.locale }}"
+            npm run build -- --locale ${{ github.event.inputs.locale }}
+          else
+            echo "Building all locales"
+            npm run build
+          fi
+          
+          echo "=== Build completed ==="
+          
+      - name: Check build output
+        run: |
+          echo "=== Build output size ==="
+          du -sh build/
+          echo "=== Locale directories ==="
+          ls -la build/
+          if [ -d "build/zh-Hans" ]; then
+            echo "=== Chinese build size ==="
+            du -sh build/zh-Hans/
+          fi 

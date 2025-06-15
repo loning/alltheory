@@ -70,12 +70,24 @@ jobs:
         timeout-minutes: 300  # ψ-location: 5 hour timeout for build step
         env:
           NODE_OPTIONS: "--max-old-space-size=6144"  # 6GB in MB
+          DOCUSAURUS_SKIP_BUILD_OPTIMIZATION: true
         run: |
           echo "=== Build environment ==="
           echo "NODE_OPTIONS: $NODE_OPTIONS"
           free -h
-          echo "=== Starting build ==="
-          npm run build
+          echo "=== Starting build at $(date) ==="
+          
+          # Run build with progress monitoring
+          timeout 290m npm run build 2>&1 | while IFS= read -r line; do
+            echo "[$(date '+%H:%M:%S')] $line"
+            # Keep the runner alive by outputting progress
+            if [[ $SECONDS -gt 300 ]]; then
+              echo "[$(date '+%H:%M:%S')] Build still in progress..."
+              SECONDS=0
+            fi
+          done
+          
+          echo "=== Build completed at $(date) ==="
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
