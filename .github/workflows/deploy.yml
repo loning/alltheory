@@ -21,11 +21,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job - split into parallel locale builds
-  build-en:
+  # Build job
+  build:
     runs-on: ubuntu-latest
-    # ψ-location: maximum timeout
-    timeout-minutes: 180  # 3 hours per locale
+    # ψ-location: extended timeout for multi-language build
+    timeout-minutes: 360  # 6 hours - GitHub Actions maximum
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -54,9 +54,8 @@ jobs:
           path: |
             .docusaurus
             build
-          key: ${{ runner.os }}-docusaurus-en-${{ hashFiles('docs/**', 'src/**', 'docusaurus.config.ts') }}
+          key: ${{ runner.os }}-docusaurus-${{ hashFiles('docs/**', 'src/**', 'docusaurus.config.ts') }}
           restore-keys: |
-            ${{ runner.os }}-docusaurus-en-
             ${{ runner.os }}-docusaurus-
 
       - name: Install dependencies
@@ -65,110 +64,18 @@ jobs:
       - name: Pre-build collapse
         run: node scripts/pre-build-collapse.js
 
-      # ψ-location: build English only
-      - name: Build website (English)
+      # ψ-location: optimized multi-language build
+      - name: Build website
         run: |
           export NODE_OPTIONS="--max-old-space-size=8192"
           export CI=true
-          npm run build -- --locale en
+          npm run build
         env:
           # ψ-collapse: build optimization flags
           GENERATE_SOURCEMAP: false
           INLINE_RUNTIME_CHUNK: false
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: build-en
-          path: ./build
-          retention-days: 1
-
-  build-zh:
-    runs-on: ubuntu-latest
-    # ψ-location: maximum timeout
-    timeout-minutes: 180  # 3 hours per locale
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-          cache: npm
-
-      # ψ-location: dependency cache layer
-      - name: Cache node modules
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      # ψ-location: Docusaurus build cache
-      - name: Cache Docusaurus build
-        uses: actions/cache@v4
-        with:
-          path: |
-            .docusaurus
-            build
-          key: ${{ runner.os }}-docusaurus-zh-${{ hashFiles('docs/**', 'i18n/**', 'docusaurus.config.ts') }}
-          restore-keys: |
-            ${{ runner.os }}-docusaurus-zh-
-            ${{ runner.os }}-docusaurus-
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Pre-build collapse
-        run: node scripts/pre-build-collapse.js
-
-      # ψ-location: build Chinese only
-      - name: Build website (Chinese)
-        run: |
-          export NODE_OPTIONS="--max-old-space-size=8192"
-          export CI=true
-          npm run build -- --locale zh-Hans
-        env:
-          # ψ-collapse: build optimization flags
-          GENERATE_SOURCEMAP: false
-          INLINE_RUNTIME_CHUNK: false
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: build-zh
-          path: ./build
-          retention-days: 1
-
-  # Merge builds
-  merge-builds:
-    runs-on: ubuntu-latest
-    needs: [build-en, build-zh]
-    timeout-minutes: 30
-    steps:
-      - name: Download English build
-        uses: actions/download-artifact@v4
-        with:
-          name: build-en
-          path: ./build-en
-
-      - name: Download Chinese build
-        uses: actions/download-artifact@v4
-        with:
-          name: build-zh
-          path: ./build-zh
-
-      - name: Merge builds
-        run: |
-          mkdir -p build
-          cp -r build-en/* build/
-          cp -r build-zh/zh-Hans build/zh-Hans
-
-      - name: Upload merged artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./build
@@ -179,7 +86,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: merge-builds
+    needs: build
     timeout-minutes: 30  # ψ-location: deployment timeout
     steps:
       - name: Deploy to GitHub Pages
