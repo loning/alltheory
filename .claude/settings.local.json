@@ -26,7 +26,8 @@
       "Bash(rg:*)",
       "Bash(perl:*)",
       "Bash(cp:*)",
-      "Bash(npm start:*)"
+      "Bash(npm start:*)",
+      "Bash(awk:*)"
     ],
     "deny": []
   }
