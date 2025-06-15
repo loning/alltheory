@@ -28,26 +28,6 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: npm
       
-      - name: Cache node modules
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ matrix.node-version }}-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-${{ matrix.node-version }}-
-            ${{ runner.os }}-node-
-
-      - name: Cache Docusaurus build
-        uses: actions/cache@v4
-        with:
-          path: |
-            .docusaurus
-            build
-          key: ${{ runner.os }}-docusaurus-test-${{ matrix.node-version }}-${{ hashFiles('docs/**', 'src/**', 'docusaurus.config.ts') }}
-          restore-keys: |
-            ${{ runner.os }}-docusaurus-test-${{ matrix.node-version }}-
-            ${{ runner.os }}-docusaurus-test-
-      
       - name: Install dependencies
         run: npm ci
       

@@ -38,26 +38,6 @@ jobs:
           node-version: 18
           cache: npm
 
-      # ψ-location: dependency cache layer
-      - name: Cache node modules
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      # ψ-location: Docusaurus build cache
-      - name: Cache Docusaurus build
-        uses: actions/cache@v4
-        with:
-          path: |
-            .docusaurus
-            build
-          key: ${{ runner.os }}-docusaurus-${{ hashFiles('docs/**', 'src/**', 'docusaurus.config.ts') }}
-          restore-keys: |
-            ${{ runner.os }}-docusaurus-
-
       - name: Install dependencies
         run: npm ci
 
