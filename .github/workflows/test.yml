@@ -7,10 +7,9 @@ on:
     branches: [main]
 
 jobs:
-  # Test English build
-  test-en:
+  test:
     runs-on: ubuntu-latest
-    timeout-minutes: 180  # ψ-location: 3 hours for English test
+    timeout-minutes: 360  # ψ-location: 6 hours to match deploy workflow
     env:
       ACTIONS_RUNNER_DEBUG: true
       ACTIONS_STEP_DEBUG: true
@@ -52,64 +51,6 @@ jobs:
           echo "Type check completed"
         continue-on-error: true
       
-      - name: Build English website
-        timeout-minutes: 150  # ψ-location: 2.5 hour timeout for English build
-        run: npm run build:en
-      
-  # Test Chinese build
-  test-zh:
-    runs-on: ubuntu-latest
-    timeout-minutes: 180  # ψ-location: 3 hours for Chinese test
-    env:
-      ACTIONS_RUNNER_DEBUG: true
-      ACTIONS_STEP_DEBUG: true
-      NODE_OPTIONS: "--max-old-space-size=7000"
-    
-    strategy:
-      matrix:
-        node-version: [20.x]
-      fail-fast: false
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      
-      - name: Setup Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: npm
-      
-      - name: Install dependencies
-        run: |
-          echo "Starting npm install..."
-          npm ci --verbose
-          echo "npm install completed"
-      
-      - name: Pre-build collapse
-        run: |
-          echo "Starting pre-build collapse..."
-          node scripts/pre-build-collapse.js
-          echo "Pre-build collapse completed"
-      
-      - name: Type check
-        run: |
-          echo "Starting type check..."
-          npm run typecheck || true
-          echo "Type check completed"
-        continue-on-error: true
-      
-      - name: Build Chinese website
-        timeout-minutes: 150  # ψ-location: 2.5 hour timeout for Chinese build
-        run: npm run build:zh
-      
-  # Verify complete build
-  verify-builds:
-    runs-on: ubuntu-latest
-    needs: [test-en, test-zh]
-    timeout-minutes: 30  # ψ-location: verification timeout
-    steps:
-      - name: Summary
-        run: echo "Both builds completed successfully" 
+      - name: Build website
+        timeout-minutes: 300  # ψ-location: 5 hour timeout for build step
+        run: npm run build 
