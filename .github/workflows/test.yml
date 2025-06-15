@@ -13,7 +13,7 @@ jobs:
     env:
       ACTIONS_RUNNER_DEBUG: true
       ACTIONS_STEP_DEBUG: true
-      NODE_OPTIONS: "--max-old-space-size=7000"
+      NODE_OPTIONS: "--max-old-space-size=6144"
     
     strategy:
       matrix:
@@ -66,7 +66,7 @@ jobs:
       - name: Build website
         timeout-minutes: 300  # ψ-location: 5 hour timeout for build step
         env:
-          NODE_OPTIONS: "--max-old-space-size=7168"  # 7GB in MB
+          NODE_OPTIONS: "--max-old-space-size=6144"  # 6GB in MB
         run: |
           echo "=== Build environment ==="
           echo "NODE_OPTIONS: $NODE_OPTIONS"
