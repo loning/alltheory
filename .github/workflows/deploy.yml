@@ -23,7 +23,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     # ψ-location: extended timeout for multi-language build
     timeout-minutes: 360  # 6 hours - GitHub Actions maximum
     env:
@@ -68,7 +68,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: build
     timeout-minutes: 30  # ψ-location: deployment timeout
     env:

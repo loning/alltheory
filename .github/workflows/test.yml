@@ -8,7 +8,7 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     timeout-minutes: 360  # ψ-location: 6 hours to match deploy workflow
     env:
       ACTIONS_RUNNER_DEBUG: true
