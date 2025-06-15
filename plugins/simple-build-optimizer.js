@@ -10,16 +10,6 @@ module.exports = function (context, options) {
     name: 'simple-build-optimizer',
     
     configureWebpack(config, isServer, utils) {
-      // ψ-location: environment optimization
-      if (process.env.CI) {
-        console.log('🌀 Applying CI build optimizations...');
-        
-        // Set environment variables for faster builds
-        process.env.DISABLE_ESLINT_PLUGIN = 'true';
-        process.env.DISABLE_TERSER = 'true';
-        process.env.SKIP_PREFLIGHT_CHECK = 'true';
-      }
-      
       // ψ-location: simple compatible optimizations
       return {
         // Enable simple caching
@@ -27,7 +17,7 @@ module.exports = function (context, options) {
         
         // Basic performance hints
         performance: {
-          hints: false, // Disable size warnings in CI
+          hints: false, // Disable size warnings
         },
         
         // Simplified stats output

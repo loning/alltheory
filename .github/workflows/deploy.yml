@@ -64,16 +64,10 @@ jobs:
       - name: Pre-build collapse
         run: node scripts/pre-build-collapse.js
 
-      # ψ-location: optimized multi-language build
       - name: Build website
         run: |
           export NODE_OPTIONS="--max-old-space-size=8192"
-          export CI=true
           npm run build
-        env:
-          # ψ-collapse: build optimization flags
-          GENERATE_SOURCEMAP: false
-          INLINE_RUNTIME_CHUNK: false
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
