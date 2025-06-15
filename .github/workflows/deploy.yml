@@ -42,6 +42,14 @@ jobs:
           node-version: 18
           cache: npm
 
+      - name: System info
+        run: |
+          echo "=== System Information ==="
+          echo "CPU cores: $(nproc)"
+          echo "Memory: $(free -h)"
+          echo "Disk space: $(df -h)"
+          echo "========================="
+
       - name: Install dependencies
         run: |
           echo "Starting npm install..."
@@ -55,11 +63,28 @@ jobs:
           echo "Pre-build collapse completed"
 
       - name: Build website
+        timeout-minutes: 300  # ψ-location: 5 hour timeout for build step specifically
         run: |
-          echo "Starting build process..."
+          echo "Starting build process at $(date)"
           echo "NODE_OPTIONS: $NODE_OPTIONS"
-          npm run build -- --verbose
-          echo "Build completed"
+          echo "Memory before build: $(free -h | grep Mem)"
+          
+          # Run build with progress monitoring
+          npm run build &
+          BUILD_PID=$!
+          
+          # Monitor build progress
+          while kill -0 $BUILD_PID 2>/dev/null; do
+            echo "Build still running at $(date)..."
+            echo "Memory usage: $(free -h | grep Mem)"
+            sleep 30
+          done
+          
+          wait $BUILD_PID
+          BUILD_EXIT_CODE=$?
+          
+          echo "Build completed at $(date) with exit code: $BUILD_EXIT_CODE"
+          exit $BUILD_EXIT_CODE
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
