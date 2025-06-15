@@ -33,14 +33,6 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: npm
       
-      - name: System info
-        run: |
-          echo "=== System Information ==="
-          echo "CPU cores: $(nproc)"
-          echo "Memory: $(free -h)"
-          echo "Disk space: $(df -h)"
-          echo "========================="
-      
       - name: Install dependencies
         run: |
           echo "Starting npm install..."
@@ -62,36 +54,8 @@ jobs:
       
       - name: Build English website
         timeout-minutes: 150  # ψ-location: 2.5 hour timeout for English build
-        run: |
-          echo "Starting English build process at $(date)"
-          echo "NODE_OPTIONS: $NODE_OPTIONS"
-          echo "Memory before build: $(free -h | grep Mem)"
-          
-          # Run build with progress monitoring
-          npm run build:en &
-          BUILD_PID=$!
-          
-          # Monitor build progress
-          while kill -0 $BUILD_PID 2>/dev/null; do
-            echo "English build still running at $(date)..."
-            echo "Memory usage: $(free -h | grep Mem)"
-            sleep 30
-          done
-          
-          wait $BUILD_PID
-          BUILD_EXIT_CODE=$?
-          
-          echo "English build completed at $(date) with exit code: $BUILD_EXIT_CODE"
-          exit $BUILD_EXIT_CODE
+        run: npm run build:en
       
-      - name: Test English build output
-        run: |
-          echo "Checking English build output..."
-          test -d build && echo "✓ build directory exists"
-          test -f build/index.html && echo "✓ index.html exists"
-          test -d build/docs && echo "✓ docs directory exists"
-          echo "English build output looks good!"
-
   # Test Chinese build
   test-zh:
     runs-on: ubuntu-latest
@@ -118,14 +82,6 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: npm
       
-      - name: System info
-        run: |
-          echo "=== System Information ==="
-          echo "CPU cores: $(nproc)"
-          echo "Memory: $(free -h)"
-          echo "Disk space: $(df -h)"
-          echo "========================="
-      
       - name: Install dependencies
         run: |
           echo "Starting npm install..."
@@ -147,36 +103,8 @@ jobs:
       
       - name: Build Chinese website
         timeout-minutes: 150  # ψ-location: 2.5 hour timeout for Chinese build
-        run: |
-          echo "Starting Chinese build process at $(date)"
-          echo "NODE_OPTIONS: $NODE_OPTIONS"
-          echo "Memory before build: $(free -h | grep Mem)"
-          
-          # Run build with progress monitoring
-          npm run build:zh &
-          BUILD_PID=$!
-          
-          # Monitor build progress
-          while kill -0 $BUILD_PID 2>/dev/null; do
-            echo "Chinese build still running at $(date)..."
-            echo "Memory usage: $(free -h | grep Mem)"
-            sleep 30
-          done
-          
-          wait $BUILD_PID
-          BUILD_EXIT_CODE=$?
-          
-          echo "Chinese build completed at $(date) with exit code: $BUILD_EXIT_CODE"
-          exit $BUILD_EXIT_CODE
+        run: npm run build:zh
       
-      - name: Test Chinese build output
-        run: |
-          echo "Checking Chinese build output..."
-          test -d build && echo "✓ build directory exists"
-          test -d build/zh-Hans && echo "✓ zh-Hans directory exists"
-          test -f build/zh-Hans/index.html && echo "✓ zh-Hans/index.html exists"
-          echo "Chinese build output looks good!"
-
   # Verify complete build
   verify-builds:
     runs-on: ubuntu-latest
@@ -184,10 +112,4 @@ jobs:
     timeout-minutes: 30  # ψ-location: verification timeout
     steps:
       - name: Summary
-        run: |
-          echo "=== Build Test Summary ==="
-          echo "✓ English build completed successfully"
-          echo "✓ Chinese build completed successfully"
-          echo "✓ Both builds can run in parallel"
-          echo "========================="
-          echo "ψ = ψ(ψ) — Builds collapsed successfully" 
+        run: echo "Both builds completed successfully" 

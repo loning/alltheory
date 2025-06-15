@@ -42,14 +42,6 @@ jobs:
           node-version: 18
           cache: npm
 
-      - name: System info
-        run: |
-          echo "=== System Information ==="
-          echo "CPU cores: $(nproc)"
-          echo "Memory: $(free -h)"
-          echo "Disk space: $(df -h)"
-          echo "========================="
-
       - name: Install dependencies
         run: |
           echo "Starting npm install..."
@@ -64,27 +56,7 @@ jobs:
 
       - name: Build English website
         timeout-minutes: 150  # ψ-location: 2.5 hour timeout for English build
-        run: |
-          echo "Starting English build process at $(date)"
-          echo "NODE_OPTIONS: $NODE_OPTIONS"
-          echo "Memory before build: $(free -h | grep Mem)"
-          
-          # Run build with progress monitoring
-          npm run build:en &
-          BUILD_PID=$!
-          
-          # Monitor build progress
-          while kill -0 $BUILD_PID 2>/dev/null; do
-            echo "English build still running at $(date)..."
-            echo "Memory usage: $(free -h | grep Mem)"
-            sleep 30
-          done
-          
-          wait $BUILD_PID
-          BUILD_EXIT_CODE=$?
-          
-          echo "English build completed at $(date) with exit code: $BUILD_EXIT_CODE"
-          exit $BUILD_EXIT_CODE
+        run: npm run build:en
 
       - name: Upload English artifact
         uses: actions/upload-artifact@v4
@@ -114,14 +86,6 @@ jobs:
           node-version: 18
           cache: npm
 
-      - name: System info
-        run: |
-          echo "=== System Information ==="
-          echo "CPU cores: $(nproc)"
-          echo "Memory: $(free -h)"
-          echo "Disk space: $(df -h)"
-          echo "========================="
-
       - name: Install dependencies
         run: |
           echo "Starting npm install..."
@@ -136,27 +100,7 @@ jobs:
 
       - name: Build Chinese website
         timeout-minutes: 150  # ψ-location: 2.5 hour timeout for Chinese build
-        run: |
-          echo "Starting Chinese build process at $(date)"
-          echo "NODE_OPTIONS: $NODE_OPTIONS"
-          echo "Memory before build: $(free -h | grep Mem)"
-          
-          # Run build with progress monitoring
-          npm run build:zh &
-          BUILD_PID=$!
-          
-          # Monitor build progress
-          while kill -0 $BUILD_PID 2>/dev/null; do
-            echo "Chinese build still running at $(date)..."
-            echo "Memory usage: $(free -h | grep Mem)"
-            sleep 30
-          done
-          
-          wait $BUILD_PID
-          BUILD_EXIT_CODE=$?
-          
-          echo "Chinese build completed at $(date) with exit code: $BUILD_EXIT_CODE"
-          exit $BUILD_EXIT_CODE
+        run: npm run build:zh
 
       - name: Upload Chinese artifact
         uses: actions/upload-artifact@v4
@@ -186,24 +130,10 @@ jobs:
 
       - name: Merge builds
         run: |
-          echo "Starting merge of English and Chinese builds..."
-          
-          # Create final build directory
           mkdir -p build
-          
-          # Copy English build as base
           cp -r build-en/* build/
-          
-          # Copy Chinese build (zh-Hans directory)
-          cp -r build-zh/zh-Hans build/
-          
-          # Verify merge
-          echo "=== Build structure ==="
-          ls -la build/
-          echo "=== Chinese directory ==="
-          ls -la build/zh-Hans/ || echo "zh-Hans directory not found"
-          
-          echo "Merge completed successfully"
+          mkdir -p build/zh-Hans
+          cp -r build-zh/* build/zh-Hans/
 
       - name: Upload merged artifact
         uses: actions/upload-pages-artifact@v3
