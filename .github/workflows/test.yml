@@ -58,14 +58,16 @@ jobs:
         run: npm run typecheck
         continue-on-error: true
       
+      # ψ-location: optimized test build
       - name: Build website
         run: |
-          export NODE_OPTIONS="--max-old-space-size=8192 --max-semi-space-size=512"
-          export DOCUSAURUS_FASTER_BUILD=true
-          npm run build -- --no-minify
+          export NODE_OPTIONS="--max-old-space-size=8192"
+          export CI=true
+          npm run build
         env:
-          WEBPACK_CACHE_TYPE: filesystem
-          WEBPACK_CACHE_DIRECTORY: .webpack-cache
+          # ψ-collapse: build optimization flags
+          GENERATE_SOURCEMAP: false
+          INLINE_RUNTIME_CHUNK: false
       
       - name: Test build output
         run: |
