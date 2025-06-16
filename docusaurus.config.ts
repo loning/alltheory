@@ -14,7 +14,7 @@ const config: Config = {
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
-    experimental_faster: true, // Enable all Docusaurus Faster optimizations
+    experimental_faster: false, // Enable all Docusaurus Faster optimizations
   },
 
   // Set the production url of your site here
@@ -96,27 +96,6 @@ const config: Config = {
   plugins: [
     './plugins/katex-warning-suppressor',
     './plugins/simple-build-optimizer',
-    /*
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        // Whether to index docs pages
-        indexDocs: true,
-        // Whether to index blog pages
-        indexBlog: false,
-        // Whether to index static pages
-        indexPages: false,
-        // Language of your documentation, supports "en", "zh", "ja", "ko", "th" and "de"
-        language: ["en", "zh"],
-        // Highlight search terms on target page
-        highlightSearchTermsOnTargetPage: true,
-        // Whether to display search results in a modal
-        searchResultLimits: 8,
-        // Whether to also search in page titles
-        searchResultContextMaxLength: 50,
-      },
-    ],
-    */
   ],
   stylesheets: [
     {
