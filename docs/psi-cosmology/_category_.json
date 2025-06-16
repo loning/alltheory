@@ -1,9 +1,11 @@
 {
   "label": "Ψhē Cosmology",
-  "position": 30,
+  "position": 4,
   "description": "The Universe as Self-Recognizing Process — From Big Bang to Cosmic Consciousness",
   "link": {
     "type": "doc",
     "id": "index"
-  }
+  },
+  "collapsible": true,
+  "collapsed": true
 }

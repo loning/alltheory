@@ -1,9 +1,11 @@
 {
   "label": "Ψhē Popular Guide",
-  "position": 15,
+  "position": 17,
   "description": "A friendly introduction to the philosophy of self-reference — ψ = ψ(ψ)",
   "link": {
     "type": "doc",
     "id": "index"
-  }
+  },
+  "collapsible": true,
+  "collapsed": true
 } 

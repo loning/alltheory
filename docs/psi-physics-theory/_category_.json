@@ -1,9 +1,11 @@
 {
   "label": "Ψhē Physics",
-  "position": 20,
+  "position": 3,
   "description": "The Physical Reality of Self-Reference — From Particles to Cosmic Consciousness",
   "link": {
     "type": "doc",
     "id": "index"
-  }
+  },
+  "collapsible": true,
+  "collapsed": true
 }

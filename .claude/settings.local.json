@@ -26,7 +26,14 @@
       "Bash(rg:*)",
       "Bash(perl:*)",
       "Bash(cp:*)",
-      "Bash(npm start:*)"
+      "Bash(npm start:*)",
+      "Bash(for:*)",
+      "Bash(do if [ ! -f \"/Users/auric/alltheory/docs/$dir/_category_.json\" ])",
+      "Bash(then echo \"$dir - No category file\")",
+      "Bash(else echo \"$dir - Has category file\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(^C)"
     ],
     "deny": []
   }

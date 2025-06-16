@@ -1,9 +1,11 @@
 {
   "label": "Ψhē Only Theory",
-  "position": 3,
+  "position": 7,
   "description": "The unified theory of ψ = ψ(ψ) - 64 chapters of recursive collapse",
   "link": {
     "type": "doc",
     "id": "theonlytheory/index"
-  }
+  },
+  "collapsible": true,
+  "collapsed": true
 } 

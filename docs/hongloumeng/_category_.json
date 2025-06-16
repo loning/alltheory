@@ -1,8 +1,8 @@
 {
   "label": "红楼梦：意识写下自己",
-  "position": 8,
+  "position": 11,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "hongloumeng/index"

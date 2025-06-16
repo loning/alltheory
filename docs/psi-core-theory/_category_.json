@@ -1,9 +1,11 @@
 {
   "label": "Ψhē Self-Being",
-  "position": 10,
+  "position": 2,
   "description": "The Philosophy of Universal Self-Reference — ψ = ψ(ψ)",
   "link": {
     "type": "doc",
     "id": "index"
-  }
+  },
+  "collapsible": true,
+  "collapsed": true
 } 

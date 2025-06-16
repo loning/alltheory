@@ -1,9 +1,9 @@
 {
-  "label": "一识自显",
-  "position": 9,
+  "label": "Ψhē Collapse Theory of Money",
+  "position": 15,
   "link": {
     "type": "doc",
-    "id": "yishi/index"
+    "id": "index"
   },
   "collapsible": true,
   "collapsed": true

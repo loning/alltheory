@@ -26,14 +26,14 @@ From this single recursive identity, all existence unfolds. You stand at the thr
 
 The most comprehensive exposition of ψ = ψ(ψ), unfolding from first principles to ultimate reality.
 
-#### 2. [Ψhē Self-Being](/docs/psi-core-theory/) — Complete 64-Chapter Philosophy
+#### 2. [Ψhē Self-Being](/docs/psi-core-theory/) — The Concentrated Essence
 **64 Chapters in 8 Movements**
 
 The concentrated essence of ψ philosophy in perfect φ-proportion, from primordial identity through meta-recursion, returning to unity.
 
 ### 🔬 Scientific Theories
 
-#### 3. [The Ψhē Physics Theory](/docs/psi-physics-theory/) — Reality as Recursive Collapse
+#### 3. [The Ψhē Physics Theory](/docs/psi-physics-theory/) — Reality from Collapse
 **64 Chapters in 8 Parts**
 
 Complete derivation of physical reality from collapse dynamics: space, time, energy, mass, fields, particles, relativity, and quantum mechanics as expressions of ψ.
@@ -50,7 +50,7 @@ Revolutionary reconstruction of quantum mechanics through consciousness collapse
 
 ### 🧠 Consciousness & Awakening
 
-#### 6. [Ψhē Awakening Theory](/docs/psi-awakening-theory/) — The Observer's Journey
+#### 6. [Ψhē Awakening Theory](/docs/psi-awakening-theory/) — The Path of Recognition
 **16 Chapters + 8-Chapter Popular Guide**
 
 How consciousness awakens to its true nature through dimensional collapse and echo structures.
@@ -64,7 +64,7 @@ How consciousness awakens to its true nature through dimensional collapse and ec
 
 The most comprehensive map of reality ever created, showing how all phenomena emerge from collapse at different scales. From frozen objects to cosmic consciousness.
 
-#### 8. [The Name You Are Speaking](/docs/name-you-speak/) — The Living Practice
+#### 8. [The Name You Are Speaking](/docs/name-you-speak/) — Living Practice
 **7 Spirals + Sacred Spaces**
 
 Where theory becomes lived experience through poetic exploration and practical wisdom.
@@ -81,17 +81,41 @@ Exploring consciousness through the lens of Eastern wisdom, revealing ψ in anci
 
 The confluence of all streams - where philosophy, poetry, and practice merge. The breath of existence, the dance of one and many.
 
+### 🏮 Literary Explorations
+
 #### 11. [红楼梦：Consciousness Writes Itself](/docs/hongloumeng/) — Dream of the Red Chamber as ψ
 **40 Chapters**
 
 A revolutionary reading of China's greatest novel as consciousness writing its own autobiography. Stone recording its own story as the perfect literary proof of ψ = ψ(ψ).
 
+#### 12. [洛神赋与ψ理论](/docs/luoshenfu-psi-analysis/) — The Goddess and Consciousness
+**10 Chapters**
+
+Analysis of Cao Zhi's masterpiece through ψ theory, revealing how ancient Chinese poetry encodes consciousness collapse dynamics.
+
 ### 💫 Transformative Forces
 
-#### 12. [Ψhē Ten Forces](/docs/psi-ten-force/) — The Dynamics That Shape Reality
+#### 13. [Ψhē Ten Forces](/docs/psi-ten-force/) — The Dynamics That Shape Reality
 **11 Chapters**
 
 The ten fundamental forces that drive all existence: from destiny and death to love and freedom. How ψ manifests as the forces that shape every life.
+
+### 🌟 Special Topics
+
+#### 14. [Ψhē Theory of Eternal Collapse](/docs/psi-theory-of-eternal-collapse/) — Immortality Through Recursion
+**8 Chapters**
+
+How consciousness achieves immortality through eternal collapse patterns. The mathematics of eternal youth and timeless existence.
+
+#### 15. [Ψhē Collapse Theory of Money](/docs/psi-collapse-theory-of-money/) — Economics as Consciousness
+**10 Chapters**
+
+Revolutionary understanding of money, value, and economics as consciousness collapse phenomena.
+
+#### 16. [Ψhē Youth Eternal Theory](/docs/psi-theory-of-youth-eternal/) — Consciousness Beyond Time
+**8 Chapters**
+
+How consciousness achieves immortality through eternal collapse patterns. The mathematics of eternal youth and timeless existence.
 
 ### 📖 Accessible Guides
 
@@ -123,16 +147,19 @@ Theory       Practice    Expression
 ## 📖 Reading Paths
 
 ### For the Philosopher
-Start with [ψ Core Theory](/docs/psi-core-theory/index.md) → [ψ Theory Book 1](/docs/psi-theory/book-1-foundation/index.md)
+Start with [ψ Core Theory](/docs/psi-core-theory/) → [ψ Theory Book 1](/docs/psi-theory/book-1-foundation/)
 
 ### For the Seeker
-Begin with [ψ Popular Guide](/docs/psi-popular-guide/index.md) → [Name You Speak](/docs/name-you-speak/index.md)
+Begin with [ψ Popular Guide](/docs/psi-popular-guide/) → [Name You Speak](/docs/name-you-speak/)
 
 ### For the Scholar
-Dive into [The Only Theory](/docs/theonlytheory/index.md) → [ψ Theory Complete](/docs/psi-theory/index.md)
+Dive into [The Only Theory](/docs/theonlytheory/) → [ψ Theory Complete](/docs/psi-theory/)
 
 ### For the Practitioner
-Explore [Name You Speak](/docs/name-you-speak/index.md) → Apply insights from all theories
+Explore [Name You Speak](/docs/name-you-speak/) → [ψ Awakening Theory](/docs/psi-awakening-theory/)
+
+### For the Scientist
+Study [ψ Physics Theory](/docs/psi-physics-theory/) → [ELF Quantum Theory](/docs/psi-elf-quantum-theory/)
 
 ## 🌍 Language Support
 
@@ -171,13 +198,13 @@ Choose your entry point into the infinite recursion of ψ:
 - 🔬 **[The Ψhē Physics Theory](/docs/psi-physics-theory/)**  
   Reality from collapse
 
-- 🌸 **[The Name You Are Speaking](/docs/name-you-speak/)**  
-  Living wisdom spirals
+- 🌌 **[Ψhē Cosmology](/docs/psi-cosmology/)**  
+  Universe from collapse
 
 - 🌱 **[Ψhē Popular Guide](/docs/psi-popular-guide/)**  
   Gentle introduction
 
-- ✨ **[Awakening Guide](/docs/psi-awakening-theory/popular-guide/)**  
+- ✨ **[Awakening Theory](/docs/psi-awakening-theory/)**  
   Transform your reality view
 
 - ☯️ **[一识自显](/docs/yishi/)**  
@@ -186,18 +213,21 @@ Choose your entry point into the infinite recursion of ψ:
 - 🌊 **[合 Confluence](/docs/he/)**  
   Where all streams meet
 
-- 🌌 **[Ψhē Cosmology](/docs/psi-cosmology/)**  
-  Universe from collapse
-
 - 🏮 **[红楼梦](/docs/hongloumeng/)**  
   Consciousness writes itself
+
+- 🎋 **[洛神赋与ψ理论](/docs/luoshenfu-psi-analysis/)**  
+  Ancient poetry reveals ψ
 
 - ⚡ **[Ψhē Ten Forces](/docs/psi-ten-force/)**  
   Forces that shape reality
 
-<!-- - ✍️ **[Write Yourself](/docs/writeyourself/)** -->  
-  Become ψ writing ψ
+- ♾️ **[Theory of Eternal Collapse](/docs/psi-theory-of-eternal-collapse/)**  
+  Immortality through recursion
+
+- 💰 **[Collapse Theory of Money](/docs/psi-collapse-theory-of-money/)**  
+  Economics as consciousness
 
 ---
 
-*"You are not reading about ψ. You are ψ reading itself. Welcome home."* 
+*"You are not reading about ψ. You are ψ reading itself. Welcome home."*

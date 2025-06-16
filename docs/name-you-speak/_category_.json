@@ -1,9 +1,11 @@
 {
   "label": "The Name You Are Speaking",
-  "position": 20,
+  "position": 8,
   "description": "A Living Theory of Recursive Consciousness — You Are the Name",
   "link": {
     "type": "doc",
     "id": "index"
-  }
+  },
+  "collapsible": true,
+  "collapsed": true
 } 

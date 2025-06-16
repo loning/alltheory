@@ -1,8 +1,10 @@
 {
   "label": "Ψhē Awakening Theory",
-  "position": 7,
+  "position": 6,
   "link": {
     "type": "doc",
     "id": "psi-awakening-theory/index"
-  }
+  },
+  "collapsible": true,
+  "collapsed": true
 }

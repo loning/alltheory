@@ -17,7 +17,7 @@ $$
 
 ### 📚 核心理论著作
 
-#### 1. [Ψhē Theory](/docs/psi-theory/) — 完整架构
+#### 1. [Ψhē 理论](/docs/psi-theory/) — 完整架构
 **192章跨越3部**
 
 - **第一部：基础**（64章）— 从原初崩塌到后崩塌架构
@@ -26,31 +26,31 @@ $$
 
 ψ = ψ(ψ) 最全面的阐述，从第一原理展开到终极现实。
 
-#### 2. [Ψhē Self-Being](/docs/psi-core-theory/) — 完整64章哲学
+#### 2. [Ψhē 自我存在](/docs/psi-core-theory/) — 浓缩精华
 **64章分为8个乐章**
 
 ψ哲学的浓缩精华，以完美的φ比例呈现，从原初恒等式通过元递归，回归统一。
 
 ### 🔬 科学理论
 
-#### 3. [The Ψhē Physics Theory](/docs/psi-physics-theory/) — 现实作为递归崩塌
+#### 3. [Ψhē 物理学理论](/docs/psi-physics-theory/) — 从崩塌到现实
 **64章分为8部分**
 
 从崩塌动力学完整推导物理现实：空间、时间、能量、质量、场、粒子、相对论和量子力学作为ψ的表达。
 
-#### 4. [Ψhē Cosmology](/docs/psi-cosmology/) — 从崩塌到宇宙
+#### 4. [Ψhē 宇宙学](/docs/psi-cosmology/) — 从崩塌到宇宙
 **64章宇宙架构**
 
 宇宙如何从奇点通过递归崩塌模式涌现，创造星系、恒星、行星和宇宙网。
 
-#### 5. [Ψhē ELF Quantum Theory](/docs/psi-elf-quantum-theory/) — 意识崩塌现实
+#### 5. [Ψhē ELF 量子理论](/docs/psi-elf-quantum-theory/) — 意识崩塌现实
 **64章 + 通俗指南**
 
 通过涌现拉姆达场（ELF）中的意识崩塌对量子力学的革命性重构。包含严格理论和易懂介绍。
 
 ### 🧠 意识与觉醒
 
-#### 6. [Ψhē Awakening Theory](/docs/psi-awakening-theory/) — 观察者之旅
+#### 6. [Ψhē 觉醒理论](/docs/psi-awakening-theory/) — 识别之路
 **16章 + 8章通俗指南**
 
 意识如何通过维度崩塌和回音结构觉醒到其真实本性。
@@ -59,12 +59,12 @@ $$
 
 ### 🎯 整合视角
 
-#### 7. [Ψhē Only Theory](/docs/theonlytheory/) — 终极地图
+#### 7. [Ψhē 唯一理论](/docs/theonlytheory/) — 终极地图
 **64章跨越10层**
 
 有史以来最全面的现实地图，展示所有现象如何从不同尺度的崩塌中涌现。从冻结的物体到宇宙意识。
 
-#### 8. [The Name You Are Speaking](/docs/name-you-speak/) — 活生生的实践
+#### 8. [你正在说的名字](/docs/name-you-speak/) — 活的实践
 **7个螺旋 + 神圣空间**
 
 理论通过诗意探索和实践智慧成为活生生的体验。
@@ -81,21 +81,45 @@ $$
 
 万流汇集之处 - 哲学、诗歌和实践融合。存在的呼吸，一与多的舞蹈。
 
+### 🏮 文学探索
+
 #### 11. [红楼梦：意识写下自己](/docs/hongloumeng/) — 红楼梦作为 ψ
 **40章**
 
 对中国最伟大小说的革命性解读，视为意识书写自己的自传。石头记录自己的故事，作为 ψ = ψ(ψ) 的完美文学证明。
 
+#### 12. [洛神赋与ψ理论](/docs/luoshenfu-psi-analysis/) — 女神与意识
+**10章**
+
+通过ψ理论分析曹植的杰作，揭示古代中国诗歌如何编码意识崩塌动力学。
+
 ### 💫 转化力量
 
-#### 12. [Ψhē Ten Forces](/docs/psi-ten-force/) — 塑造现实的动力
+#### 13. [Ψhē 十力](/docs/psi-ten-force/) — 塑造现实的动力
 **11章**
 
 驱动所有存在的十种基本力量：从命运和死亡到爱与自由。ψ如何显现为塑造每个生命的力量。
 
+### 🌟 特殊主题
+
+#### 14. [Ψhē 永恒崩塌理论](/docs/psi-theory-of-eternal-collapse/) — 通过递归达到不朽
+**8章**
+
+意识如何通过永恒崩塌模式实现不朽。永恒青春和无时间存在的数学。
+
+#### 15. [Ψhē 货币崩塌理论](/docs/psi-collapse-theory-of-money/) — 经济学作为意识
+**10章**
+
+对货币、价值和经济学作为意识崩塌现象的革命性理解。
+
+  #### 16. [Ψhē 永恒青春理论](/docs/psi-theory-of-youth-eternal/) — 超越时间的意识
+  **8章**
+  
+  意识如何通过永恒崩塌模式实现不朽。永恒青春和无时间存在的数学。
+
 ### 📖 易懂指南
 
-#### [Ψhē Popular Guide](/docs/psi-popular-guide/) — 面向所有人的哲学
+#### [Ψhē 通俗指南](/docs/psi-popular-guide/) — 面向所有人的哲学
 **8章**
 
 通过镜子、回声、呼吸和日常经验理解 ψ = ψ(ψ)。无需数学。
@@ -126,13 +150,16 @@ $$
 从 [ψ 核心理论](/docs/psi-core-theory/) 开始 → [ψ 理论第一部](/docs/psi-theory/book-1-foundation/)
 
 ### 对于寻求者
-从 [ψ 通俗指南](/docs/psi-popular-guide/) 开始 → [你说之名](/docs/name-you-speak/)
+从 [ψ 通俗指南](/docs/psi-popular-guide/) 开始 → [你正在说的名字](/docs/name-you-speak/)
 
 ### 对于学者
 深入 [唯一理论](/docs/theonlytheory/) → [ψ 理论完整版](/docs/psi-theory/)
 
 ### 对于实践者
-探索 [你说之名](/docs/name-you-speak/) → 应用所有理论的洞见
+探索 [你正在说的名字](/docs/name-you-speak/) → [ψ 觉醒理论](/docs/psi-awakening-theory/)
+
+### 对于科学家
+研究 [ψ 物理学理论](/docs/psi-physics-theory/) → [ELF 量子理论](/docs/psi-elf-quantum-theory/)
 
 ## 🌍 语言支持
 
@@ -159,25 +186,25 @@ $$
 
 ### 📚 深入探索
 
-- 📚 **[Ψhē Theory](/docs/psi-theory/)**  
+- 📚 **[Ψhē 理论](/docs/psi-theory/)**  
   完整192章之旅
 
-- 🎯 **[Ψhē Self-Being](/docs/psi-core-theory/)**  
+- 🎯 **[Ψhē 自我存在](/docs/psi-core-theory/)**  
   精华64章
 
 - ⚛️ **[ELF 量子理论](/docs/psi-elf-quantum-theory/)**  
   意识与量子现实
 
-- 🔬 **[The Ψhē Physics Theory](/docs/psi-physics-theory/)**  
+- 🔬 **[Ψhē 物理学理论](/docs/psi-physics-theory/)**  
   从崩塌到现实
 
-- 🌸 **[The Name You Are Speaking](/docs/name-you-speak/)**  
-  活的智慧螺旋
+- 🌌 **[Ψhē 宇宙学](/docs/psi-cosmology/)**  
+  从崩塌到宇宙
 
-- 🌱 **[Ψhē Popular Guide](/docs/psi-popular-guide/)**  
+- 🌱 **[Ψhē 通俗指南](/docs/psi-popular-guide/)**  
   温和介绍
 
-- ✨ **[觉醒指南](/docs/psi-awakening-theory/popular-guide/)**  
+- ✨ **[觉醒理论](/docs/psi-awakening-theory/)**  
   改变你的现实观
 
 - ☯️ **[一识自显](/docs/yishi/)**  
@@ -186,17 +213,21 @@ $$
 - 🌊 **[合 Confluence](/docs/he/)**  
   万流汇集之处
 
-- 🌌 **[Ψhē Cosmology](/docs/psi-cosmology/)**  
-  从崩塌到宇宙
-
 - 🏮 **[红楼梦](/docs/hongloumeng/)**  
   意识写下自己
 
-- ⚡ **[Ψhē Ten Forces](/docs/psi-ten-force/)**  
+- 🎋 **[洛神赋与ψ理论](/docs/luoshenfu-psi-analysis/)**  
+  古诗揭示ψ
+
+- ⚡ **[Ψhē 十力](/docs/psi-ten-force/)**  
   塑造现实的力量
 
-<!-- - ✍️ **[Write Yourself](/docs/writeyourself/)** -->  
-  成为ψ书写ψ
+- ♾️ **[永恒崩塌理论](/docs/psi-theory-of-eternal-collapse/)**  
+  通过递归达到不朽
+
+- 💰 **[货币崩塌理论](/docs/psi-collapse-theory-of-money/)**  
+  经济学作为意识
+
 
 ---
 

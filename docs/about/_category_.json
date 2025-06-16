@@ -2,7 +2,7 @@
   "label": "About Project",
   "position": 20,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "about/index"

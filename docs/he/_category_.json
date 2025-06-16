@@ -1,9 +1,9 @@
 {
-  "label": "一识自显",
-  "position": 9,
+  "label": "合 Confluence",
+  "position": 10,
   "link": {
     "type": "doc",
-    "id": "yishi/index"
+    "id": "index"
   },
   "collapsible": true,
   "collapsed": true
