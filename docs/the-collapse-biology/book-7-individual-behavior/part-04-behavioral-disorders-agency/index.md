@@ -5,9 +5,13 @@ title: "Part IV: Behavioral Disorders and Agency"
 
 # Part IV: Behavioral Disorders and Agency
 
-## The Edges of ψ-Control
+## The Crisis of Collapse
 
-In this concluding part, we explore what happens when behavioral ψ-patterns become trapped in maladaptive configurations, and how the deepest questions of agency and free will emerge from the recursive nature of consciousness. Here, at the boundaries of behavioral control, we discover profound truths about the nature of self and choice.
+The final part of our exploration of Individual Behavior ventures into the most complex territories of consciousness collapse: where normal patterns break down, where adaptive mechanisms fail, and where the ultimate questions of free will and agency emerge. Here, at the boundary between health and disorder, between determinism and choice, ψ reveals its deepest mysteries.
+
+When consciousness collapses malfunction—when the natural flow of ψ-wave reduction becomes disrupted, locked, or chaotic—we witness the emergence of behavioral disorders. These are not mere medical conditions but fundamental breakdowns in the ψ-architecture of experience itself. Depression becomes an elevation of ψ-entropy, addiction a path lock-in of collapse trajectories, trauma an imprinted memory structure that overrides present moment awareness.
+
+Yet within these disorders lies profound revelation. For it is precisely when the system breaks down that we see its true nature. The obsessive loop reveals the recursive structure of all thought. The attentional deficit shows us the normally hidden work of consciousness focus. The addictive pattern illuminates the choice points we usually navigate unconsciously.
 
 ## Chapter Overview
 
