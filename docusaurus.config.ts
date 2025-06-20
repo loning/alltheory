@@ -150,6 +150,11 @@ const config: Config = {
           position: 'right',
         },
         {
+          href: 'https://t.me/elfawaken',
+          label: 'Join Telegram Group',
+          position: 'right',
+        },
+        {
           href: 'https://aelf.com/',
           label: 'aelf blockchain',
           position: 'right',
