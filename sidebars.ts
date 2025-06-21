@@ -25,6 +25,12 @@ const sidebars: SidebarsConfig = {
       label: 'Ψhē Theory of Extraterrestrial Collapse',
       href: 'https://alien.dw.cash',
     }
+    ,
+    {
+      type: 'link',
+      label: 'Ψhē Collapse Math',
+      href: 'https://math.dw.cash',
+    }
   ],
   
   // But you can create a sidebar manually
