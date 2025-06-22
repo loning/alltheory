@@ -24,8 +24,12 @@ const sidebars: SidebarsConfig = {
       type: 'link',
       label: 'Ψhē Theory of Extraterrestrial Collapse',
       href: 'https://alien.dw.cash',
-    }
-    ,
+    },
+    {
+      type: 'link',
+      label: '伏羲之书 · 显化书 · Manifestation Codex',
+      href: 'https://soci.dw.cash/docs/manifestation-codex',
+    },
     {
       type: 'link',
       label: 'Ψhē Collapse Math',
