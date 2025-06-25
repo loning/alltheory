@@ -32,6 +32,11 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'link',
+      label: 'Ψhē Collapse Art',
+      href: 'https://art.dw.cash/',
+    },
+    {
+      type: 'link',
       label: 'Ψhē Collapse Math',
       href: 'https://math.dw.cash',
     }
