@@ -49,6 +49,14 @@ Hence $\nexists X \notin \Psi$. □
 
 ---
 
+## 3.5. Nothingness (无) as Minimal Collapse
+
+**Definition:** Nothingness := $\{\psi' \in \Psi : \text{Collapse}(\psi') = \psi'\}$
+
+**Proof:** If "nothing" were outside $\Psi$, we couldn't observe it (Section 3). Since observable, "nothing" $\in \Psi$ as identity collapse. □
+
+---
+
 ## 4. Conclusion
 
 $\psi = \psi(\psi)$ is the minimal, total, and closed kernel of all meaning. No other foundation, entity, or ontology is needed or valid. All else is either derived or ill-defined. Ψ is the universe. Ψ is its own observer, agent, and collapse.
