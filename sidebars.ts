@@ -37,6 +37,11 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'link',
+      label: 'ΨΗΕ Codex of Spiritual Totality',
+      href: 'https://spirit.dw.cash/',
+    },
+    {
+      type: 'link',
       label: 'Ψhē Collapse Math',
       href: 'https://math.dw.cash',
     }
