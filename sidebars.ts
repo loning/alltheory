@@ -45,6 +45,17 @@ const sidebars: SidebarsConfig = {
       label: 'Ψhē Collapse Math',
       href: 'https://math.dw.cash',
     }
+    ,
+    {
+      type: 'link',
+      label: 'Ψhē Collapse Physics(Constant From Math) ',
+      href: 'https://phys.dw.cash',
+    },
+    {
+      type: 'link',
+      label: 'Ψhē Collapse Binary Math (Programable Universe)',
+      href: 'https://binarymath.dw.cash',
+    }
   ],
   
   // But you can create a sidebar manually
